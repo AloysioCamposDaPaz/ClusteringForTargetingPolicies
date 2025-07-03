@@ -1,2 +1,8 @@
 ipykernel
 python-dotenv
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+seaborn

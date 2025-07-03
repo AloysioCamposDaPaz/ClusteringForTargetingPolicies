@@ -1,0 +1,321 @@
+YEAR,ORG_NAME,EMISSIONS NET IMPORTS (TCO2e)
+2016,Abbotsford,356917
+2016,Alert Bay,408
+2016,Anmore,4551
+2016,Armstrong,10115
+2016,Ashcroft,12333
+2016,Barriere,870
+2016,Belcarra,1324
+2016,Bowen Island,2759
+2016,Burnaby,551958
+2016,Burns Lake,6375
+2016,Cache Creek,2961
+2016,Campbell River,58116
+2016,Canal Flats,404
+2016,Castlegar,140581
+2016,Central Saanich,16010
+2016,Chase,5032
+2016,Chetwynd,21287
+2016,Chilliwack,185014
+2016,Clearwater,1541
+2016,Clinton,2033
+2016,Coldstream,58183
+2016,Colwood,13904
+2016,Comox,15931
+2016,Coquitlam,244233
+2016,Courtenay,30181
+2016,Cranbrook,55439
+2016,Creston,17333
+2016,Cumberland,4458
+2016,Dawson Creek,61385
+2016,Delta,571857
+2016,Duncan,14314
+2016,Elkford,162893
+2016,Enderby,6581
+2016,Esquimalt,23756
+2016,Fernie,27803
+2016,Fort St. James,21198
+2016,Fort St. John,69251
+2016,Fraser Lake,2316
+2016,Fruitvale,5013
+2016,Gibsons,91072
+2016,Gold River,889
+2016,Golden,2069
+2016,Grand Forks,27589
+2016,Granisle,316
+2016,Greenwood,8708
+2016,Harrison Hot Springs,5039
+2016,Hazelton,229
+2016,Highlands,1189
+2016,Hope,12631
+2016,Houston,21268
+2016,Hudson's Hope,2826
+2016,Invermere,2298
+2016,Kamloops,365398
+2016,Kaslo,645
+2016,Kelowna,261101
+2016,Kent,12481
+2016,Keremeos,2945
+2016,Kimberley,62233
+2016,Kitimat,82550
+2016,Ladysmith,14511
+2016,Lake Country,20749
+2016,Lake Cowichan,1443
+2016,Langford,28053
+2016,Langley City,67527
+2016,Langley Township,301001
+2016,Lantzville,2799
+2016,Lillooet,807
+2016,Lions Bay,469
+2016,Logan Lake,17928
+2016,Lumby,9199
+2016,Lytton,174
+2016,Mackenzie,127612
+2016,Maple Ridge,136632
+2016,Masset,512
+2016,McBride,495
+2016,Merritt,38358
+2016,Metchosin,3105
+2016,Midway,1214
+2016,Mission,63065
+2016,Montrose,1336
+2016,Nakusp,648
+2016,Nanaimo,230097
+2016,Nelson,27256
+2016,New Denver,340
+2016,New Hazelton,352
+2016,New Westminster,135798
+2016,North Cowichan,144157
+2016,North Saanich,11315
+2016,North Vancouver City,33524
+2016,North Vancouver District,241321
+2016,Oak Bay,24467
+2016,Oliver,12993
+2016,One Hundred Mile House,9326
+2016,Osoyoos,6882
+2016,Parksville,19629
+2016,Peachland,9453
+2016,Pemberton,719
+2016,Penticton,67024
+2016,Pitt Meadows,42808
+2016,Port Alberni,48310
+2016,Port Alice,709
+2016,Port Clements,125
+2016,Port Coquitlam,110524
+2016,Port Edward,658
+2016,Port Hardy,2740
+2016,Port McNeill,1196
+2016,Port Moody,73663
+2016,Pouce Coupe,2631
+2016,Powell River,83914
+2016,Prince George,571096
+2016,Prince Rupert,29617
+2016,Princeton,30269
+2016,Qualicum Beach,11558
+2016,Queen Charlotte,488
+2016,Quesnel,194451
+2016,Radium Hot Springs,1209
+2016,Revelstoke,15178
+2016,Richmond,529820
+2016,Rossland,7347
+2016,Saanich,95734
+2016,Salmo,1844
+2016,Salmon Arm,25627
+2016,Sayward,211
+2016,Sechelt,14103
+2016,Sechelt IGD,632
+2016,Sicamous,1554
+2016,Sidney,10636
+2016,Silverton,139
+2016,Slocan,213
+2016,Smithers,16058
+2016,Sooke,6697
+2016,Spallumcheen,22961
+2016,Sparwood,156119
+2016,Squamish,25250
+2016,Stewart,315
+2016,Summerland,20127
+2016,Sun Peaks Mountain Resort,5566
+2016,Surrey,804665
+2016,Tahsis,516
+2016,Taylor,3734
+2016,Telkwa,1664
+2016,Terrace,26042
+2016,Tofino,679
+2016,Trail,93973
+2016,Tumbler Ridge,36684
+2016,Ucluelet,861
+2016,Valemount,847
+2016,Vancouver,1372383
+2016,Vanderhoof,10687
+2016,Vernon,94190
+2016,Victoria,140449
+2016,View Royal,12756
+2016,Warfield,2769
+2016,Wells,170
+2016,West Kelowna,90410
+2016,West Vancouver,121354
+2016,Whistler,46868
+2016,White Rock,37223
+2016,Williams Lake,65270
+2016,Zeballos,158
+2021,Abbotsford,438694
+2021,Alert Bay,307
+2021,Anmore,5681
+2021,Armstrong,11939
+2021,Ashcroft,11471
+2021,Barriere,890
+2021,Belcarra,1666
+2021,Bowen Island,2697
+2021,Burnaby,566692
+2021,Burns Lake,23174
+2021,Cache Creek,3021
+2021,Campbell River,278020
+2021,Canal Flats,561
+2021,Castlegar,131579
+2021,Central Saanich,19195
+2021,Chase,5274
+2021,Chetwynd,21529
+2021,Chilliwack,244483
+2021,Clearwater,1245
+2021,Clinton,1556
+2021,Coldstream,68518
+2021,Colwood,16417
+2021,Comox,23447
+2021,Coquitlam,271127
+2021,Courtenay,34646
+2021,Cranbrook,59896
+2021,Creston,18575
+2021,Cumberland,6132
+2021,Dawson Creek,67733
+2021,Delta,745152
+2021,Duncan,16766
+2021,Elkford,209458
+2021,Enderby,6659
+2021,Esquimalt,25323
+2021,Fernie,25657
+2021,Fort St. James,4450
+2021,Fort St. John,74956
+2021,Fraser Lake,2316
+2021,Fruitvale,6145
+2021,Gibsons,94022
+2021,Gold River,610
+2021,Golden,2034
+2021,Grand Forks,29346
+2021,Granisle,587
+2021,Greenwood,5208
+2021,Harrison Hot Springs,4993
+2021,Hazelton,161
+2021,Highlands,1329
+2021,Hope,14760
+2021,Houston,14634
+2021,Hudson's Hope,3292
+2021,Invermere,2133
+2021,Kamloops,363381
+2021,Kaslo,708
+2021,Kelowna,311944
+2021,Kent,14789
+2021,Keremeos,3550
+2021,Kimberley,79383
+2021,Kitimat,75240
+2021,Ladysmith,17708
+2021,Lake Country,26159
+2021,Lake Cowichan,1263
+2021,Langford,43697
+2021,Langley City,82173
+2021,Langley Township,348580
+2021,Lantzville,3168
+2021,Lillooet,806
+2021,Lions Bay,484
+2021,Logan Lake,19343
+2021,Lumby,10578
+2021,Lytton,165
+2021,Mackenzie,30280
+2021,Maple Ridge,152555
+2021,Masset,474
+2021,McBride,449
+2021,Merritt,26128
+2021,Metchosin,3093
+2021,Midway,1228
+2021,Mission,73419
+2021,Montrose,1480
+2021,Nakusp,613
+2021,Nanaimo,245297
+2021,Nelson,30648
+2021,New Denver,311
+2021,New Hazelton,368
+2021,New Westminster,146692
+2021,North Cowichan,198484
+2021,North Saanich,13063
+2021,North Vancouver City,38199
+2021,North Vancouver District,270084
+2021,Oak Bay,26771
+2021,Oliver,15447
+2021,One Hundred Mile House,10168
+2021,Osoyoos,7991
+2021,Parksville,22599
+2021,Peachland,11177
+2021,Pemberton,685
+2021,Penticton,79225
+2021,Pitt Meadows,45241
+2021,Port Alberni,58699
+2021,Port Alice,911
+2021,Port Clements,157
+2021,Port Coquitlam,118471
+2021,Port Edward,913
+2021,Port Hardy,2171
+2021,Port McNeill,1265
+2021,Port Moody,67729
+2021,Pouce Coupe,2477
+2021,Powell River,117741
+2021,Prince George,736174
+2021,Prince Rupert,30396
+2021,Princeton,25892
+2021,Qualicum Beach,12645
+2021,Queen Charlotte,459
+2021,Quesnel,232930
+2021,Radium Hot Springs,1551
+2021,Revelstoke,20003
+2021,Richmond,598034
+2021,Rossland,9304
+2021,Saanich,106344
+2021,Salmo,2248
+2021,Salmon Arm,30785
+2021,Sayward,190
+2021,Sechelt,17955
+2021,Sechelt IGD,842
+2021,Sicamous,1155
+2021,Sidney,11587
+2021,Silverton,107
+2021,Slocan,223
+2021,Smithers,30560
+2021,Sooke,7455
+2021,Spallumcheen,25604
+2021,Sparwood,131166
+2021,Squamish,30886
+2021,Stewart,349
+2021,Summerland,25886
+2021,Sun Peaks Mountain Resort,6517
+2021,Surrey,962390
+2021,Tahsis,430
+2021,Taylor,8932
+2021,Telkwa,459
+2021,Terrace,41408
+2021,Tofino,434
+2021,Trail,103479
+2021,Tumbler Ridge,34084
+2021,Ucluelet,611
+2021,Valemount,734
+2021,Vancouver,1444196
+2021,Vanderhoof,11030
+2021,Vernon,106926
+2021,Victoria,148639
+2021,View Royal,16455
+2021,Warfield,3222
+2021,Wells,180
+2021,West Kelowna,105164
+2021,West Vancouver,138130
+2021,Whistler,54439
+2021,White Rock,41195
+2021,Williams Lake,88586
+2021,Zeballos,145
