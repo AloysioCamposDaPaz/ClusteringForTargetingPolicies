@@ -1,4 +1,4 @@
-Community_Name,Feature_Type,Datum,Latitude,Longitude
+Municipality_Name,Feature_Type,Datum,Latitude,Longitude
 Abbotsford,City,WGS84,49.0522222179353,-122.329166666667
 Alert Bay,Village (1),WGS84,50.5838888850092,-126.927777777778
 Anmore,Village (1),WGS84,49.314444440231,-122.856388888889
@@ -85,6 +85,7 @@ New Hazelton,District Municipality (1),WGS84,55.2433333303973,-127.586944444444
 New Westminster,City,WGS84,49.2066666624232,-122.910555555556
 North Cowichan,District Municipality (1),WGS84,48.8247222178703,-123.719722222222
 North Saanich,District Municipality (1),WGS84,48.6563888844881,-123.432222222222
+Northern Rockies Regional Municipality,District Municipality (1),WGS84,58.8038888864351,-122.706666666667
 Oak Bay,District Municipality (1),WGS84,48.4258333288646,-123.318055555556
 Oliver,Town,WGS84,49.1824999957498,-119.550833333333
 Osoyoos,Town,WGS84,49.0324999957075,-119.468333333333
@@ -159,3 +160,4 @@ Sun Peaks Mountain Resort,Mountain Resort Municipality,WGS84,50.8844444406387,-1
 West Kelowna,City,WGS84,49.8299999959264,-119.628611111111
 Queen Charlotte,Post Office,WGS84,53.2538775271079,-132.0864178973
 Sechelt IGD,Indian Government District,WGS84,49.4789596576011,-123.742984835671
+Northern Rockies,District Municipality (1),WGS84,58.8038888864351,-122.706666666667

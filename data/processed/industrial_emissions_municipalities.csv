@@ -26,6 +26,7 @@ Reporting Year,AA_NAME,Total municipal large industrial emissions (tCO2e)
 2012.0,Taylor,124696.48999999999
 2012.0,Tumbler Ridge,181910.76
 2012.0,Vanderhoof,7861.19
+2012.0,Northern Rockies,3650577.64
 2012.0,Dawson Creek,202307.03
 2012.0,Victoria,7853.7
 2012.0,Coldstream,17267.25
@@ -65,6 +66,7 @@ Reporting Year,AA_NAME,Total municipal large industrial emissions (tCO2e)
 2013.0,Taylor,162320.87
 2013.0,Tumbler Ridge,145176.49
 2013.0,Vanderhoof,7065.66
+2013.0,Northern Rockies,4182084.46
 2013.0,Dawson Creek,1194358.0
 2013.0,Coldstream,17306.48
 2013.0,North Cowichan,1472443.63
@@ -103,6 +105,7 @@ Reporting Year,AA_NAME,Total municipal large industrial emissions (tCO2e)
 2014.0,Taylor,166004.36
 2014.0,Tumbler Ridge,70953.74
 2014.0,Vanderhoof,6996.02
+2014.0,Northern Rockies,4822774.76
 2014.0,Dawson Creek,1535222.42
 2014.0,Coldstream,16933.57
 2014.0,North Cowichan,1567813.33
@@ -140,6 +143,7 @@ Reporting Year,AA_NAME,Total municipal large industrial emissions (tCO2e)
 2015.0,Sparwood,1058740.1500000001
 2015.0,Taylor,190929.65
 2015.0,Tumbler Ridge,64908.619999999995
+2015.0,Northern Rockies,4128845.63
 2015.0,Dawson Creek,1644106.75
 2015.0,Coldstream,16852.68
 2015.0,North Cowichan,1608680.24
@@ -180,6 +184,7 @@ Reporting Year,AA_NAME,Total municipal large industrial emissions (tCO2e)
 2016.0,Sparwood,1222096.6500000001
 2016.0,Taylor,963037.23
 2016.0,Tumbler Ridge,31111.7
+2016.0,Northern Rockies,3289030.0
 2016.0,Dawson Creek,1295565.76
 2016.0,Victoria,2592.96
 2016.0,Coldstream,18224.11
@@ -222,6 +227,7 @@ Reporting Year,AA_NAME,Total municipal large industrial emissions (tCO2e)
 2017.0,Sparwood,1293852.99
 2017.0,Taylor,928928.02
 2017.0,Tumbler Ridge,371999.28
+2017.0,Northern Rockies,2880024.36
 2017.0,Dawson Creek,1546299.6400000001
 2017.0,Victoria,3084.84
 2017.0,Coldstream,47734.58
@@ -267,6 +273,7 @@ Reporting Year,AA_NAME,Total municipal large industrial emissions (tCO2e)
 2018.0,Sparwood,1311104.65
 2018.0,Taylor,1098241.47
 2018.0,Tumbler Ridge,134794.73
+2018.0,Northern Rockies,2326180.66
 2018.0,Dawson Creek,1711493.42
 2018.0,Coldstream,57618.09
 2018.0,North Cowichan,1673331.91
@@ -314,6 +321,7 @@ Reporting Year,AA_NAME,Total municipal large industrial emissions (tCO2e)
 2019.0,Sparwood,1510149.97
 2019.0,Taylor,977217.24
 2019.0,Tumbler Ridge,139811.67
+2019.0,Northern Rockies,2006587.68
 2019.0,Dawson Creek,1487695.8399999999
 2019.0,Coldstream,59555.17
 2019.0,North Cowichan,1616292.99
@@ -362,6 +370,7 @@ Reporting Year,AA_NAME,Total municipal large industrial emissions (tCO2e)
 2020.0,Sparwood,1298591.85
 2020.0,Taylor,973900.77
 2020.0,Tumbler Ridge,149337.28
+2020.0,Northern Rockies,2003096.62
 2020.0,Dawson Creek,1197021.83
 2020.0,Coldstream,57366.92
 2020.0,North Cowichan,1371563.05
@@ -410,6 +419,7 @@ Reporting Year,AA_NAME,Total municipal large industrial emissions (tCO2e)
 2021.0,Sparwood,1413031.6600000001
 2021.0,Taylor,1081609.55
 2021.0,Tumbler Ridge,136692.79
+2021.0,Northern Rockies,1773559.72
 2021.0,Dawson Creek,1059481.7799999998
 2021.0,Coldstream,49247.54
 2021.0,North Cowichan,1434869.6400000001
@@ -458,6 +468,7 @@ Reporting Year,AA_NAME,Total municipal large industrial emissions (tCO2e)
 2022.0,Sparwood,1332310.2
 2022.0,Taylor,1092760.1099999999
 2022.0,Tumbler Ridge,184323.1
+2022.0,Northern Rockies,1791029.62
 2022.0,Dawson Creek,1052918.21
 2022.0,Coldstream,49752.729999999996
 2022.0,North Cowichan,1436563.5699999998
@@ -505,6 +516,7 @@ Reporting Year,AA_NAME,Total municipal large industrial emissions (tCO2e)
 2023.0,Sparwood,1432009.08
 2023.0,Taylor,811791.29
 2023.0,Tumbler Ridge,204923.8
+2023.0,Northern Rockies,1575980.55
 2023.0,Dawson Creek,998706.1199999999
 2023.0,Coldstream,42109.4
 2023.0,North Cowichan,1057838.94
