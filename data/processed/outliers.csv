@@ -1,0 +1,227 @@
+YEAR,ORG_NAME,SOURCE,ENERGY_TYPE,SUB_SECTOR,GROUP_KEY,ISSUE_TYPE,CONSUMPTION,CONNECTIONS,YOY_CHANGE,Z_SCORE,MEAN_CHANGE,STD_CHANGE,EXPECTED_RANGE,DROP_PCT,RECOVERY_PCT,PREV_CONNECTIONS,CHANGE_RATIO,SPIKE_PCT
+2021,Burnaby,BC Hydro,ELEC,Res,Burnaby|BC Hydro|ELEC|Res,Z_SCORE_YOY_CHANGE,868325539.9,100319.0,28.4%,3.10,3.0%,8.2%,,,,,,
+2021,North Vancouver City,BC Hydro,ELEC,Res,North Vancouver City|BC Hydro|ELEC|Res,Z_SCORE_YOY_CHANGE,188201984.3,27810.0,20.7%,3.04,1.9%,6.2%,,,,,,
+2020,Port Alberni,BC Hydro,ELEC,Res,Port Alberni|BC Hydro|ELEC|Res,V_SHAPED_DIP,772207.0851,7.0,,,,,92846389 - 102879732,99.2%,13222.8%,,,
+2021,Port Alberni,BC Hydro,ELEC,Res,Port Alberni|BC Hydro|ELEC|Res,Z_SCORE_YOY_CHANGE,102879731.7,8904.0,13222.8%,3.32,1092.9%,3657.4%,,,,,,
+2020,Port Alberni,BC Hydro,ELEC,Res,Port Alberni|BC Hydro|ELEC|Res,CONNECTION_ANOMALY,772207.0851,7.0,,,,,,,,8563.0,0.00x,
+2021,Port Alberni,BC Hydro,ELEC,Res,Port Alberni|BC Hydro|ELEC|Res,CONNECTION_ANOMALY,102879731.7,8904.0,,,,,,,,7.0,1272.00x,
+2007,Powell River,BC Hydro,ELEC,Res,Powell River|BC Hydro|ELEC|Res,V_SHAPED_DIP,68918070.01,6120.0,,,,,115487230 - 113939102,40.3%,65.3%,,,
+2010,Powell River,BC Hydro,ELEC,Res,Powell River|BC Hydro|ELEC|Res,INVERTED_V_SPIKE,113939102.3,9707.0,,,,,68918070 - 67359956,40.9%,,,,65.3%
+2010,Powell River,BC Hydro,ELEC,Res,Powell River|BC Hydro|ELEC|Res,V_SHAPED_DIP,67359956.31,6241.0,,,,,113939102 - 114726795,40.9%,70.3%,,,
+2012,Powell River,BC Hydro,ELEC,Res,Powell River|BC Hydro|ELEC|Res,INVERTED_V_SPIKE,114726794.8,9798.0,,,,,67359956 - 67534640,41.1%,,,,70.3%
+2012,Powell River,BC Hydro,ELEC,Res,Powell River|BC Hydro|ELEC|Res,V_SHAPED_DIP,67534639.77,6275.0,,,,,114726795 - 113319771,41.1%,67.8%,,,
+2013,Powell River,BC Hydro,ELEC,Res,Powell River|BC Hydro|ELEC|Res,INVERTED_V_SPIKE,113319770.7,9831.0,,,,,67534640 - 66012003,41.7%,,,,67.8%
+2013,Powell River,BC Hydro,ELEC,Res,Powell River|BC Hydro|ELEC|Res,V_SHAPED_DIP,66012003.1,6290.0,,,,,113319771 - 110062552,41.7%,66.7%,,,
+2014,Powell River,BC Hydro,ELEC,Res,Powell River|BC Hydro|ELEC|Res,INVERTED_V_SPIKE,110062552.5,9859.0,,,,,66012003 - 64524142,41.4%,,,,66.7%
+2014,Powell River,BC Hydro,ELEC,Res,Powell River|BC Hydro|ELEC|Res,V_SHAPED_DIP,64524142.2,6311.0,,,,,110062552 - 106255905,41.4%,64.7%,,,
+2015,Powell River,BC Hydro,ELEC,Res,Powell River|BC Hydro|ELEC|Res,INVERTED_V_SPIKE,106255905.0,9900.0,,,,,64524142 - 61773119,41.9%,,,,64.7%
+2015,Powell River,BC Hydro,ELEC,Res,Powell River|BC Hydro|ELEC|Res,V_SHAPED_DIP,61773119.05,6333.0,,,,,106255905 - 108828499,41.9%,76.2%,,,
+2016,Powell River,BC Hydro,ELEC,Res,Powell River|BC Hydro|ELEC|Res,INVERTED_V_SPIKE,108828499.1,9954.0,,,,,61773119 - 62621206,42.5%,,,,76.2%
+2018,Powell River,BC Hydro,ELEC,Res,Powell River|BC Hydro|ELEC|Res,V_SHAPED_DIP,63051991.06,6451.0,,,,,111972188 - 112780852,43.7%,78.9%,,,
+2019,Powell River,BC Hydro,ELEC,Res,Powell River|BC Hydro|ELEC|Res,INVERTED_V_SPIKE,112780852.5,10201.0,,,,,63051991 - 62824008,44.3%,,,,78.9%
+2019,Powell River,BC Hydro,ELEC,Res,Powell River|BC Hydro|ELEC|Res,V_SHAPED_DIP,62824008.07,6499.0,,,,,112780852 - 116652938,44.3%,85.7%,,,
+2020,Powell River,BC Hydro,ELEC,Res,Powell River|BC Hydro|ELEC|Res,INVERTED_V_SPIKE,116652937.6,10293.0,,,,,62824008 - 64598209,44.6%,,,,85.7%
+2020,Powell River,BC Hydro,ELEC,Res,Powell River|BC Hydro|ELEC|Res,V_SHAPED_DIP,64598209.22,6558.0,,,,,116652938 - 121113316,44.6%,87.5%,,,
+2021,Powell River,BC Hydro,ELEC,Res,Powell River|BC Hydro|ELEC|Res,INVERTED_V_SPIKE,121113316.1,10444.0,,,,,64598209 - 67643922,44.1%,,,,87.5%
+2021,Powell River,BC Hydro,ELEC,Res,Powell River|BC Hydro|ELEC|Res,V_SHAPED_DIP,67643921.86,6688.0,,,,,121113316 - 121414261,44.1%,79.5%,,,
+2022,Powell River,BC Hydro,ELEC,Res,Powell River|BC Hydro|ELEC|Res,INVERTED_V_SPIKE,121414260.8,10611.0,,,,,67643922 - 68420547,43.6%,,,,79.5%
+2021,Sechelt IGD,BC Hydro,ELEC,Res,Sechelt IGD|BC Hydro|ELEC|Res,Z_SCORE_YOY_CHANGE,7189762.833,465.5537364,44.6%,3.05,4.4%,13.2%,,,,,,
+2021,Spallumcheen,BC Hydro,ELEC,Res,Spallumcheen|BC Hydro|ELEC|Res,Z_SCORE_YOY_CHANGE,27140891.14,1843.0,-31.7%,3.11,-2.5%,9.4%,,,,,,
+2020,Tofino,BC Hydro,ELEC,Res,Tofino|BC Hydro|ELEC|Res,V_SHAPED_DIP,171413.43,14.0,,,,,20582756 - 23959044,99.2%,13877.3%,,,
+2021,Tofino,BC Hydro,ELEC,Res,Tofino|BC Hydro|ELEC|Res,Z_SCORE_YOY_CHANGE,23959044.43,1352.0,13877.3%,3.32,1149.4%,3837.7%,,,,,,
+2020,Tofino,BC Hydro,ELEC,Res,Tofino|BC Hydro|ELEC|Res,CONNECTION_ANOMALY,171413.43,14.0,,,,,,,,1313.0,0.01x,
+2021,Tofino,BC Hydro,ELEC,Res,Tofino|BC Hydro|ELEC|Res,CONNECTION_ANOMALY,23959044.43,1352.0,,,,,,,,14.0,96.57x,
+2020,Ucluelet,BC Hydro,ELEC,Res,Ucluelet|BC Hydro|ELEC|Res,V_SHAPED_DIP,4080085.676,11.0,,,,,15053718 - 17546366,72.9%,330.0%,,,
+2021,Ucluelet,BC Hydro,ELEC,Res,Ucluelet|BC Hydro|ELEC|Res,Z_SCORE_YOY_CHANGE,17546366.24,1286.0,330.0%,3.24,22.3%,95.1%,,,,,,
+2020,Ucluelet,BC Hydro,ELEC,Res,Ucluelet|BC Hydro|ELEC|Res,CONNECTION_ANOMALY,4080085.676,11.0,,,,,,,,1214.0,0.01x,
+2021,Ucluelet,BC Hydro,ELEC,Res,Ucluelet|BC Hydro|ELEC|Res,CONNECTION_ANOMALY,17546366.24,1286.0,,,,,,,,11.0,116.91x,
+2021,Vancouver,BC Hydro,ELEC,Res,Vancouver|BC Hydro|ELEC|Res,Z_SCORE_YOY_CHANGE,2389349506.0,302817.0,29.4%,3.14,2.8%,8.5%,,,,,,
+2016,Pemberton,BC Hydro,ELEC,CSMI,Pemberton|BC Hydro|ELEC|CSMI,INVERTED_V_SPIKE,26291677.81,303.0,,,,,15626052 - 13969404,46.9%,,,,68.3%
+2007,Powell River,BC Hydro,ELEC,CSMI,Powell River|BC Hydro|ELEC|CSMI,V_SHAPED_DIP,50335147.6,848.0,,,,,72283882 - 66971983,30.4%,33.1%,,,
+2018,Powell River,BC Hydro,ELEC,CSMI,Powell River|BC Hydro|ELEC|CSMI,V_SHAPED_DIP,46731320.42,902.0,,,,,67269965 - 69633077,30.5%,49.0%,,,
+2019,Powell River,BC Hydro,ELEC,CSMI,Powell River|BC Hydro|ELEC|CSMI,INVERTED_V_SPIKE,69633077.15,1412.0,,,,,46731320 - 46940262,32.6%,,,,49.0%
+2019,Powell River,BC Hydro,ELEC,CSMI,Powell River|BC Hydro|ELEC|CSMI,V_SHAPED_DIP,46940262.2,923.0,,,,,69633077 - 67144193,32.6%,43.0%,,,
+2020,Powell River,BC Hydro,ELEC,CSMI,Powell River|BC Hydro|ELEC|CSMI,INVERTED_V_SPIKE,67144193.22,1428.0,,,,,46940262 - 43897159,34.6%,,,,43.0%
+2020,Powell River,BC Hydro,ELEC,CSMI,Powell River|BC Hydro|ELEC|CSMI,V_SHAPED_DIP,43897158.94,932.0,,,,,67144193 - 63187901,34.6%,43.9%,,,
+2021,Powell River,BC Hydro,ELEC,CSMI,Powell River|BC Hydro|ELEC|CSMI,INVERTED_V_SPIKE,63187900.71,1489.0,,,,,43897159 - 39877480,36.9%,,,,43.9%
+2021,Powell River,BC Hydro,ELEC,CSMI,Powell River|BC Hydro|ELEC|CSMI,V_SHAPED_DIP,39877480.12,924.0,,,,,63187901 - 63303515,36.9%,58.7%,,,
+2022,Powell River,BC Hydro,ELEC,CSMI,Powell River|BC Hydro|ELEC|CSMI,INVERTED_V_SPIKE,63303515.23,1501.0,,,,,39877480 - 40788959,35.6%,,,,58.7%
+2020,Creston,Fortis Electric,ELEC,Res,Creston|Fortis Electric|ELEC|Res,V_SHAPED_DIP,10760226.59,2245.907781,,,,,21014506 - 20687716,48.8%,92.3%,,,
+2020,Salmo,Fortis Electric,ELEC,Res,Salmo|Fortis Electric|ELEC|Res,V_SHAPED_DIP,3606501.327,641.7884805,,,,,7042572 - 7200081,48.8%,99.6%,,,
+2020,Slocan,Fortis Electric,ELEC,Res,Slocan|Fortis Electric|ELEC|Res,V_SHAPED_DIP,1416414.692,202.766826,,,,,2775056 - 2744264,49.0%,93.7%,,,
+2020,Kaslo,Fortis Electric,ELEC,Res,Kaslo|Fortis Electric|ELEC|Res,V_SHAPED_DIP,3717729.275,584.117447,,,,,7288604 - 7214580,49.0%,94.1%,,,
+2020,Castlegar,Fortis Electric,ELEC,Res,Castlegar|Fortis Electric|ELEC|Res,V_SHAPED_DIP,18219079.01,3649.615817,,,,,35864904 - 35295551,49.2%,93.7%,,,
+2010,Princeton,Fortis Electric,ELEC,Res,Princeton|Fortis Electric|ELEC|Res,Z_SCORE_YOY_CHANGE,13595407.0,1456.0,473.0%,3.31,40.7%,130.5%,,,,,,
+2021,Kaslo,Fortis Electric,ELEC,CSMI,Kaslo|Fortis Electric|ELEC|CSMI,INVERTED_V_SPIKE,12096621.19,193.0,,,,,5871685 - 7349315,39.2%,,,,106.0%
+2022,Montrose,Fortis Electric,ELEC,CSMI,Montrose|Fortis Electric|ELEC|CSMI,CONNECTION_ANOMALY,3925829.516,380.6803716,,,,,,,,31.0,12.28x,
+2021,Grand Forks,Fortis Electric,ELEC,CSMI,Grand Forks|Fortis Electric|ELEC|CSMI,INVERTED_V_SPIKE,130519188.7,356.0,,,,,86371591 - 1762010,98.6%,,,,51.1%
+2010,Midway,Fortis Electric,ELEC,CSMI,Midway|Fortis Electric|ELEC|CSMI,V_SHAPED_DIP,3339246.8,75.0,,,,,12128417 - 11554856,72.5%,246.0%,,,
+2021,Penticton,Fortis Electric,ELEC,CSMI,Penticton|Fortis Electric|ELEC|CSMI,INVERTED_V_SPIKE,364866106.2,331.0,,,,,19056986 - 709111,99.8%,,,,1814.6%
+2022,Nanaimo,Fortis Gas,NG,Res,Nanaimo|Fortis Gas|NG|Res,INVERTED_V_SPIKE,1621038.032,30025.0,,,,,1047489 - 1065718,34.3%,,,,54.8%
+2007,Powell River,Fortis Gas,NG,Res,Powell River|Fortis Gas|NG|Res,V_SHAPED_DIP,7386.0,134.0,,,,,200544 - 193158,96.3%,2515.2%,,,
+2010,Powell River,Fortis Gas,NG,Res,Powell River|Fortis Gas|NG|Res,V_SHAPED_DIP,7212.808249,144.0,,,,,171070 - 178283,95.8%,2371.8%,,,
+2007,Powell River,Fortis Gas,NG,Res,Powell River|Fortis Gas|NG|Res,Z_SCORE_YOY_CHANGE,200544.0,3071.0,2515.2%,3.64,174.7%,642.5%,,,,,,
+2010,Powell River,Fortis Gas,NG,Res,Powell River|Fortis Gas|NG|Res,Z_SCORE_YOY_CHANGE,171069.8683,2978.0,2371.8%,3.42,174.7%,642.5%,,,,,,
+2007,Powell River,Fortis Gas,NG,Res,Powell River|Fortis Gas|NG|Res,CONNECTION_ANOMALY,7386.0,134.0,,,,,,,,3071.0,0.04x,
+2007,Powell River,Fortis Gas,NG,Res,Powell River|Fortis Gas|NG|Res,CONNECTION_ANOMALY,193158.0,2937.0,,,,,,,,134.0,21.92x,
+2010,Powell River,Fortis Gas,NG,Res,Powell River|Fortis Gas|NG|Res,CONNECTION_ANOMALY,7212.808249,144.0,,,,,,,,2978.0,0.05x,
+2010,Powell River,Fortis Gas,NG,Res,Powell River|Fortis Gas|NG|Res,CONNECTION_ANOMALY,178282.6765,3122.0,,,,,,,,144.0,21.68x,
+2010,Harrison Hot Springs,Fortis Gas,NG,Res,Harrison Hot Springs|Fortis Gas|NG|Res,Z_SCORE_YOY_CHANGE,38333.21301,566.0,-11.5%,3.14,-0.0%,3.7%,,,,,,
+2020,North Vancouver City,Fortis Gas,NG,Res,North Vancouver City|Fortis Gas|NG|Res,INVERTED_V_SPIKE,1124198.71,9087.080276,,,,,649412 - 690481,38.6%,,,,73.1%
+2012,Victoria,Fortis Gas,NG,Res,Victoria|Fortis Gas|NG|Res,INVERTED_V_SPIKE,1014803.808,8221.441994,,,,,370085 - 492464,51.5%,,,,174.2%
+2012,Victoria,Fortis Gas,NG,Res,Victoria|Fortis Gas|NG|Res,Z_SCORE_YOY_CHANGE,1014803.808,8221.441994,174.2%,3.05,12.6%,53.0%,,,,,,
+2010,Highlands,Fortis Gas,NG,Res,Highlands|Fortis Gas|NG|Res,Z_SCORE_YOY_CHANGE,1700.646732,45.0,2329.5%,3.32,198.8%,642.6%,,,,,,
+2010,Qualicum Beach,Fortis Gas,NG,Res,Qualicum Beach|Fortis Gas|NG|Res,Z_SCORE_YOY_CHANGE,102786.5657,1963.0,-25.1%,3.12,0.2%,8.1%,,,,,,
+2022,Sechelt,Fortis Gas,NG,Res,Sechelt|Fortis Gas|NG|Res,CONNECTION_ANOMALY,85287.48663,208.2737141,,,,,,,,3595.218394,0.06x,
+2022,Sechelt IGD,Fortis Gas,NG,Res,Sechelt IGD|Fortis Gas|NG|Res,CONNECTION_ANOMALY,5841.821866,16.72628586,,,,,,,,240.0459895,0.07x,
+2012,Powell River,Fortis Gas,NG,CSMI,Powell River|Fortis Gas|NG|CSMI,INVERTED_V_SPIKE,1838330.893,293.0,,,,,487658 - 873648,52.5%,,,,277.0%
+2010,Greenwood,Fortis Gas,NG,CSMI,Greenwood|Fortis Gas|NG|CSMI,V_SHAPED_DIP,5982.9467,36.0,,,,,39122 - 49652,84.7%,729.9%,,,
+2014,Anmore,Fortis Gas,NG,CSMI,Anmore|Fortis Gas|NG|CSMI,INVERTED_V_SPIKE,3254.8567,8.0,,,,,1748 - 1889,42.0%,,,,86.2%
+2013,Port Moody,Fortis Gas,NG,CSMI,Port Moody|Fortis Gas|NG|CSMI,INVERTED_V_SPIKE,1697982.14,373.0,,,,,1135095 - 1168569,31.2%,,,,49.6%
+2012,Campbell River,Fortis Gas,NG,CSMI,Campbell River|Fortis Gas|NG|CSMI,V_SHAPED_DIP,923967.5228,591.0,,,,,13797137 - 2115080,93.3%,128.9%,,,
+2013,Campbell River,Fortis Gas,NG,CSMI,Campbell River|Fortis Gas|NG|CSMI,INVERTED_V_SPIKE,2115080.024,623.0,,,,,923968 - 1347603,36.3%,,,,128.9%
+2019,Campbell River,Fortis Gas,NG,CSMI,Campbell River|Fortis Gas|NG|CSMI,INVERTED_V_SPIKE,5998899.309,688.0,,,,,564538 - 818138,86.4%,,,,962.6%
+2020,Campbell River,Fortis Gas,NG,CSMI,Campbell River|Fortis Gas|NG|CSMI,V_SHAPED_DIP,818137.6915,698.0,,,,,5998899 - 4944902,86.4%,504.4%,,,
+2021,Campbell River,Fortis Gas,NG,CSMI,Campbell River|Fortis Gas|NG|CSMI,INVERTED_V_SPIKE,4944902.167,702.0,,,,,818138 - 480142,90.3%,,,,504.4%
+2010,Mackenzie,Fortis Gas,NG,CSMI,Mackenzie|Fortis Gas|NG|CSMI,V_SHAPED_DIP,1402537.886,146.0,,,,,3867834 - 2381825,63.7%,69.8%,,,
+2015,Chetwynd,Fortis Gas,NG,CSMI,Chetwynd|Fortis Gas|NG|CSMI,INVERTED_V_SPIKE,570470.4091,220.0,,,,,348694 - 319515,44.0%,,,,63.6%
+2021,Telkwa,Pacific Northern Gas,NG,Res,Telkwa|Pacific Northern Gas|NG|Res,V_SHAPED_DIP,5510.47,420.0,,,,,27535 - 28681,80.0%,420.5%,,,
+2022,Telkwa,Pacific Northern Gas,NG,Res,Telkwa|Pacific Northern Gas|NG|Res,Z_SCORE_YOY_CHANGE,28680.99,421.0,420.5%,3.26,27.3%,120.7%,,,,,,
+2020,Taylor,Pacific Northern Gas,NG,Res,Taylor|Pacific Northern Gas|NG|Res,V_SHAPED_DIP,3110.137,528.0,,,,,52163 - 73476,94.0%,2262.5%,,,
+2021,Taylor,Pacific Northern Gas,NG,Res,Taylor|Pacific Northern Gas|NG|Res,Z_SCORE_YOY_CHANGE,73475.924,644.0,2262.5%,3.31,180.6%,628.3%,,,,,,
+2012,Fraser Lake,Pacific Northern Gas,NG,CSMI,Fraser Lake|Pacific Northern Gas|NG|CSMI,INVERTED_V_SPIKE,170087.196,58.0,,,,,126679 - 104250,38.7%,,,,34.3%
+2021,Houston,Pacific Northern Gas,NG,CSMI,Houston|Pacific Northern Gas|NG|CSMI,V_SHAPED_DIP,207982.223,144.0,,,,,313134 - 316242,33.6%,52.1%,,,
+2021,Telkwa,Pacific Northern Gas,NG,CSMI,Telkwa|Pacific Northern Gas|NG|CSMI,V_SHAPED_DIP,878.63,26.0,,,,,3803 - 4454,76.9%,407.0%,,,
+2021,Port Edward,Pacific Northern Gas,NG,CSMI,Port Edward|Pacific Northern Gas|NG|CSMI,INVERTED_V_SPIKE,7168.993,11.0,,,,,2120 - 4628,35.4%,,,,238.2%
+2019,Prince Rupert,Pacific Northern Gas,NG,CSMI,Prince Rupert|Pacific Northern Gas|NG|CSMI,INVERTED_V_SPIKE,811654.524,375.0,,,,,399373 - 380850,53.1%,,,,103.2%
+2021,Dawson Creek,Pacific Northern Gas,NG,CSMI,Dawson Creek|Pacific Northern Gas|NG|CSMI,V_SHAPED_DIP,674366.225,741.0,,,,,1037167 - 1062990,35.0%,57.6%,,,
+2020,Taylor,Pacific Northern Gas,NG,CSMI,Taylor|Pacific Northern Gas|NG|CSMI,V_SHAPED_DIP,1674.0,50.0,,,,,23457 - 92977,92.9%,5454.2%,,,
+2018,Tumbler Ridge,Pacific Northern Gas,NG,CSMI,Tumbler Ridge|Pacific Northern Gas|NG|CSMI,V_SHAPED_DIP,343052.341,107.0,,,,,519346 - 599784,33.9%,74.8%,,,
+2018,Granisle,Pacific Northern Gas,PPRO,Res,Granisle|Pacific Northern Gas|PPRO|Res,Z_SCORE_YOY_CHANGE,4683.891,121.0,222.6%,3.20,8.5%,66.9%,,,,,,
+2017,Granisle,Pacific Northern Gas,PPRO,CSMI,Granisle|Pacific Northern Gas|PPRO|CSMI,V_SHAPED_DIP,703.925,10.0,,,,,1616 - 1025,56.4%,45.6%,,,
+2014,Golden,Cal-gas,PPRO,Res,Golden|Cal-gas|PPRO|Res,INVERTED_V_SPIKE,1607.0,24.0,,,,,1075 - 1108,31.1%,,,,49.5%
+2010,Golden,Cal-gas,PPRO,Res,Golden|Cal-gas|PPRO|Res,CONNECTION_ANOMALY,498.0,18.0,,,,,,,,1.0,18.00x,
+2018,Grand Forks,City of Grand Forks,ELEC,CSMI,Grand Forks|City of Grand Forks|ELEC|CSMI,INVERTED_V_SPIKE,25340716.0,341.0,,,,,18734446 - 17490409,31.0%,,,,35.3%
+2010,Penticton,City of Penticton ,ELEC,CSMI,Penticton|City of Penticton |ELEC|CSMI,V_SHAPED_DIP,92100801.0,1643.0,,,,,180000612 - 134820788,48.8%,46.4%,,,
+2021,Port Alice,Port Alice Gas,PPRO,Res,Port Alice|Port Alice Gas|PPRO|Res,INVERTED_V_SPIKE,8582.3162,203.0,,,,,5371 - 5456,36.4%,,,,59.8%
+2021,Port Alice,Port Alice Gas,PPRO,CSMI,Port Alice|Port Alice Gas|PPRO|CSMI,INVERTED_V_SPIKE,4057.6133,12.0,,,,,2094 - 2643,34.9%,,,,93.8%
+2007,Powell River,Estimate-Wood,WOOD,Res,Powell River|Estimate-Wood|WOOD|Res,INVERTED_V_SPIKE,176285.0083,1.0,,,,,74494 - 55523,68.5%,,,,136.6%
+2010,Powell River,Estimate-Wood,WOOD,Res,Powell River|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,55523.3025,1.0,,,,,176285 - 138439,68.5%,149.3%,,,
+2010,Powell River,Estimate-Wood,WOOD,Res,Powell River|Estimate-Wood|WOOD|Res,INVERTED_V_SPIKE,138439.3861,1.0,,,,,55523 - 44705,67.7%,,,,149.3%
+2012,Powell River,Estimate-Wood,WOOD,Res,Powell River|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,44704.64987,1.0,,,,,138439 - 121852,67.7%,172.6%,,,
+2012,Powell River,Estimate-Wood,WOOD,Res,Powell River|Estimate-Wood|WOOD|Res,INVERTED_V_SPIKE,121851.7536,1.0,,,,,44705 - 39905,67.3%,,,,172.6%
+2013,Powell River,Estimate-Wood,WOOD,Res,Powell River|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,39904.99732,1.0,,,,,121852 - 109192,67.3%,173.6%,,,
+2013,Powell River,Estimate-Wood,WOOD,Res,Powell River|Estimate-Wood|WOOD|Res,INVERTED_V_SPIKE,109191.5085,1.0,,,,,39905 - 36012,67.0%,,,,173.6%
+2014,Powell River,Estimate-Wood,WOOD,Res,Powell River|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,36011.64646,1.0,,,,,109192 - 99796,67.0%,177.1%,,,
+2014,Powell River,Estimate-Wood,WOOD,Res,Powell River|Estimate-Wood|WOOD|Res,INVERTED_V_SPIKE,99795.79252,1.0,,,,,36012 - 34874,65.1%,,,,177.1%
+2015,Powell River,Estimate-Wood,WOOD,Res,Powell River|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,34873.61163,1.0,,,,,99796 - 92613,65.1%,165.6%,,,
+2015,Powell River,Estimate-Wood,WOOD,Res,Powell River|Estimate-Wood|WOOD|Res,INVERTED_V_SPIKE,92613.35181,1.0,,,,,34874 - 40787,56.0%,,,,165.6%
+2016,Powell River,Estimate-Wood,WOOD,Res,Powell River|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,40786.88152,1.0,,,,,92613 - 108530,56.0%,166.1%,,,
+2018,Powell River,Estimate-Wood,WOOD,Res,Powell River|Estimate-Wood|WOOD|Res,INVERTED_V_SPIKE,124171.9123,1.0,,,,,48393 - 47350,61.9%,,,,156.6%
+2019,Powell River,Estimate-Wood,WOOD,Res,Powell River|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,47349.6447,1.0,,,,,124172 - 121302,61.9%,156.2%,,,
+2019,Powell River,Estimate-Wood,WOOD,Res,Powell River|Estimate-Wood|WOOD|Res,INVERTED_V_SPIKE,121302.3617,1.0,,,,,47350 - 49772,59.0%,,,,156.2%
+2020,Powell River,Estimate-Wood,WOOD,Res,Powell River|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,49772.10835,1.0,,,,,121302 - 130411,59.0%,162.0%,,,
+2020,Powell River,Estimate-Wood,WOOD,Res,Powell River|Estimate-Wood|WOOD|Res,INVERTED_V_SPIKE,130411.4604,1.0,,,,,49772 - 48048,63.2%,,,,162.0%
+2021,Powell River,Estimate-Wood,WOOD,Res,Powell River|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,48048.07527,1.0,,,,,130411 - 126001,63.2%,162.2%,,,
+2021,Powell River,Estimate-Wood,WOOD,Res,Powell River|Estimate-Wood|WOOD|Res,INVERTED_V_SPIKE,126001.2951,1.0,,,,,48048 - 47938,62.0%,,,,162.2%
+2022,Powell River,Estimate-Wood,WOOD,Res,Powell River|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,47937.85072,1.0,,,,,126001 - 126621,62.0%,164.1%,,,
+2013,Nakusp,Estimate-Wood,WOOD,Res,Nakusp|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,3525.185857,1.0,,,,,7173 - 5592,50.9%,58.6%,,,
+2020,Nakusp,Estimate-Wood,WOOD,Res,Nakusp|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,3032.603389,1.0,,,,,8018 - 6895,62.2%,127.4%,,,
+2013,New Denver,Estimate-Wood,WOOD,Res,New Denver|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,3095.234586,1.0,,,,,4699 - 4413,34.1%,42.6%,,,
+2020,New Denver,Estimate-Wood,WOOD,Res,New Denver|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,2371.521141,1.0,,,,,4634 - 3957,48.8%,66.9%,,,
+2013,Silverton,Estimate-Wood,WOOD,Res,Silverton|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,1423.516985,1.0,,,,,2279 - 1897,37.5%,33.3%,,,
+2020,Silverton,Estimate-Wood,WOOD,Res,Silverton|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,877.6797692,1.0,,,,,1958 - 1483,55.2%,69.0%,,,
+2020,Nelson,Estimate-Wood,WOOD,Res,Nelson|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,14437.77729,1.0,,,,,26470 - 22801,45.5%,57.9%,,,
+2016,Tofino,Estimate-Wood,WOOD,Res,Tofino|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,2129.624793,1.0,,,,,3125 - 3573,31.8%,67.8%,,,
+2020,Ucluelet,Estimate-Wood,WOOD,Res,Ucluelet|Estimate-Wood|WOOD|Res,INVERTED_V_SPIKE,12400.90032,1.0,,,,,6026 - 3770,69.6%,,,,105.8%
+2013,Lillooet,Estimate-Wood,WOOD,Res,Lillooet|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,5631.99581,1.0,,,,,8104 - 8140,30.5%,44.5%,,,
+2021,Telkwa,Estimate-Wood,WOOD,Res,Telkwa|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,1210.560122,1.0,,,,,4374 - 4066,72.3%,235.8%,,,
+2022,Telkwa,Estimate-Wood,WOOD,Res,Telkwa|Estimate-Wood|WOOD|Res,Z_SCORE_YOY_CHANGE,4065.532725,1.0,235.8%,3.10,11.0%,72.5%,,,,,,
+2020,Taylor,Estimate-Wood,WOOD,Res,Taylor|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,782.1495311,1.0,,,,,6569 - 7900,88.1%,910.0%,,,
+2021,Taylor,Estimate-Wood,WOOD,Res,Taylor|Estimate-Wood|WOOD|Res,Z_SCORE_YOY_CHANGE,7899.617358,1.0,910.0%,3.29,63.3%,257.2%,,,,,,
+2015,Hudson's Hope,Estimate-Wood,WOOD,Res,Hudson's Hope|Estimate-Wood|WOOD|Res,V_SHAPED_DIP,2169.281476,1.0,,,,,3120 - 2990,30.5%,37.8%,,,
+2007,Powell River,Estimate-Heating Oil,OIL,Res,Powell River|Estimate-Heating Oil|OIL|Res,INVERTED_V_SPIKE,119685.4339,1.0,,,,,50576 - 37706,68.5%,,,,136.6%
+2010,Powell River,Estimate-Heating Oil,OIL,Res,Powell River|Estimate-Heating Oil|OIL|Res,V_SHAPED_DIP,37705.68934,1.0,,,,,119685 - 94014,68.5%,149.3%,,,
+2010,Powell River,Estimate-Heating Oil,OIL,Res,Powell River|Estimate-Heating Oil|OIL|Res,INVERTED_V_SPIKE,94013.72486,1.0,,,,,37706 - 25341,73.0%,,,,149.3%
+2012,Powell River,Estimate-Heating Oil,OIL,Res,Powell River|Estimate-Heating Oil|OIL|Res,V_SHAPED_DIP,25341.34882,1.0,,,,,94014 - 69073,73.0%,172.6%,,,
+2012,Powell River,Estimate-Heating Oil,OIL,Res,Powell River|Estimate-Heating Oil|OIL|Res,INVERTED_V_SPIKE,69073.07858,1.0,,,,,25341 - 22192,67.9%,,,,172.6%
+2013,Powell River,Estimate-Heating Oil,OIL,Res,Powell River|Estimate-Heating Oil|OIL|Res,V_SHAPED_DIP,22191.90554,1.0,,,,,69073 - 60723,67.9%,173.6%,,,
+2013,Powell River,Estimate-Heating Oil,OIL,Res,Powell River|Estimate-Heating Oil|OIL|Res,INVERTED_V_SPIKE,60723.41321,1.0,,,,,22192 - 19402,68.0%,,,,173.6%
+2014,Powell River,Estimate-Heating Oil,OIL,Res,Powell River|Estimate-Heating Oil|OIL|Res,V_SHAPED_DIP,19402.36734,1.0,,,,,60723 - 53768,68.0%,177.1%,,,
+2014,Powell River,Estimate-Heating Oil,OIL,Res,Powell River|Estimate-Heating Oil|OIL|Res,INVERTED_V_SPIKE,53768.01163,1.0,,,,,19402 - 19409,63.9%,,,,177.1%
+2015,Powell River,Estimate-Heating Oil,OIL,Res,Powell River|Estimate-Heating Oil|OIL|Res,V_SHAPED_DIP,19408.87042,1.0,,,,,53768 - 51544,63.9%,165.6%,,,
+2015,Powell River,Estimate-Heating Oil,OIL,Res,Powell River|Estimate-Heating Oil|OIL|Res,INVERTED_V_SPIKE,51543.85967,1.0,,,,,19409 - 16621,67.8%,,,,165.6%
+2016,Powell River,Estimate-Heating Oil,OIL,Res,Powell River|Estimate-Heating Oil|OIL|Res,V_SHAPED_DIP,16621.08184,1.0,,,,,51544 - 44227,67.8%,166.1%,,,
+2018,Powell River,Estimate-Heating Oil,OIL,Res,Powell River|Estimate-Heating Oil|OIL|Res,INVERTED_V_SPIKE,34870.15622,1.0,,,,,13590 - 13978,59.9%,,,,156.6%
+2019,Powell River,Estimate-Heating Oil,OIL,Res,Powell River|Estimate-Heating Oil|OIL|Res,V_SHAPED_DIP,13978.13894,1.0,,,,,34870 - 35810,59.9%,156.2%,,,
+2019,Powell River,Estimate-Heating Oil,OIL,Res,Powell River|Estimate-Heating Oil|OIL|Res,INVERTED_V_SPIKE,35809.79912,1.0,,,,,13978 - 11121,68.9%,,,,156.2%
+2020,Powell River,Estimate-Heating Oil,OIL,Res,Powell River|Estimate-Heating Oil|OIL|Res,V_SHAPED_DIP,11121.2945,1.0,,,,,35810 - 29140,68.9%,162.0%,,,
+2020,Powell River,Estimate-Heating Oil,OIL,Res,Powell River|Estimate-Heating Oil|OIL|Res,INVERTED_V_SPIKE,29139.69901,1.0,,,,,11121 - 10615,63.6%,,,,162.0%
+2021,Powell River,Estimate-Heating Oil,OIL,Res,Powell River|Estimate-Heating Oil|OIL|Res,V_SHAPED_DIP,10615.1459,1.0,,,,,29140 - 27837,63.6%,162.2%,,,
+2021,Powell River,Estimate-Heating Oil,OIL,Res,Powell River|Estimate-Heating Oil|OIL|Res,INVERTED_V_SPIKE,27837.16359,1.0,,,,,10615 - 7860,71.8%,,,,162.2%
+2022,Powell River,Estimate-Heating Oil,OIL,Res,Powell River|Estimate-Heating Oil|OIL|Res,V_SHAPED_DIP,7860.238167,1.0,,,,,27837 - 20762,71.8%,164.1%,,,
+2020,Nakusp,Estimate-Heating Oil,OIL,Res,Nakusp|Estimate-Heating Oil|OIL|Res,V_SHAPED_DIP,135.0986517,1.0,,,,,304 - 304,55.5%,124.8%,,,
+2020,New Denver,Estimate-Heating Oil,OIL,Res,New Denver|Estimate-Heating Oil|OIL|Res,V_SHAPED_DIP,105.6482723,1.0,,,,,175 - 174,39.8%,65.0%,,,
+2020,Silverton,Estimate-Heating Oil,OIL,Res,Silverton|Estimate-Heating Oil|OIL|Res,V_SHAPED_DIP,39.09952546,1.0,,,,,74 - 65,47.3%,67.0%,,,
+2021,Silverton,Estimate-Heating Oil,OIL,Res,Silverton|Estimate-Heating Oil|OIL|Res,INVERTED_V_SPIKE,65.31522932,1.0,,,,,39 - 45,30.5%,,,,67.0%
+2020,Nelson,Estimate-Heating Oil,OIL,Res,Nelson|Estimate-Heating Oil|OIL|Res,V_SHAPED_DIP,643.1847475,1.0,,,,,1002 - 1004,35.8%,56.1%,,,
+2020,Ucluelet,Estimate-Heating Oil,OIL,Res,Ucluelet|Estimate-Heating Oil|OIL|Res,INVERTED_V_SPIKE,2770.910637,1.0,,,,,1779 - 833,69.9%,,,,55.8%
+2013,Stewart,Estimate-Heating Oil,OIL,Res,Stewart|Estimate-Heating Oil|OIL|Res,V_SHAPED_DIP,344.0196606,1.0,,,,,501 - 485,31.3%,41.1%,,,
+2021,Telkwa,Estimate-Heating Oil,OIL,Res,Telkwa|Estimate-Heating Oil|OIL|Res,V_SHAPED_DIP,35.55287998,1.0,,,,,130 - 89,72.6%,149.3%,,,
+2020,Granisle,Estimate-Heating Oil,OIL,Res,Granisle|Estimate-Heating Oil|OIL|Res,V_SHAPED_DIP,66.57243429,1.0,,,,,126 - 98,47.3%,47.6%,,,
+2020,Taylor,Estimate-Heating Oil,OIL,Res,Taylor|Estimate-Heating Oil|OIL|Res,V_SHAPED_DIP,23.23258547,1.0,,,,,366 - 232,93.7%,898.6%,,,
+2021,Taylor,Estimate-Heating Oil,OIL,Res,Taylor|Estimate-Heating Oil|OIL|Res,INVERTED_V_SPIKE,232.003469,1.0,,,,,23 - 149,35.7%,,,,898.6%
+2021,Taylor,Estimate-Heating Oil,OIL,Res,Taylor|Estimate-Heating Oil|OIL|Res,Z_SCORE_YOY_CHANGE,232.003469,1.0,898.6%,3.30,56.1%,255.7%,,,,,,
+2007,Powell River,Estimate-Propane,DPRO,Res,Powell River|Estimate-Propane|DPRO|Res,INVERTED_V_SPIKE,9844.400996,1.0,,,,,4160 - 4789,51.4%,,,,136.6%
+2010,Powell River,Estimate-Propane,DPRO,Res,Powell River|Estimate-Propane|DPRO|Res,V_SHAPED_DIP,4788.619882,1.0,,,,,9844 - 11940,51.4%,149.3%,,,
+2010,Powell River,Estimate-Propane,DPRO,Res,Powell River|Estimate-Propane|DPRO|Res,INVERTED_V_SPIKE,11939.73642,1.0,,,,,4789 - 3251,72.8%,,,,149.3%
+2012,Powell River,Estimate-Propane,DPRO,Res,Powell River|Estimate-Propane|DPRO|Res,V_SHAPED_DIP,3251.176284,1.0,,,,,11940 - 8862,72.8%,172.6%,,,
+2012,Powell River,Estimate-Propane,DPRO,Res,Powell River|Estimate-Propane|DPRO|Res,INVERTED_V_SPIKE,8861.752251,1.0,,,,,3251 - 3094,65.1%,,,,172.6%
+2013,Powell River,Estimate-Propane,DPRO,Res,Powell River|Estimate-Propane|DPRO|Res,V_SHAPED_DIP,3094.394569,1.0,,,,,8862 - 8467,65.1%,173.6%,,,
+2013,Powell River,Estimate-Propane,DPRO,Res,Powell River|Estimate-Propane|DPRO|Res,INVERTED_V_SPIKE,8467.150319,1.0,,,,,3094 - 2144,74.7%,,,,173.6%
+2014,Powell River,Estimate-Propane,DPRO,Res,Powell River|Estimate-Propane|DPRO|Res,V_SHAPED_DIP,2143.739111,1.0,,,,,8467 - 5941,74.7%,177.1%,,,
+2014,Powell River,Estimate-Propane,DPRO,Res,Powell River|Estimate-Propane|DPRO|Res,INVERTED_V_SPIKE,5940.748745,1.0,,,,,2144 - 2614,56.0%,,,,177.1%
+2015,Powell River,Estimate-Propane,DPRO,Res,Powell River|Estimate-Propane|DPRO|Res,V_SHAPED_DIP,2613.734895,1.0,,,,,5941 - 6941,56.0%,165.6%,,,
+2015,Powell River,Estimate-Propane,DPRO,Res,Powell River|Estimate-Propane|DPRO|Res,INVERTED_V_SPIKE,6941.258389,1.0,,,,,2614 - 2057,70.4%,,,,165.6%
+2016,Powell River,Estimate-Propane,DPRO,Res,Powell River|Estimate-Propane|DPRO|Res,V_SHAPED_DIP,2057.102833,1.0,,,,,6941 - 5474,70.4%,166.1%,,,
+2017,Powell River,Estimate-Propane,DPRO,Res,Powell River|Estimate-Propane|DPRO|Res,V_SHAPED_DIP,2027.835068,1.0,,,,,5311 - 3796,61.8%,87.2%,,,
+2018,Powell River,Estimate-Propane,DPRO,Res,Powell River|Estimate-Propane|DPRO|Res,INVERTED_V_SPIKE,9741.496801,1.0,,,,,3796 - 3384,65.3%,,,,156.6%
+2019,Powell River,Estimate-Propane,DPRO,Res,Powell River|Estimate-Propane|DPRO|Res,V_SHAPED_DIP,3383.723658,1.0,,,,,9741 - 8669,65.3%,156.2%,,,
+2019,Powell River,Estimate-Propane,DPRO,Res,Powell River|Estimate-Propane|DPRO|Res,INVERTED_V_SPIKE,8668.569188,1.0,,,,,3384 - 3074,64.5%,,,,156.2%
+2020,Powell River,Estimate-Propane,DPRO,Res,Powell River|Estimate-Propane|DPRO|Res,V_SHAPED_DIP,3073.95442,1.0,,,,,8669 - 8054,64.5%,162.0%,,,
+2020,Powell River,Estimate-Propane,DPRO,Res,Powell River|Estimate-Propane|DPRO|Res,INVERTED_V_SPIKE,8054.287798,1.0,,,,,3074 - 3591,55.4%,,,,162.0%
+2021,Powell River,Estimate-Propane,DPRO,Res,Powell River|Estimate-Propane|DPRO|Res,V_SHAPED_DIP,3590.901569,1.0,,,,,8054 - 9417,55.4%,162.2%,,,
+2021,Powell River,Estimate-Propane,DPRO,Res,Powell River|Estimate-Propane|DPRO|Res,INVERTED_V_SPIKE,9416.781958,1.0,,,,,3591 - 3663,61.1%,,,,162.2%
+2022,Powell River,Estimate-Propane,DPRO,Res,Powell River|Estimate-Propane|DPRO|Res,V_SHAPED_DIP,3662.923606,1.0,,,,,9417 - 9675,61.1%,164.1%,,,
+2020,Nakusp,Estimate-Propane,DPRO,Res,Nakusp|Estimate-Propane|DPRO|Res,V_SHAPED_DIP,399.3908066,1.0,,,,,1115 - 1099,64.2%,175.1%,,,
+2020,New Denver,Estimate-Propane,DPRO,Res,New Denver|Estimate-Propane|DPRO|Res,V_SHAPED_DIP,312.3269416,1.0,,,,,644 - 631,51.5%,101.9%,,,
+2020,Silverton,Estimate-Propane,DPRO,Res,Silverton|Estimate-Propane|DPRO|Res,V_SHAPED_DIP,115.5895401,1.0,,,,,272 - 236,57.5%,104.4%,,,
+2020,Kaslo,Estimate-Propane,DPRO,Res,Kaslo|Estimate-Propane|DPRO|Res,V_SHAPED_DIP,961.3456498,1.0,,,,,1399 - 1469,31.3%,52.8%,,,
+2020,Slocan,Estimate-Propane,DPRO,Res,Slocan|Estimate-Propane|DPRO|Res,V_SHAPED_DIP,328.058117,1.0,,,,,478 - 500,31.4%,52.5%,,,
+2020,Nelson,Estimate-Propane,DPRO,Res,Nelson|Estimate-Propane|DPRO|Res,V_SHAPED_DIP,1901.440702,1.0,,,,,3681 - 3634,48.3%,91.1%,,,
+2016,Tofino,Estimate-Propane,DPRO,Res,Tofino|Estimate-Propane|DPRO|Res,V_SHAPED_DIP,107.408486,1.0,,,,,234 - 142,54.1%,32.1%,,,
+2020,Ucluelet,Estimate-Propane,DPRO,Res,Ucluelet|Estimate-Propane|DPRO|Res,INVERTED_V_SPIKE,765.886831,1.0,,,,,431 - 282,63.2%,,,,77.8%
+2020,Port Alberni,Estimate-Propane,DPRO,Res,Port Alberni|Estimate-Propane|DPRO|Res,V_SHAPED_DIP,2850.584057,1.0,,,,,4095 - 4358,30.4%,52.9%,,,
+2018,Lillooet,Estimate-Propane,DPRO,Res,Lillooet|Estimate-Propane|DPRO|Res,Z_SCORE_YOY_CHANGE,1797.907313,1.0,106.9%,3.01,3.9%,34.3%,,,,,,
+2018,Pemberton,Estimate-Propane,DPRO,Res,Pemberton|Estimate-Propane|DPRO|Res,Z_SCORE_YOY_CHANGE,978.4784924,1.0,153.3%,3.12,10.0%,46.0%,,,,,,
+2018,Clinton,Estimate-Propane,DPRO,Res,Clinton|Estimate-Propane|DPRO|Res,Z_SCORE_YOY_CHANGE,339.021092,1.0,120.6%,3.17,1.1%,37.7%,,,,,,
+2018,Wells,Estimate-Propane,DPRO,Res,Wells|Estimate-Propane|DPRO|Res,Z_SCORE_YOY_CHANGE,218.9028374,1.0,109.7%,3.02,0.6%,36.1%,,,,,,
+2018,Port Clements,Estimate-Propane,DPRO,Res,Port Clements|Estimate-Propane|DPRO|Res,Z_SCORE_YOY_CHANGE,196.4798403,1.0,156.2%,3.06,5.2%,49.3%,,,,,,
+2018,Masset,Estimate-Propane,DPRO,Res,Masset|Estimate-Propane|DPRO|Res,Z_SCORE_YOY_CHANGE,619.2357374,1.0,111.9%,3.07,3.2%,35.5%,,,,,,
+2018,Prince Rupert,Estimate-Propane,DPRO,Res,Prince Rupert|Estimate-Propane|DPRO|Res,Z_SCORE_YOY_CHANGE,5459.201505,1.0,89.2%,3.00,2.6%,28.8%,,,,,,
+2018,Port Edward,Estimate-Propane,DPRO,Res,Port Edward|Estimate-Propane|DPRO|Res,Z_SCORE_YOY_CHANGE,304.048426,1.0,98.6%,3.02,1.9%,32.0%,,,,,,
+2010,Stewart,Estimate-Propane,DPRO,Res,Stewart|Estimate-Propane|DPRO|Res,INVERTED_V_SPIKE,610.6281274,1.0,,,,,322 - 398,34.8%,,,,89.9%
+2018,New Hazelton,Estimate-Propane,DPRO,Res,New Hazelton|Estimate-Propane|DPRO|Res,Z_SCORE_YOY_CHANGE,462.7624382,1.0,107.1%,3.10,2.9%,33.6%,,,,,,
+2018,Kitimat,Estimate-Propane,DPRO,Res,Kitimat|Estimate-Propane|DPRO|Res,Z_SCORE_YOY_CHANGE,2275.282023,1.0,89.1%,3.04,1.3%,28.9%,,,,,,
+2021,Telkwa,Estimate-Propane,DPRO,Res,Telkwa|Estimate-Propane|DPRO|Res,V_SHAPED_DIP,88.51692799,1.0,,,,,264 - 304,66.5%,243.4%,,,
+2018,Houston,Estimate-Propane,DPRO,Res,Houston|Estimate-Propane|DPRO|Res,Z_SCORE_YOY_CHANGE,887.3366817,1.0,90.7%,3.00,2.9%,29.3%,,,,,,
+2018,Burns Lake,Estimate-Propane,DPRO,Res,Burns Lake|Estimate-Propane|DPRO|Res,Z_SCORE_YOY_CHANGE,648.1820646,1.0,89.6%,3.02,1.0%,29.4%,,,,,,
+2018,Fort St. James,Estimate-Propane,DPRO,Res,Fort St. James|Estimate-Propane|DPRO|Res,Z_SCORE_YOY_CHANGE,553.3169882,1.0,96.6%,3.04,1.9%,31.1%,,,,,,
+2018,Vanderhoof,Estimate-Propane,DPRO,Res,Vanderhoof|Estimate-Propane|DPRO|Res,Z_SCORE_YOY_CHANGE,1153.308792,1.0,98.1%,3.03,2.6%,31.6%,,,,,,
+2018,Prince George,Estimate-Propane,DPRO,Res,Prince George|Estimate-Propane|DPRO|Res,Z_SCORE_YOY_CHANGE,24812.24451,1.0,89.9%,3.01,2.8%,28.9%,,,,,,
+2018,Fort St. John,Estimate-Propane,DPRO,Res,Fort St. John|Estimate-Propane|DPRO|Res,Z_SCORE_YOY_CHANGE,7569.286896,1.0,104.6%,3.02,4.4%,33.2%,,,,,,
+2020,Taylor,Estimate-Propane,DPRO,Res,Taylor|Estimate-Propane|DPRO|Res,V_SHAPED_DIP,47.26216796,1.0,,,,,465 - 578,89.8%,1122.2%,,,
+2021,Taylor,Estimate-Propane,DPRO,Res,Taylor|Estimate-Propane|DPRO|Res,Z_SCORE_YOY_CHANGE,577.625058,1.0,1122.2%,3.29,84.8%,315.6%,,,,,,
+2018,Hudson's Hope,Estimate-Propane,DPRO,Res,Hudson's Hope|Estimate-Propane|DPRO|Res,Z_SCORE_YOY_CHANGE,334.0577143,1.0,102.4%,3.10,2.6%,32.2%,,,,,,
+2018,Dawson Creek,Estimate-Propane,DPRO,Res,Dawson Creek|Estimate-Propane|DPRO|Res,Z_SCORE_YOY_CHANGE,4876.419831,1.0,101.1%,3.04,5.1%,31.6%,,,,,,
+2018,Chetwynd,Estimate-Propane,DPRO,Res,Chetwynd|Estimate-Propane|DPRO|Res,Z_SCORE_YOY_CHANGE,1019.506049,1.0,104.5%,3.13,2.7%,32.6%,,,,,,
