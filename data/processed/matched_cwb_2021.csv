@@ -1,5 +1,4 @@
 CSD Code 2021,CSD Name 2021,Census Population 2021,Income 2021,Education 2021,Housing 2021,Labour Force Activity 2021,CWB 2021,Community Type 2021
-5901003,Elkford,2749.0,87.0,66.0,97.0,89.0,85.0,Non-Indigenous Community
 5901006,Sparwood,4148.0,86.0,63.0,97.0,89.0,84.0,Non-Indigenous Community
 5901012,Fernie,6320.0,86.0,74.0,94.0,89.0,86.0,Non-Indigenous Community
 5901022,Cranbrook,20499.0,80.0,64.0,96.0,87.0,82.0,Non-Indigenous Community
@@ -10,9 +9,7 @@ CSD Code 2021,CSD Name 2021,Census Population 2021,Income 2021,Education 2021,Ho
 5903004,Creston,5583.0,76.0,60.0,96.0,85.0,79.0,Non-Indigenous Community
 5903011,Salmo,1140.0,75.0,59.0,94.0,81.0,77.0,Non-Indigenous Community
 5903015,Nelson,11106.0,80.0,75.0,95.0,88.0,85.0,Non-Indigenous Community
-5903019,Slocan,379.0,68.0,48.0,94.0,71.0,70.0,Non-Indigenous Community
 5903023,Kaslo,1049.0,72.0,69.0,94.0,85.0,80.0,Non-Indigenous Community
-5903027,Silverton,149.0,,,,,82.0,Non-Indigenous Community
 5903032,New Denver,487.0,67.0,58.0,92.0,77.0,74.0,Non-Indigenous Community
 5903045,Castlegar,8338.0,80.0,66.0,96.0,84.0,81.0,Non-Indigenous Community
 5903050,Nakusp,1589.0,78.0,65.0,94.0,83.0,80.0,Non-Indigenous Community
@@ -82,23 +79,17 @@ CSD Code 2021,CSD Name 2021,Census Population 2021,Income 2021,Education 2021,Ho
 5923019,Ucluelet,2066.0,78.0,73.0,94.0,91.0,84.0,Non-Indigenous Community
 5923025,Tofino,2516.0,83.0,73.0,93.0,90.0,85.0,Non-Indigenous Community
 5924025,Gold River,1246.0,78.0,57.0,94.0,83.0,78.0,Non-Indigenous Community
-5924029,Zeballos,126.0,,,,,77.0,Non-Indigenous Community
-5924030,Tahsis,393.0,70.0,54.0,87.0,62.0,68.0,Non-Indigenous Community
 5924034,Campbell River,35519.0,80.0,64.0,96.0,84.0,81.0,Non-Indigenous Community
 5924039,Sayward,334.0,74.0,57.0,98.0,77.0,76.0,Non-Indigenous Community
-5926005,Comox,14806.0,81.0,71.0,97.0,86.0,84.0,Non-Indigenous Community
 5926010,Courtenay,28420.0,79.0,67.0,96.0,85.0,82.0,Non-Indigenous Community
 5926014,Cumberland,4447.0,79.0,69.0,97.0,89.0,83.0,Non-Indigenous Community
-5927008,Powell River,13943.0,78.0,63.0,94.0,83.0,80.0,Non-Indigenous Community
 5929005,Gibsons,4758.0,82.0,73.0,95.0,86.0,84.0,Non-Indigenous Community
 5929011,Sechelt,10847.0,82.0,69.0,97.0,86.0,83.0,Non-Indigenous Community
-5929803,Sechelt IGD,744.0,69.0,54.0,86.0,75.0,71.0,First Nations Community 
 5931006,Squamish,23819.0,86.0,75.0,95.0,91.0,87.0,Non-Indigenous Community
 5931012,Pemberton,3407.0,82.0,75.0,97.0,93.0,87.0,Non-Indigenous Community
 5931020,Whistler,13982.0,87.0,79.0,94.0,86.0,87.0,Non-Indigenous Community
 5931026,Lillooet,2302.0,79.0,59.0,94.0,83.0,79.0,Non-Indigenous Community
 5933006,Merritt,7051.0,77.0,59.0,95.0,81.0,78.0,Non-Indigenous Community
-5933015,Lytton,210.0,,,,,79.0,Non-Indigenous Community
 5933019,Ashcroft,1670.0,78.0,56.0,90.0,81.0,76.0,Non-Indigenous Community
 5933024,Cache Creek,969.0,73.0,55.0,93.0,74.0,74.0,Non-Indigenous Community
 5933028,Clinton,568.0,73.0,54.0,89.0,78.0,73.0,Non-Indigenous Community
@@ -121,7 +112,6 @@ CSD Code 2021,CSD Name 2021,Census Population 2021,Income 2021,Education 2021,Ho
 5941005,One Hundred Mile House,1928.0,73.0,52.0,97.0,78.0,75.0,Non-Indigenous Community
 5941009,Williams Lake,10947.0,79.0,59.0,94.0,85.0,79.0,Non-Indigenous Community
 5941013,Quesnel,9889.0,78.0,57.0,94.0,81.0,78.0,Non-Indigenous Community
-5941025,Wells,218.0,,,,,73.0,Non-Indigenous Community
 5943008,Alert Bay,449.0,75.0,68.0,87.0,80.0,78.0,Non-Indigenous Community
 5943012,Port McNeill,2356.0,80.0,61.0,95.0,88.0,81.0,Non-Indigenous Community
 5943017,Port Alice,739.0,79.0,60.0,92.0,77.0,77.0,Non-Indigenous Community
@@ -133,7 +123,6 @@ CSD Code 2021,CSD Name 2021,Census Population 2021,Income 2021,Education 2021,Ho
 5947030,Port Clements,340.0,82.0,55.0,91.0,84.0,78.0,Non-Indigenous Community
 5949005,Kitimat,8236.0,88.0,61.0,92.0,84.0,81.0,Non-Indigenous Community
 5949011,Terrace,12017.0,81.0,66.0,93.0,88.0,82.0,Non-Indigenous Community
-5949022,Hazelton,257.0,,,,,85.0,Non-Indigenous Community
 5949024,New Hazelton,602.0,74.0,51.0,88.0,82.0,74.0,Non-Indigenous Community
 5949032,Stewart,517.0,84.0,52.0,96.0,79.0,78.0,Non-Indigenous Community
 5951007,Vanderhoof,4346.0,79.0,61.0,97.0,86.0,81.0,Non-Indigenous Community

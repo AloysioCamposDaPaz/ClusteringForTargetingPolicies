@@ -1,0 +1,146 @@
+Municipality_Name,Year,Metric,Value,Unit
+Sparwood,2021,Remoteness,0.3872255636978471,index
+Fernie,2021,Remoteness,0.4276168342809352,index
+Cranbrook,2021,Remoteness,0.3856091533176329,index
+Kimberley,2021,Remoteness,0.4098314730095229,index
+Invermere,2021,Remoteness,0.4601227091834103,index
+Radium Hot Springs,2021,Remoteness,0.4590086361479585,index
+Canal Flats,2021,Remoteness,0.4636481697535576,index
+Creston,2021,Remoteness,0.4275335754054798,index
+Salmo,2021,Remoteness,0.4053180930673086,index
+Nelson,2021,Remoteness,0.402821771349012,index
+Kaslo,2021,Remoteness,0.4737918987583936,index
+New Denver,2021,Remoteness,0.4745951230229501,index
+Castlegar,2021,Remoteness,0.3872457284439764,index
+Nakusp,2021,Remoteness,0.4681022954814694,index
+Fruitvale,2021,Remoteness,0.3897349429556863,index
+Montrose,2021,Remoteness,0.3874173742136539,index
+Trail,2021,Remoteness,0.3805621684980724,index
+Warfield,2021,Remoteness,0.3826878661673635,index
+Rossland,2021,Remoteness,0.3867487714258445,index
+Grand Forks,2021,Remoteness,0.4249027046575018,index
+Midway,2021,Remoteness,0.3563714986433743,index
+Greenwood,2021,Remoteness,0.3680282416630147,index
+Osoyoos,2021,Remoteness,0.3319244231337762,index
+Keremeos,2021,Remoteness,0.3244644107920751,index
+Oliver,2021,Remoteness,0.3155406174444419,index
+Princeton,2021,Remoteness,0.3390611305445248,index
+Summerland,2021,Remoteness,0.2759914942701718,index
+Penticton,2021,Remoteness,0.2823474546459147,index
+Hope,2021,Remoteness,0.2029254451295166,index
+Chilliwack,2021,Remoteness,0.1623506349116649,index
+Harrison Hot Springs,2021,Remoteness,0.1887081957745102,index
+Kent,2021,Remoteness,0.1826682118507885,index
+Abbotsford,2021,Remoteness,0.1378538012635194,index
+Mission,2021,Remoteness,0.1423366003002659,index
+Langley Township,2021,Remoteness,0.1251251143155644,index
+Langley City,2021,Remoteness,0.1222149711110205,index
+Surrey,2021,Remoteness,0.107315398152434,index
+White Rock,2021,Remoteness,0.1156021973630565,index
+Delta,2021,Remoteness,0.0929989989662117,index
+Richmond,2021,Remoteness,0.0614406287659238,index
+Vancouver,2021,Remoteness,0.0619361279363075,index
+Burnaby,2021,Remoteness,0.0616573711358567,index
+New Westminster,2021,Remoteness,0.0931794329885621,index
+Coquitlam,2021,Remoteness,0.1048461331628368,index
+Belcarra,2021,Remoteness,0.1120445628119629,index
+Anmore,2021,Remoteness,0.105959006336152,index
+Port Coquitlam,2021,Remoteness,0.106255569636412,index
+Port Moody,2021,Remoteness,0.0917391171590704,index
+North Vancouver District,2021,Remoteness,0.0748130291334692,index
+North Vancouver City,2021,Remoteness,0.0626364385448485,index
+West Vancouver,2021,Remoteness,0.063003124895402,index
+Bowen Island,2021,Remoteness,0.1039479275357976,index
+Lions Bay,2021,Remoteness,0.1127580610292763,index
+Pitt Meadows,2021,Remoteness,0.1158879170043847,index
+Maple Ridge,2021,Remoteness,0.121497089968188,index
+North Saanich,2021,Remoteness,0.1468720113553997,index
+Sidney,2021,Remoteness,0.1460016033062234,index
+Central Saanich,2021,Remoteness,0.1432195822924783,index
+Saanich,2021,Remoteness,0.1411715155658525,index
+Oak Bay,2021,Remoteness,0.1451152079124541,index
+Victoria,2021,Remoteness,0.1439338418239929,index
+Esquimalt,2021,Remoteness,0.1441767372535548,index
+Colwood,2021,Remoteness,0.1453187929516917,index
+Metchosin,2021,Remoteness,0.15940584803837,index
+Langford,2021,Remoteness,0.1482914603210748,index
+View Royal,2021,Remoteness,0.1439384546141112,index
+Highlands,2021,Remoteness,0.1475909392320913,index
+Sooke,2021,Remoteness,0.1765927560080269,index
+North Cowichan,2021,Remoteness,0.1572377019015465,index
+Duncan,2021,Remoteness,0.1595946759035486,index
+Lake Cowichan,2021,Remoteness,0.1775588964177851,index
+Ladysmith,2021,Remoteness,0.1620777461721745,index
+Nanaimo,2021,Remoteness,0.1532741190811812,index
+Lantzville,2021,Remoteness,0.1750321249737492,index
+Parksville,2021,Remoteness,0.187105716369001,index
+Qualicum Beach,2021,Remoteness,0.1949231487404975,index
+Port Alberni,2021,Remoteness,0.2832467626905667,index
+Ucluelet,2021,Remoteness,0.3901291124401334,index
+Tofino,2021,Remoteness,0.41316159111774,index
+Gold River,2021,Remoteness,0.4284475955080753,index
+Campbell River,2021,Remoteness,0.309898567771169,index
+Sayward,2021,Remoteness,0.4089180663126175,index
+Courtenay,2021,Remoteness,0.2856192151710963,index
+Cumberland,2021,Remoteness,0.2867328324621562,index
+Gibsons,2021,Remoteness,0.1320828246740967,index
+Sechelt,2021,Remoteness,0.1563961421616692,index
+Squamish,2021,Remoteness,0.1571332513952856,index
+Pemberton,2021,Remoteness,0.2201981782580954,index
+Whistler,2021,Remoteness,0.1994519127269842,index
+Lillooet,2021,Remoteness,0.4240817599982917,index
+Merritt,2021,Remoteness,0.3151140935184279,index
+Ashcroft,2021,Remoteness,0.4044100646591584,index
+Cache Creek,2021,Remoteness,0.3931487179114488,index
+Clinton,2021,Remoteness,0.421087581466413,index
+Logan Lake,2021,Remoteness,0.331523971904952,index
+Kamloops,2021,Remoteness,0.2856524326707023,index
+Chase,2021,Remoteness,0.3197060111776335,index
+Kelowna,2021,Remoteness,0.2333077341125506,index
+Lake Country,2021,Remoteness,0.2538915531675944,index
+Peachland,2021,Remoteness,0.2608881888228441,index
+Lumby,2021,Remoteness,0.2926812524158554,index
+Coldstream,2021,Remoteness,0.2654368562207453,index
+Vernon,2021,Remoteness,0.2648520284742509,index
+Spallumcheen,2021,Remoteness,0.2846719223412303,index
+Armstrong,2021,Remoteness,0.2829336796167592,index
+Enderby,2021,Remoteness,0.2914559594184815,index
+Golden,2021,Remoteness,0.4756548274214301,index
+Revelstoke,2021,Remoteness,0.4051875970896775,index
+Salmon Arm,2021,Remoteness,0.3013373478816191,index
+Sicamous,2021,Remoteness,0.3168689312085887,index
+One Hundred Mile House,2021,Remoteness,0.434028991798023,index
+Williams Lake,2021,Remoteness,0.4293527968866465,index
+Quesnel,2021,Remoteness,0.3967781537011823,index
+Alert Bay,2021,Remoteness,0.5325554317607689,index
+Port McNeill,2021,Remoteness,0.5255839331351538,index
+Port Alice,2021,Remoteness,0.5700724425108703,index
+Port Hardy,2021,Remoteness,0.5132040875594177,index
+Port Edward,2021,Remoteness,0.429338668961478,index
+Prince Rupert,2021,Remoteness,0.4326080013761921,index
+Masset,2021,Remoteness,0.6447275903290663,index
+Queen Charlotte,2021,Remoteness,0.6171676628799778,index
+Port Clements,2021,Remoteness,0.6343823660086061,index
+Kitimat,2021,Remoteness,0.4488766778831426,index
+Terrace,2021,Remoteness,0.4132816773803979,index
+New Hazelton,2021,Remoteness,0.5142678901278059,index
+Stewart,2021,Remoteness,0.6318054017158921,index
+Vanderhoof,2021,Remoteness,0.4289060282165833,index
+Fraser Lake,2021,Remoteness,0.4627779214696563,index
+Fort St. James,2021,Remoteness,0.458461115916876,index
+Burns Lake,2021,Remoteness,0.5233367879529361,index
+Granisle,2021,Remoteness,0.583326970536276,index
+Houston,2021,Remoteness,0.5122720578622184,index
+Telkwa,2021,Remoteness,0.4730933345559958,index
+Smithers,2021,Remoteness,0.4753381654848576,index
+Valemount,2021,Remoteness,0.6584008756881428,index
+McBride,2021,Remoteness,0.6793526587117666,index
+Prince George,2021,Remoteness,0.3172649901532312,index
+Mackenzie,2021,Remoteness,0.4633294187564081,index
+Tumbler Ridge,2021,Remoteness,0.4880836193163248,index
+Pouce Coupe,2021,Remoteness,0.3839154383169506,index
+Chetwynd,2021,Remoteness,0.4966159873195825,index
+Dawson Creek,2021,Remoteness,0.3845752091947351,index
+Hudson's Hope,2021,Remoteness,0.496126136525443,index
+Taylor,2021,Remoteness,0.3733698420668179,index
+Fort St. John,2021,Remoteness,0.3906082217625837,index

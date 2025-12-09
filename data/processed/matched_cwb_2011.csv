@@ -1,5 +1,4 @@
 CSD Code 2011,CSD Name 2011,Census Population 2011,GNR 2011,Income 2011,Education 2011,Housing 2011,Labour Force Activity 2011,CWB 2011,Community Type / Type de communauté 2011
-5901003,Elkford,2523.0,49.0,86.0,61.0,98.0,89.0,84.0,Non-Indigenous Community / Communauté non-Autochtone
 5901006,Sparwood,3667.0,41.0,86.0,60.0,96.0,87.0,82.0,Non-Indigenous Community / Communauté non-Autochtone
 5901012,Fernie,4448.0,46.0,83.0,70.0,96.0,91.0,85.0,Non-Indigenous Community / Communauté non-Autochtone
 5901022,Cranbrook,19319.0,29.1,74.0,59.0,96.0,87.0,79.0,Non-Indigenous Community / Communauté non-Autochtone
@@ -10,9 +9,7 @@ CSD Code 2011,CSD Name 2011,Census Population 2011,GNR 2011,Income 2011,Educatio
 5903004,Creston,5306.0,32.4,71.0,58.0,92.0,84.0,76.0,Non-Indigenous Community / Communauté non-Autochtone
 5903011,Salmo,1139.0,53.0,63.0,51.0,95.0,82.0,73.0,Non-Indigenous Community / Communauté non-Autochtone
 5903015,Nelson,10230.0,28.3,75.0,70.0,94.0,85.0,81.0,Non-Indigenous Community / Communauté non-Autochtone
-5903019,Slocan,296.0,63.3,,,,,72.0,Non-Indigenous Community / Communauté non-Autochtone
 5903023,Kaslo,1026.0,46.8,68.0,66.0,90.0,74.0,74.0,Non-Indigenous Community / Communauté non-Autochtone
-5903027,Silverton,195.0,60.5,,,,,65.0,Non-Indigenous Community / Communauté non-Autochtone
 5903032,New Denver,504.0,47.3,71.0,61.0,94.0,78.0,76.0,Non-Indigenous Community / Communauté non-Autochtone
 5903045,Castlegar,7816.0,24.1,75.0,61.0,95.0,84.0,79.0,Non-Indigenous Community / Communauté non-Autochtone
 5903050,Nakusp,1569.0,41.3,67.0,54.0,93.0,81.0,74.0,Non-Indigenous Community / Communauté non-Autochtone
@@ -82,23 +79,17 @@ CSD Code 2011,CSD Name 2011,Census Population 2011,GNR 2011,Income 2011,Educatio
 5923019,Ucluelet,1627.0,52.5,74.0,62.0,92.0,89.0,79.0,Non-Indigenous Community / Communauté non-Autochtone
 5923025,Tofino,1876.0,55.0,74.0,67.0,98.0,94.0,83.0,Non-Indigenous Community / Communauté non-Autochtone
 5924025,Gold River,1267.0,52.7,76.0,58.0,97.0,89.0,80.0,Non-Indigenous Community / Communauté non-Autochtone
-5924029,Zeballos,125.0,42.5,,,,,77.0,Non-Indigenous Community / Communauté non-Autochtone
-5924030,Tahsis,316.0,59.7,62.0,59.0,98.0,90.0,77.0,Non-Indigenous Community / Communauté non-Autochtone
 5924034,Campbell River,31186.0,22.0,74.0,59.0,95.0,84.0,78.0,Non-Indigenous Community / Communauté non-Autochtone
 5924039,Sayward,317.0,41.5,79.0,52.0,92.0,73.0,74.0,Non-Indigenous Community / Communauté non-Autochtone
-5926005,Comox,13627.0,19.5,78.0,67.0,97.0,87.0,82.0,Non-Indigenous Community / Communauté non-Autochtone
 5926010,Courtenay,24099.0,20.5,73.0,60.0,96.0,83.0,78.0,Non-Indigenous Community / Communauté non-Autochtone
 5926014,Cumberland,3398.0,37.0,68.0,58.0,94.0,86.0,76.0,Non-Indigenous Community / Communauté non-Autochtone
-5927008,Powell River,13165.0,23.2,73.0,59.0,96.0,82.0,78.0,Non-Indigenous Community / Communauté non-Autochtone
 5929005,Gibsons,4437.0,26.3,77.0,67.0,93.0,86.0,81.0,Non-Indigenous Community / Communauté non-Autochtone
 5929011,Sechelt,9291.0,41.4,80.0,68.0,98.0,87.0,83.0,Non-Indigenous Community / Communauté non-Autochtone
-5929803,Sechelt IGD,797.0,26.1,63.0,53.0,89.0,78.0,71.0,First Nations Community / Communauté des Premières Nations
 5931006,Squamish,17158.0,29.2,76.0,66.0,94.0,90.0,81.0,Non-Indigenous Community / Communauté non-Autochtone
 5931012,Pemberton,2369.0,50.6,78.0,72.0,93.0,94.0,84.0,Non-Indigenous Community / Communauté non-Autochtone
 5931020,Whistler,9824.0,46.3,85.0,77.0,94.0,91.0,87.0,Non-Indigenous Community / Communauté non-Autochtone
 5931026,Lillooet,2322.0,31.0,73.0,59.0,91.0,77.0,75.0,Non-Indigenous Community / Communauté non-Autochtone
 5933006,Merritt,7113.0,45.0,74.0,58.0,93.0,82.0,77.0,Non-Indigenous Community / Communauté non-Autochtone
-5933015,Lytton,228.0,52.6,,,,,76.0,Non-Indigenous Community / Communauté non-Autochtone
 5933019,Ashcroft,1628.0,32.2,75.0,56.0,95.0,82.0,77.0,Non-Indigenous Community / Communauté non-Autochtone
 5933024,Cache Creek,1040.0,39.1,71.0,43.0,97.0,86.0,74.0,Non-Indigenous Community / Communauté non-Autochtone
 5933028,Clinton,636.0,57.9,69.0,46.0,96.0,77.0,72.0,Non-Indigenous Community / Communauté non-Autochtone
@@ -121,7 +112,6 @@ CSD Code 2011,CSD Name 2011,Census Population 2011,GNR 2011,Income 2011,Educatio
 5941005,One Hundred Mile House,1886.0,52.9,70.0,54.0,95.0,79.0,75.0,Non-Indigenous Community / Communauté non-Autochtone
 5941009,Williams Lake,10832.0,22.9,73.0,58.0,93.0,85.0,77.0,Non-Indigenous Community / Communauté non-Autochtone
 5941013,Quesnel,10007.0,20.4,72.0,53.0,94.0,82.0,75.0,Non-Indigenous Community / Communauté non-Autochtone
-5941025,Wells,245.0,40.9,,,,,70.0,Non-Indigenous Community / Communauté non-Autochtone
 5943008,Alert Bay,445.0,47.9,71.0,51.0,90.0,92.0,76.0,Non-Indigenous Community / Communauté non-Autochtone
 5943012,Port McNeill,2505.0,35.1,77.0,55.0,97.0,89.0,80.0,Non-Indigenous Community / Communauté non-Autochtone
 5943017,Port Alice,805.0,51.7,82.0,57.0,93.0,86.0,79.0,Non-Indigenous Community / Communauté non-Autochtone
@@ -133,7 +123,6 @@ CSD Code 2011,CSD Name 2011,Census Population 2011,GNR 2011,Income 2011,Educatio
 5947030,Port Clements,378.0,51.1,69.0,47.0,91.0,89.0,74.0,Non-Indigenous Community / Communauté non-Autochtone
 5949005,Kitimat,8335.0,17.6,80.0,56.0,95.0,82.0,78.0,Non-Indigenous Community / Communauté non-Autochtone
 5949011,Terrace,11486.0,20.9,74.0,59.0,94.0,86.0,78.0,Non-Indigenous Community / Communauté non-Autochtone
-5949022,Hazelton,270.0,39.6,,,,,87.0,Non-Indigenous Community / Communauté non-Autochtone
 5949024,New Hazelton,666.0,39.7,67.0,64.0,93.0,76.0,75.0,Non-Indigenous Community / Communauté non-Autochtone
 5949032,Stewart,494.0,62.1,84.0,61.0,83.0,87.0,79.0,Non-Indigenous Community / Communauté non-Autochtone
 5951007,Vanderhoof,4480.0,26.4,76.0,57.0,95.0,85.0,78.0,Non-Indigenous Community / Communauté non-Autochtone

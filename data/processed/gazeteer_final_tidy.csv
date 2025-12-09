@@ -1,0 +1,291 @@
+Municipality_Name,Year,Metric,Value,Unit
+Abbotsford,2021,Latitude,49.0522222179353,decimal_degrees
+Alert Bay,2021,Latitude,50.5838888850092,decimal_degrees
+Anmore,2021,Latitude,49.314444440231,decimal_degrees
+Armstrong,2021,Latitude,50.4483333294198,decimal_degrees
+Ashcroft,2021,Latitude,50.7213888850433,decimal_degrees
+Belcarra,2021,Latitude,49.3136111068975,decimal_degrees
+Bowen Island,2021,Latitude,49.3797222180267,decimal_degrees
+Burnaby,2021,Latitude,49.2427777735444,decimal_degrees
+Burns Lake,2021,Latitude,54.2302777746707,decimal_degrees
+Cache Creek,2021,Latitude,50.811944440621,decimal_degrees
+Campbell River,2021,Latitude,50.0230555515328,decimal_degrees
+Canal Flats,2021,Latitude,50.1602777737907,decimal_degrees
+Castlegar,2021,Latitude,49.3244444402338,decimal_degrees
+Central Saanich,2021,Latitude,48.5944444400255,decimal_degrees
+Chase,2021,Latitude,50.819166662845,decimal_degrees
+Chetwynd,2021,Latitude,55.6958333304683,decimal_degrees
+Chilliwack,2021,Latitude,49.1577777735206,decimal_degrees
+Clinton,2021,Latitude,51.0916666629107,decimal_degrees
+Coldstream,2021,Latitude,50.2238888849182,decimal_degrees
+Colwood,2021,Latitude,48.4236111066417,decimal_degrees
+Coquitlam,2021,Latitude,49.2841666624448,decimal_degrees
+Courtenay,2021,Latitude,49.6894444403333,decimal_degrees
+Cranbrook,2021,Latitude,49.5080555513953,decimal_degrees
+Creston,2021,Latitude,49.0974999957259,decimal_degrees
+Cumberland,2021,Latitude,49.6186111069809,decimal_degrees
+Dawson Creek,2021,Latitude,55.7605555527003,decimal_degrees
+Delta,2021,Latitude,49.0847222179445,decimal_degrees
+Duncan,2021,Latitude,48.7786111067459,decimal_degrees
+Enderby,2021,Latitude,50.5505555516676,decimal_degrees
+Esquimalt,2021,Latitude,48.4297222177547,decimal_degrees
+Fernie,2021,Latitude,49.5041666625054,decimal_degrees
+Fort St. James,2021,Latitude,54.4444444413748,decimal_degrees
+Fort St. John,2021,Latitude,56.2524999972181,decimal_degrees
+Fraser Lake,2021,Latitude,54.0602777746402,decimal_degrees
+Fruitvale,2021,Latitude,49.1149999957308,decimal_degrees
+Gibsons,2021,Latitude,49.400277773588,decimal_degrees
+Gold River,2021,Latitude,49.7813888848023,decimal_degrees
+Golden,2021,Latitude,51.2977777740704,decimal_degrees
+Grand Forks,2021,Latitude,49.0311111068182,decimal_degrees
+Granisle,2021,Latitude,54.8847222192275,decimal_degrees
+Greenwood,2021,Latitude,49.0883333290566,decimal_degrees
+Harrison Hot Springs,2021,Latitude,49.2988888846711,decimal_degrees
+Highlands,2021,Latitude,48.480555551103,decimal_degrees
+Hope,2021,Latitude,49.3799999958047,decimal_degrees
+Houston,2021,Latitude,54.3983333302558,decimal_degrees
+Hudson's Hope,2021,Latitude,56.0258333305181,decimal_degrees
+Invermere,2021,Latitude,50.5058333294342,decimal_degrees
+Kamloops,2021,Latitude,50.6758333294765,decimal_degrees
+Kaslo,2021,Latitude,49.9105555515033,decimal_degrees
+Kelowna,2021,Latitude,49.8880555514974,decimal_degrees
+Kent,2021,Latitude,49.2380555513208,decimal_degrees
+Keremeos,2021,Latitude,49.2047222179782,decimal_degrees
+Kimberley,2021,Latitude,49.6849999958877,decimal_degrees
+Kitimat,2021,Latitude,54.0533333301945,decimal_degrees
+Ladysmith,2021,Latitude,48.9933333290297,decimal_degrees
+Lake Country,2021,Latitude,50.0302777737569,decimal_degrees
+Lake Cowichan,2021,Latitude,48.8258333289817,decimal_degrees
+Langford,2021,Latitude,48.4497222177606,decimal_degrees
+Lantzville,2021,Latitude,49.2505555513243,decimal_degrees
+Lillooet,2021,Latitude,50.6938888850365,decimal_degrees
+Lions Bay,2021,Latitude,49.4586111069374,decimal_degrees
+Logan Lake,2021,Latitude,50.4944444405425,decimal_degrees
+Lumby,2021,Latitude,50.2508333293695,decimal_degrees
+Mackenzie,2021,Latitude,55.3244444415213,decimal_degrees
+Maple Ridge,2021,Latitude,49.2199999957603,decimal_degrees
+Masset,2021,Latitude,54.0111111079648,decimal_degrees
+McBride,2021,Latitude,53.3041666633877,decimal_degrees
+Merritt,2021,Latitude,50.1124999960006,decimal_degrees
+Metchosin,2021,Latitude,48.379166662184,decimal_degrees
+Midway,2021,Latitude,49.008333329034,decimal_degrees
+Mission,2021,Latitude,49.1591666624099,decimal_degrees
+Montrose,2021,Latitude,49.0788888846095,decimal_degrees
+Nakusp,2021,Latitude,50.2391666626999,decimal_degrees
+Nanaimo,2021,Latitude,49.1638888846334,decimal_degrees
+Nelson,2021,Latitude,49.4933333291691,decimal_degrees
+New Denver,2021,Latitude,49.9913888848579,decimal_degrees
+New Hazelton,2021,Latitude,55.2433333303973,decimal_degrees
+New Westminster,2021,Latitude,49.2066666624232,decimal_degrees
+North Cowichan,2021,Latitude,48.8247222178703,decimal_degrees
+North Saanich,2021,Latitude,48.6563888844881,decimal_degrees
+Oak Bay,2021,Latitude,48.4258333288646,decimal_degrees
+Oliver,2021,Latitude,49.1824999957498,decimal_degrees
+Osoyoos,2021,Latitude,49.0324999957075,decimal_degrees
+Parksville,2021,Latitude,49.3180555513431,decimal_degrees
+Peachland,2021,Latitude,49.7738888848004,decimal_degrees
+Pemberton,2021,Latitude,50.3205555516096,decimal_degrees
+Penticton,2021,Latitude,49.5008333291712,decimal_degrees
+Pitt Meadows,2021,Latitude,49.2205555513159,decimal_degrees
+Port Alberni,2021,Latitude,49.2344444402087,decimal_degrees
+Port Alice,2021,Latitude,50.4266666627476,decimal_degrees
+Port Clements,2021,Latitude,53.6855555523492,decimal_degrees
+Port Coquitlam,2021,Latitude,49.2619444402164,decimal_degrees
+Port Edward,2021,Latitude,54.2205555524467,decimal_degrees
+Port Hardy,2021,Latitude,50.7244444405996,decimal_degrees
+Port McNeill,2021,Latitude,50.5894444405662,decimal_degrees
+Port Moody,2021,Latitude,49.2822222179998,decimal_degrees
+Pouce Coupe,2021,Latitude,55.7147222193601,decimal_degrees
+Prince George,2021,Latitude,53.9130555523913,decimal_degrees
+Prince Rupert,2021,Latitude,54.3127777746853,decimal_degrees
+Princeton,2021,Latitude,49.4602777736045,decimal_degrees
+Qualicum Beach,2021,Latitude,49.3480555513514,decimal_degrees
+Quesnel,2021,Latitude,52.9797222188793,decimal_degrees
+Radium Hot Springs,2021,Latitude,50.6199999961294,decimal_degrees
+Revelstoke,2021,Latitude,50.9988888851107,decimal_degrees
+Richmond,2021,Latitude,49.1633333290778,decimal_degrees
+Rossland,2021,Latitude,49.0769444401645,decimal_degrees
+Saanich,2021,Latitude,48.4566666622071,decimal_degrees
+Salmo,2021,Latitude,49.1933333290861,decimal_degrees
+Salmon Arm,2021,Latitude,50.7013888850384,decimal_degrees
+Sayward,2021,Latitude,50.3788888849577,decimal_degrees
+Sechelt,2021,Latitude,49.4716666624965,decimal_degrees
+Sicamous,2021,Latitude,50.8361111072937,decimal_degrees
+Sidney,2021,Latitude,48.6505555511531,decimal_degrees
+Smithers,2021,Latitude,54.7791666636544,decimal_degrees
+Sooke,2021,Latitude,48.3827777732962,decimal_degrees
+Spallumcheen,2021,Latitude,50.4024999960749,decimal_degrees
+Sparwood,2021,Latitude,49.733333329234,decimal_degrees
+Squamish,2021,Latitude,49.6980555514467,decimal_degrees
+Stewart,2021,Latitude,55.9383333305051,decimal_degrees
+Summerland,2021,Latitude,49.6022222180876,decimal_degrees
+Surrey,2021,Latitude,49.1116666623965,decimal_degrees
+Taylor,2021,Latitude,56.1591666638711,decimal_degrees
+Telkwa,2021,Latitude,54.6966666636404,decimal_degrees
+Terrace,2021,Latitude,54.5163888858318,decimal_degrees
+Tofino,2021,Latitude,49.153055551297,decimal_degrees
+Trail,2021,Latitude,49.0944444401694,decimal_degrees
+Tumbler Ridge,2021,Latitude,55.1261111081561,decimal_degrees
+Ucluelet,2021,Latitude,48.9427777734597,decimal_degrees
+Valemount,2021,Latitude,52.8294444410713,decimal_degrees
+Vancouver,2021,Latitude,49.2611111068828,decimal_degrees
+Vanderhoof,2021,Latitude,54.0174999968548,decimal_degrees
+Vernon,2021,Latitude,50.2658333293734,decimal_degrees
+Victoria,2021,Latitude,48.4283333288653,decimal_degrees
+View Royal,2021,Latitude,48.4519444399834,decimal_degrees
+Warfield,2021,Latitude,49.0941666623916,decimal_degrees
+West Vancouver,2021,Latitude,49.3311111069022,decimal_degrees
+Whistler,2021,Latitude,50.117222218224,decimal_degrees
+White Rock,2021,Latitude,49.023611106816,decimal_degrees
+Williams Lake,2021,Latitude,52.1291666631466,decimal_degrees
+Langley City,2021,Latitude,49.1024999957273,decimal_degrees
+Langley Township,2021,Latitude,49.1202777735101,decimal_degrees
+North Vancouver City,2021,Latitude,49.3205555513438,decimal_degrees
+North Vancouver District,2021,Latitude,49.3361111069036,decimal_degrees
+One Hundred Mile House,2021,Latitude,51.6427777741498,decimal_degrees
+Queen Charlotte,2021,Latitude,53.2538775271079,decimal_degrees
+Abbotsford,2021,Longitude,-122.329166666667,decimal_degrees
+Alert Bay,2021,Longitude,-126.927777777778,decimal_degrees
+Anmore,2021,Longitude,-122.856388888889,decimal_degrees
+Armstrong,2021,Longitude,-119.196666666667,decimal_degrees
+Ashcroft,2021,Longitude,-121.283611111111,decimal_degrees
+Belcarra,2021,Longitude,-122.915,decimal_degrees
+Bowen Island,2021,Longitude,-123.344166666667,decimal_degrees
+Burnaby,2021,Longitude,-122.972777777778,decimal_degrees
+Burns Lake,2021,Longitude,-125.764444444444,decimal_degrees
+Cache Creek,2021,Longitude,-121.323333333333,decimal_degrees
+Campbell River,2021,Longitude,-125.243611111111,decimal_degrees
+Canal Flats,2021,Longitude,-115.808888888889,decimal_degrees
+Castlegar,2021,Longitude,-117.666944444444,decimal_degrees
+Central Saanich,2021,Longitude,-123.420833333333,decimal_degrees
+Chase,2021,Longitude,-119.686111111111,decimal_degrees
+Chetwynd,2021,Longitude,-121.638333333333,decimal_degrees
+Chilliwack,2021,Longitude,-121.950833333333,decimal_degrees
+Clinton,2021,Longitude,-121.586666666667,decimal_degrees
+Coldstream,2021,Longitude,-119.23,decimal_degrees
+Colwood,2021,Longitude,-123.493333333333,decimal_degrees
+Coquitlam,2021,Longitude,-122.793611111111,decimal_degrees
+Courtenay,2021,Longitude,-124.995833333333,decimal_degrees
+Cranbrook,2021,Longitude,-115.746944444444,decimal_degrees
+Creston,2021,Longitude,-116.513055555556,decimal_degrees
+Cumberland,2021,Longitude,-125.0325,decimal_degrees
+Dawson Creek,2021,Longitude,-120.235555555556,decimal_degrees
+Delta,2021,Longitude,-123.058611111111,decimal_degrees
+Duncan,2021,Longitude,-123.708055555556,decimal_degrees
+Enderby,2021,Longitude,-119.139444444444,decimal_degrees
+Esquimalt,2021,Longitude,-123.414444444444,decimal_degrees
+Fernie,2021,Longitude,-115.062777777778,decimal_degrees
+Fort St. James,2021,Longitude,-124.259166666667,decimal_degrees
+Fort St. John,2021,Longitude,-120.846666666667,decimal_degrees
+Fraser Lake,2021,Longitude,-124.843888888889,decimal_degrees
+Fruitvale,2021,Longitude,-117.542777777778,decimal_degrees
+Gibsons,2021,Longitude,-123.508888888889,decimal_degrees
+Gold River,2021,Longitude,-126.046944444444,decimal_degrees
+Golden,2021,Longitude,-116.964722222222,decimal_degrees
+Grand Forks,2021,Longitude,-118.439166666667,decimal_degrees
+Granisle,2021,Longitude,-126.206666666667,decimal_degrees
+Greenwood,2021,Longitude,-118.676388888889,decimal_degrees
+Harrison Hot Springs,2021,Longitude,-121.784444444444,decimal_degrees
+Highlands,2021,Longitude,-123.511944444444,decimal_degrees
+Hope,2021,Longitude,-121.441388888889,decimal_degrees
+Houston,2021,Longitude,-126.648333333333,decimal_degrees
+Hudson's Hope,2021,Longitude,-121.913611111111,decimal_degrees
+Invermere,2021,Longitude,-116.030555555556,decimal_degrees
+Kamloops,2021,Longitude,-120.339444444444,decimal_degrees
+Kaslo,2021,Longitude,-116.905,decimal_degrees
+Kelowna,2021,Longitude,-119.495555555556,decimal_degrees
+Kent,2021,Longitude,-121.7625,decimal_degrees
+Keremeos,2021,Longitude,-119.829722222222,decimal_degrees
+Kimberley,2021,Longitude,-115.981666666667,decimal_degrees
+Kitimat,2021,Longitude,-128.652222222222,decimal_degrees
+Ladysmith,2021,Longitude,-123.815555555556,decimal_degrees
+Lake Country,2021,Longitude,-119.4025,decimal_degrees
+Lake Cowichan,2021,Longitude,-124.056388888889,decimal_degrees
+Langford,2021,Longitude,-123.504444444444,decimal_degrees
+Lantzville,2021,Longitude,-124.074444444444,decimal_degrees
+Lillooet,2021,Longitude,-121.933611111111,decimal_degrees
+Lions Bay,2021,Longitude,-123.235277777778,decimal_degrees
+Logan Lake,2021,Longitude,-120.813333333333,decimal_degrees
+Lumby,2021,Longitude,-118.961944444444,decimal_degrees
+Mackenzie,2021,Longitude,-123.092777777778,decimal_degrees
+Maple Ridge,2021,Longitude,-122.598888888889,decimal_degrees
+Masset,2021,Longitude,-132.146666666667,decimal_degrees
+McBride,2021,Longitude,-120.163888888889,decimal_degrees
+Merritt,2021,Longitude,-120.788333333333,decimal_degrees
+Metchosin,2021,Longitude,-123.535833333333,decimal_degrees
+Midway,2021,Longitude,-118.778333333333,decimal_degrees
+Mission,2021,Longitude,-122.283888888889,decimal_degrees
+Montrose,2021,Longitude,-117.594166666667,decimal_degrees
+Nakusp,2021,Longitude,-117.7975,decimal_degrees
+Nanaimo,2021,Longitude,-123.938055555556,decimal_degrees
+Nelson,2021,Longitude,-117.295833333333,decimal_degrees
+New Denver,2021,Longitude,-117.377222222222,decimal_degrees
+New Hazelton,2021,Longitude,-127.586944444444,decimal_degrees
+New Westminster,2021,Longitude,-122.910555555556,decimal_degrees
+North Cowichan,2021,Longitude,-123.719722222222,decimal_degrees
+North Saanich,2021,Longitude,-123.432222222222,decimal_degrees
+Oak Bay,2021,Longitude,-123.318055555556,decimal_degrees
+Oliver,2021,Longitude,-119.550833333333,decimal_degrees
+Osoyoos,2021,Longitude,-119.468333333333,decimal_degrees
+Parksville,2021,Longitude,-124.311388888889,decimal_degrees
+Peachland,2021,Longitude,-119.736388888889,decimal_degrees
+Pemberton,2021,Longitude,-122.807777777778,decimal_degrees
+Penticton,2021,Longitude,-119.593888888889,decimal_degrees
+Pitt Meadows,2021,Longitude,-122.690277777778,decimal_degrees
+Port Alberni,2021,Longitude,-124.805833333333,decimal_degrees
+Port Alice,2021,Longitude,-127.488055555556,decimal_degrees
+Port Clements,2021,Longitude,-132.183611111111,decimal_degrees
+Port Coquitlam,2021,Longitude,-122.780277777778,decimal_degrees
+Port Edward,2021,Longitude,-130.289444444444,decimal_degrees
+Port Hardy,2021,Longitude,-127.498055555556,decimal_degrees
+Port McNeill,2021,Longitude,-127.083611111111,decimal_degrees
+Port Moody,2021,Longitude,-122.829444444444,decimal_degrees
+Pouce Coupe,2021,Longitude,-120.133611111111,decimal_degrees
+Prince George,2021,Longitude,-122.745277777778,decimal_degrees
+Prince Rupert,2021,Longitude,-130.325277777778,decimal_degrees
+Princeton,2021,Longitude,-120.507777777778,decimal_degrees
+Qualicum Beach,2021,Longitude,-124.443888888889,decimal_degrees
+Quesnel,2021,Longitude,-122.493611111111,decimal_degrees
+Radium Hot Springs,2021,Longitude,-116.076111111111,decimal_degrees
+Revelstoke,2021,Longitude,-118.195833333333,decimal_degrees
+Richmond,2021,Longitude,-123.163333333333,decimal_degrees
+Rossland,2021,Longitude,-117.802222222222,decimal_degrees
+Saanich,2021,Longitude,-123.373333333333,decimal_degrees
+Salmo,2021,Longitude,-117.278611111111,decimal_degrees
+Salmon Arm,2021,Longitude,-119.278055555556,decimal_degrees
+Sayward,2021,Longitude,-125.959444444444,decimal_degrees
+Sechelt,2021,Longitude,-123.763333333333,decimal_degrees
+Sicamous,2021,Longitude,-118.98,decimal_degrees
+Sidney,2021,Longitude,-123.398333333333,decimal_degrees
+Smithers,2021,Longitude,-127.176111111111,decimal_degrees
+Sooke,2021,Longitude,-123.731944444444,decimal_degrees
+Spallumcheen,2021,Longitude,-119.2175,decimal_degrees
+Sparwood,2021,Longitude,-114.885833333333,decimal_degrees
+Squamish,2021,Longitude,-123.155833333333,decimal_degrees
+Stewart,2021,Longitude,-129.991111111111,decimal_degrees
+Summerland,2021,Longitude,-119.681944444444,decimal_degrees
+Surrey,2021,Longitude,-122.8275,decimal_degrees
+Taylor,2021,Longitude,-120.686666666667,decimal_degrees
+Telkwa,2021,Longitude,-127.050833333333,decimal_degrees
+Terrace,2021,Longitude,-128.599722222222,decimal_degrees
+Tofino,2021,Longitude,-125.904444444444,decimal_degrees
+Trail,2021,Longitude,-117.709166666667,decimal_degrees
+Tumbler Ridge,2021,Longitude,-120.998055555556,decimal_degrees
+Ucluelet,2021,Longitude,-125.546111111111,decimal_degrees
+Valemount,2021,Longitude,-119.28,decimal_degrees
+Vancouver,2021,Longitude,-123.113888888889,decimal_degrees
+Vanderhoof,2021,Longitude,-124.0075,decimal_degrees
+Vernon,2021,Longitude,-119.271666666667,decimal_degrees
+Victoria,2021,Longitude,-123.364722222222,decimal_degrees
+View Royal,2021,Longitude,-123.434166666667,decimal_degrees
+Warfield,2021,Longitude,-117.749166666667,decimal_degrees
+West Vancouver,2021,Longitude,-123.159722222222,decimal_degrees
+Whistler,2021,Longitude,-122.954722222222,decimal_degrees
+White Rock,2021,Longitude,-122.798333333333,decimal_degrees
+Williams Lake,2021,Longitude,-122.14,decimal_degrees
+Langley City,2021,Longitude,-122.658055555556,decimal_degrees
+Langley Township,2021,Longitude,-122.659722222222,decimal_degrees
+North Vancouver City,2021,Longitude,-123.073888888889,decimal_degrees
+North Vancouver District,2021,Longitude,-123.078055555556,decimal_degrees
+One Hundred Mile House,2021,Longitude,-121.295555555556,decimal_degrees
+Queen Charlotte,2021,Longitude,-132.0864178973,decimal_degrees
