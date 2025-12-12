@@ -1,4 +1,5 @@
 Municipality_Name,Year,Metric,Value,Unit
+Elkford,2021,Remoteness,0.4570278774291533,index
 Sparwood,2021,Remoteness,0.3872255636978471,index
 Fernie,2021,Remoteness,0.4276168342809352,index
 Cranbrook,2021,Remoteness,0.3856091533176329,index
@@ -81,8 +82,10 @@ Tofino,2021,Remoteness,0.41316159111774,index
 Gold River,2021,Remoteness,0.4284475955080753,index
 Campbell River,2021,Remoteness,0.309898567771169,index
 Sayward,2021,Remoteness,0.4089180663126175,index
+Comox,2021,Remoteness,0.2878623734425833,index
 Courtenay,2021,Remoteness,0.2856192151710963,index
 Cumberland,2021,Remoteness,0.2867328324621562,index
+Powell River,2021,Remoteness,0.3229754343149366,index
 Gibsons,2021,Remoteness,0.1320828246740967,index
 Sechelt,2021,Remoteness,0.1563961421616692,index
 Squamish,2021,Remoteness,0.1571332513952856,index

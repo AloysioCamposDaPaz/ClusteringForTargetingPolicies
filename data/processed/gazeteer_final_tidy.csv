@@ -19,6 +19,7 @@ Chilliwack,2021,Latitude,49.1577777735206,decimal_degrees
 Clinton,2021,Latitude,51.0916666629107,decimal_degrees
 Coldstream,2021,Latitude,50.2238888849182,decimal_degrees
 Colwood,2021,Latitude,48.4236111066417,decimal_degrees
+Comox,2021,Latitude,49.6727777736622,decimal_degrees
 Coquitlam,2021,Latitude,49.2841666624448,decimal_degrees
 Courtenay,2021,Latitude,49.6894444403333,decimal_degrees
 Cranbrook,2021,Latitude,49.5080555513953,decimal_degrees
@@ -27,6 +28,7 @@ Cumberland,2021,Latitude,49.6186111069809,decimal_degrees
 Dawson Creek,2021,Latitude,55.7605555527003,decimal_degrees
 Delta,2021,Latitude,49.0847222179445,decimal_degrees
 Duncan,2021,Latitude,48.7786111067459,decimal_degrees
+Elkford,2021,Latitude,50.0244444404221,decimal_degrees
 Enderby,2021,Latitude,50.5505555516676,decimal_degrees
 Esquimalt,2021,Latitude,48.4297222177547,decimal_degrees
 Fernie,2021,Latitude,49.5041666625054,decimal_degrees
@@ -96,6 +98,7 @@ Port Hardy,2021,Latitude,50.7244444405996,decimal_degrees
 Port McNeill,2021,Latitude,50.5894444405662,decimal_degrees
 Port Moody,2021,Latitude,49.2822222179998,decimal_degrees
 Pouce Coupe,2021,Latitude,55.7147222193601,decimal_degrees
+Powell River,2021,Latitude,49.835555548341,decimal_degrees
 Prince George,2021,Latitude,53.9130555523913,decimal_degrees
 Prince Rupert,2021,Latitude,54.3127777746853,decimal_degrees
 Princeton,2021,Latitude,49.4602777736045,decimal_degrees
@@ -164,6 +167,7 @@ Chilliwack,2021,Longitude,-121.950833333333,decimal_degrees
 Clinton,2021,Longitude,-121.586666666667,decimal_degrees
 Coldstream,2021,Longitude,-119.23,decimal_degrees
 Colwood,2021,Longitude,-123.493333333333,decimal_degrees
+Comox,2021,Longitude,-124.927777777778,decimal_degrees
 Coquitlam,2021,Longitude,-122.793611111111,decimal_degrees
 Courtenay,2021,Longitude,-124.995833333333,decimal_degrees
 Cranbrook,2021,Longitude,-115.746944444444,decimal_degrees
@@ -172,6 +176,7 @@ Cumberland,2021,Longitude,-125.0325,decimal_degrees
 Dawson Creek,2021,Longitude,-120.235555555556,decimal_degrees
 Delta,2021,Longitude,-123.058611111111,decimal_degrees
 Duncan,2021,Longitude,-123.708055555556,decimal_degrees
+Elkford,2021,Longitude,-114.921666666667,decimal_degrees
 Enderby,2021,Longitude,-119.139444444444,decimal_degrees
 Esquimalt,2021,Longitude,-123.414444444444,decimal_degrees
 Fernie,2021,Longitude,-115.062777777778,decimal_degrees
@@ -241,6 +246,7 @@ Port Hardy,2021,Longitude,-127.498055555556,decimal_degrees
 Port McNeill,2021,Longitude,-127.083611111111,decimal_degrees
 Port Moody,2021,Longitude,-122.829444444444,decimal_degrees
 Pouce Coupe,2021,Longitude,-120.133611111111,decimal_degrees
+Powell River,2021,Longitude,-124.524444444444,decimal_degrees
 Prince George,2021,Longitude,-122.745277777778,decimal_degrees
 Prince Rupert,2021,Longitude,-130.325277777778,decimal_degrees
 Princeton,2021,Longitude,-120.507777777778,decimal_degrees
