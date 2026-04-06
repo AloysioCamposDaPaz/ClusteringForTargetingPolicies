@@ -1,0 +1,2206 @@
+Municipality_Name,Year,Metric,Value,Unit
+One Hundred Mile House,2021,Has_Climate_Action_Plan,1,Yes/No
+Abbotsford,2021,Has_Climate_Action_Plan,0,Yes/No
+Alert Bay,2021,Has_Climate_Action_Plan,0,Yes/No
+Anmore,2021,Has_Climate_Action_Plan,0,Yes/No
+Armstrong,2021,Has_Climate_Action_Plan,0,Yes/No
+Ashcroft,2021,Has_Climate_Action_Plan,1,Yes/No
+Belcarra,2021,Has_Climate_Action_Plan,0,Yes/No
+Bowen Island,2021,Has_Climate_Action_Plan,1,Yes/No
+Burnaby,2021,Has_Climate_Action_Plan,1,Yes/No
+Burns Lake,2021,Has_Climate_Action_Plan,1,Yes/No
+Cache Creek,2021,Has_Climate_Action_Plan,0,Yes/No
+Campbell River,2021,Has_Climate_Action_Plan,1,Yes/No
+Canal Flats,2021,Has_Climate_Action_Plan,0,Yes/No
+Castlegar,2021,Has_Climate_Action_Plan,1,Yes/No
+Central Saanich,2021,Has_Climate_Action_Plan,1,Yes/No
+Chase,2021,Has_Climate_Action_Plan,0,Yes/No
+Chetwynd,2021,Has_Climate_Action_Plan,1,Yes/No
+Chilliwack,2021,Has_Climate_Action_Plan,1,Yes/No
+Clinton,2021,Has_Climate_Action_Plan,0,Yes/No
+Coldstream,2021,Has_Climate_Action_Plan,1,Yes/No
+Colwood,2021,Has_Climate_Action_Plan,1,Yes/No
+Comox,2021,Has_Climate_Action_Plan,0,Yes/No
+Coquitlam,2021,Has_Climate_Action_Plan,1,Yes/No
+Courtenay,2021,Has_Climate_Action_Plan,1,Yes/No
+Cranbrook,2021,Has_Climate_Action_Plan,1,Yes/No
+Creston,2021,Has_Climate_Action_Plan,0,Yes/No
+Cumberland,2021,Has_Climate_Action_Plan,1,Yes/No
+Queen Charlotte,2021,Has_Climate_Action_Plan,1,Yes/No
+Dawson Creek,2021,Has_Climate_Action_Plan,0,Yes/No
+Delta,2021,Has_Climate_Action_Plan,1,Yes/No
+Duncan,2021,Has_Climate_Action_Plan,1,Yes/No
+Elkford,2021,Has_Climate_Action_Plan,1,Yes/No
+Enderby,2021,Has_Climate_Action_Plan,0,Yes/No
+Esquimalt,2021,Has_Climate_Action_Plan,1,Yes/No
+Fernie,2021,Has_Climate_Action_Plan,1,Yes/No
+Fort St. James,2021,Has_Climate_Action_Plan,0,Yes/No
+Fort St. John,2021,Has_Climate_Action_Plan,0,Yes/No
+Fraser Lake,2021,Has_Climate_Action_Plan,0,Yes/No
+Fruitvale,2021,Has_Climate_Action_Plan,0,Yes/No
+Gibsons,2021,Has_Climate_Action_Plan,1,Yes/No
+Gold River,2021,Has_Climate_Action_Plan,1,Yes/No
+Golden,2021,Has_Climate_Action_Plan,1,Yes/No
+Grand Forks,2021,Has_Climate_Action_Plan,0,Yes/No
+Granisle,2021,Has_Climate_Action_Plan,0,Yes/No
+Greenwood,2021,Has_Climate_Action_Plan,0,Yes/No
+Harrison Hot Springs,2021,Has_Climate_Action_Plan,0,Yes/No
+Highlands,2021,Has_Climate_Action_Plan,1,Yes/No
+Hope,2021,Has_Climate_Action_Plan,1,Yes/No
+Houston,2021,Has_Climate_Action_Plan,0,Yes/No
+Hudson's Hope,2021,Has_Climate_Action_Plan,0,Yes/No
+Invermere,2021,Has_Climate_Action_Plan,1,Yes/No
+Kamloops,2021,Has_Climate_Action_Plan,1,Yes/No
+Kaslo,2021,Has_Climate_Action_Plan,1,Yes/No
+Kelowna,2021,Has_Climate_Action_Plan,1,Yes/No
+Kent,2021,Has_Climate_Action_Plan,0,Yes/No
+Keremeos,2021,Has_Climate_Action_Plan,1,Yes/No
+Kimberley,2021,Has_Climate_Action_Plan,0,Yes/No
+Kitimat,2021,Has_Climate_Action_Plan,1,Yes/No
+Ladysmith,2021,Has_Climate_Action_Plan,0,Yes/No
+Lake Country,2021,Has_Climate_Action_Plan,0,Yes/No
+Lake Cowichan,2021,Has_Climate_Action_Plan,0,Yes/No
+Langford,2021,Has_Climate_Action_Plan,0,Yes/No
+Langley City,2021,Has_Climate_Action_Plan,1,Yes/No
+Langley Township,2021,Has_Climate_Action_Plan,1,Yes/No
+Lantzville,2021,Has_Climate_Action_Plan,0,Yes/No
+Lillooet,2021,Has_Climate_Action_Plan,0,Yes/No
+Lions Bay,2021,Has_Climate_Action_Plan,1,Yes/No
+Logan Lake,2021,Has_Climate_Action_Plan,1,Yes/No
+Lumby,2021,Has_Climate_Action_Plan,0,Yes/No
+Mackenzie,2021,Has_Climate_Action_Plan,1,Yes/No
+Maple Ridge,2021,Has_Climate_Action_Plan,1,Yes/No
+Masset,2021,Has_Climate_Action_Plan,0,Yes/No
+McBride,2021,Has_Climate_Action_Plan,0,Yes/No
+Merritt,2021,Has_Climate_Action_Plan,0,Yes/No
+Metchosin,2021,Has_Climate_Action_Plan,1,Yes/No
+Midway,2021,Has_Climate_Action_Plan,0,Yes/No
+Mission,2021,Has_Climate_Action_Plan,1,Yes/No
+Montrose,2021,Has_Climate_Action_Plan,0,Yes/No
+Nakusp,2021,Has_Climate_Action_Plan,0,Yes/No
+Nanaimo,2021,Has_Climate_Action_Plan,1,Yes/No
+Nelson,2021,Has_Climate_Action_Plan,1,Yes/No
+New Denver,2021,Has_Climate_Action_Plan,1,Yes/No
+New Hazelton,2021,Has_Climate_Action_Plan,1,Yes/No
+New Westminster,2021,Has_Climate_Action_Plan,1,Yes/No
+North Cowichan,2021,Has_Climate_Action_Plan,1,Yes/No
+North Saanich,2021,Has_Climate_Action_Plan,0,Yes/No
+North Vancouver City,2021,Has_Climate_Action_Plan,1,Yes/No
+North Vancouver District,2021,Has_Climate_Action_Plan,1,Yes/No
+Oak Bay,2021,Has_Climate_Action_Plan,0,Yes/No
+Oliver,2021,Has_Climate_Action_Plan,1,Yes/No
+Osoyoos,2021,Has_Climate_Action_Plan,1,Yes/No
+Parksville,2021,Has_Climate_Action_Plan,0,Yes/No
+Peachland,2021,Has_Climate_Action_Plan,1,Yes/No
+Pemberton,2021,Has_Climate_Action_Plan,1,Yes/No
+Penticton,2021,Has_Climate_Action_Plan,1,Yes/No
+Pitt Meadows,2021,Has_Climate_Action_Plan,0,Yes/No
+Port Alberni,2021,Has_Climate_Action_Plan,0,Yes/No
+Port Alice,2021,Has_Climate_Action_Plan,0,Yes/No
+Port Clements,2021,Has_Climate_Action_Plan,0,Yes/No
+Port Coquitlam,2021,Has_Climate_Action_Plan,1,Yes/No
+Port Edward,2021,Has_Climate_Action_Plan,0,Yes/No
+Port Hardy,2021,Has_Climate_Action_Plan,0,Yes/No
+Port McNeill,2021,Has_Climate_Action_Plan,0,Yes/No
+Port Moody,2021,Has_Climate_Action_Plan,1,Yes/No
+Pouce Coupe,2021,Has_Climate_Action_Plan,0,Yes/No
+Powell River,2021,Has_Climate_Action_Plan,0,Yes/No
+Prince George,2021,Has_Climate_Action_Plan,1,Yes/No
+Prince Rupert,2021,Has_Climate_Action_Plan,0,Yes/No
+Princeton,2021,Has_Climate_Action_Plan,1,Yes/No
+Qualicum Beach,2021,Has_Climate_Action_Plan,1,Yes/No
+Quesnel,2021,Has_Climate_Action_Plan,1,Yes/No
+Radium Hot Springs,2021,Has_Climate_Action_Plan,1,Yes/No
+Revelstoke,2021,Has_Climate_Action_Plan,0,Yes/No
+Richmond,2021,Has_Climate_Action_Plan,1,Yes/No
+Rossland,2021,Has_Climate_Action_Plan,1,Yes/No
+Saanich,2021,Has_Climate_Action_Plan,1,Yes/No
+Salmo,2021,Has_Climate_Action_Plan,1,Yes/No
+Salmon Arm,2021,Has_Climate_Action_Plan,1,Yes/No
+Sayward,2021,Has_Climate_Action_Plan,0,Yes/No
+Sechelt,2021,Has_Climate_Action_Plan,0,Yes/No
+Sicamous,2021,Has_Climate_Action_Plan,0,Yes/No
+Sidney,2021,Has_Climate_Action_Plan,1,Yes/No
+Smithers,2021,Has_Climate_Action_Plan,1,Yes/No
+Sooke,2021,Has_Climate_Action_Plan,1,Yes/No
+Spallumcheen,2021,Has_Climate_Action_Plan,1,Yes/No
+Sparwood,2021,Has_Climate_Action_Plan,1,Yes/No
+Squamish,2021,Has_Climate_Action_Plan,1,Yes/No
+Stewart,2021,Has_Climate_Action_Plan,0,Yes/No
+Summerland,2021,Has_Climate_Action_Plan,1,Yes/No
+Surrey,2021,Has_Climate_Action_Plan,1,Yes/No
+Taylor,2021,Has_Climate_Action_Plan,0,Yes/No
+Telkwa,2021,Has_Climate_Action_Plan,0,Yes/No
+Terrace,2021,Has_Climate_Action_Plan,0,Yes/No
+Trail,2021,Has_Climate_Action_Plan,0,Yes/No
+Tumbler Ridge,2021,Has_Climate_Action_Plan,0,Yes/No
+Ucluelet,2021,Has_Climate_Action_Plan,1,Yes/No
+Valemount,2021,Has_Climate_Action_Plan,0,Yes/No
+Vancouver,2021,Has_Climate_Action_Plan,1,Yes/No
+Vanderhoof,2021,Has_Climate_Action_Plan,0,Yes/No
+Vernon,2021,Has_Climate_Action_Plan,1,Yes/No
+Victoria,2021,Has_Climate_Action_Plan,1,Yes/No
+View Royal,2021,Has_Climate_Action_Plan,1,Yes/No
+Warfield,2021,Has_Climate_Action_Plan,0,Yes/No
+West Vancouver,2021,Has_Climate_Action_Plan,1,Yes/No
+Whistler,2021,Has_Climate_Action_Plan,1,Yes/No
+White Rock,2021,Has_Climate_Action_Plan,1,Yes/No
+Williams Lake,2021,Has_Climate_Action_Plan,0,Yes/No
+One Hundred Mile House,2021,Climate_Emergency,0,Yes/No
+Abbotsford,2021,Climate_Emergency,0,Yes/No
+Alert Bay,2021,Climate_Emergency,0,Yes/No
+Anmore,2021,Climate_Emergency,0,Yes/No
+Armstrong,2021,Climate_Emergency,0,Yes/No
+Ashcroft,2021,Climate_Emergency,0,Yes/No
+Belcarra,2021,Climate_Emergency,0,Yes/No
+Bowen Island,2021,Climate_Emergency,1,Yes/No
+Burnaby,2021,Climate_Emergency,1,Yes/No
+Burns Lake,2021,Climate_Emergency,0,Yes/No
+Cache Creek,2021,Climate_Emergency,0,Yes/No
+Campbell River,2021,Climate_Emergency,0,Yes/No
+Canal Flats,2021,Climate_Emergency,0,Yes/No
+Castlegar,2021,Climate_Emergency,0,Yes/No
+Central Saanich,2021,Climate_Emergency,1,Yes/No
+Chase,2021,Climate_Emergency,1,Yes/No
+Chetwynd,2021,Climate_Emergency,0,Yes/No
+Chilliwack,2021,Climate_Emergency,0,Yes/No
+Clinton,2021,Climate_Emergency,0,Yes/No
+Coldstream,2021,Climate_Emergency,0,Yes/No
+Colwood,2021,Climate_Emergency,1,Yes/No
+Comox,2021,Climate_Emergency,1,Yes/No
+Coquitlam,2021,Climate_Emergency,0,Yes/No
+Courtenay,2021,Climate_Emergency,1,Yes/No
+Cranbrook,2021,Climate_Emergency,0,Yes/No
+Creston,2021,Climate_Emergency,0,Yes/No
+Cumberland,2021,Climate_Emergency,0,Yes/No
+Queen Charlotte,2021,Climate_Emergency,0,Yes/No
+Dawson Creek,2021,Climate_Emergency,1,Yes/No
+Delta,2021,Climate_Emergency,0,Yes/No
+Duncan,2021,Climate_Emergency,1,Yes/No
+Elkford,2021,Climate_Emergency,0,Yes/No
+Enderby,2021,Climate_Emergency,0,Yes/No
+Esquimalt,2021,Climate_Emergency,1,Yes/No
+Fernie,2021,Climate_Emergency,0,Yes/No
+Fort St. James,2021,Climate_Emergency,0,Yes/No
+Fort St. John,2021,Climate_Emergency,0,Yes/No
+Fraser Lake,2021,Climate_Emergency,0,Yes/No
+Fruitvale,2021,Climate_Emergency,0,Yes/No
+Gibsons,2021,Climate_Emergency,1,Yes/No
+Gold River,2021,Climate_Emergency,0,Yes/No
+Golden,2021,Climate_Emergency,0,Yes/No
+Grand Forks,2021,Climate_Emergency,0,Yes/No
+Granisle,2021,Climate_Emergency,0,Yes/No
+Greenwood,2021,Climate_Emergency,0,Yes/No
+Harrison Hot Springs,2021,Climate_Emergency,0,Yes/No
+Highlands,2021,Climate_Emergency,1,Yes/No
+Hope,2021,Climate_Emergency,0,Yes/No
+Houston,2021,Climate_Emergency,0,Yes/No
+Hudson's Hope,2021,Climate_Emergency,0,Yes/No
+Invermere,2021,Climate_Emergency,0,Yes/No
+Kamloops,2021,Climate_Emergency,0,Yes/No
+Kaslo,2021,Climate_Emergency,0,Yes/No
+Kelowna,2021,Climate_Emergency,0,Yes/No
+Kent,2021,Climate_Emergency,0,Yes/No
+Keremeos,2021,Climate_Emergency,0,Yes/No
+Kimberley,2021,Climate_Emergency,0,Yes/No
+Kitimat,2021,Climate_Emergency,0,Yes/No
+Ladysmith,2021,Climate_Emergency,0,Yes/No
+Lake Country,2021,Climate_Emergency,0,Yes/No
+Lake Cowichan,2021,Climate_Emergency,0,Yes/No
+Langford,2021,Climate_Emergency,1,Yes/No
+Langley City,2021,Climate_Emergency,1,Yes/No
+Langley Township,2021,Climate_Emergency,1,Yes/No
+Lantzville,2021,Climate_Emergency,0,Yes/No
+Lillooet,2021,Climate_Emergency,0,Yes/No
+Lions Bay,2021,Climate_Emergency,1,Yes/No
+Logan Lake,2021,Climate_Emergency,0,Yes/No
+Lumby,2021,Climate_Emergency,0,Yes/No
+Mackenzie,2021,Climate_Emergency,0,Yes/No
+Maple Ridge,2021,Climate_Emergency,0,Yes/No
+Masset,2021,Climate_Emergency,0,Yes/No
+McBride,2021,Climate_Emergency,1,Yes/No
+Merritt,2021,Climate_Emergency,0,Yes/No
+Metchosin,2021,Climate_Emergency,1,Yes/No
+Midway,2021,Climate_Emergency,0,Yes/No
+Mission,2021,Climate_Emergency,0,Yes/No
+Montrose,2021,Climate_Emergency,0,Yes/No
+Nakusp,2021,Climate_Emergency,0,Yes/No
+Nanaimo,2021,Climate_Emergency,1,Yes/No
+Nelson,2021,Climate_Emergency,0,Yes/No
+New Denver,2021,Climate_Emergency,0,Yes/No
+New Hazelton,2021,Climate_Emergency,0,Yes/No
+New Westminster,2021,Climate_Emergency,1,Yes/No
+North Cowichan,2021,Climate_Emergency,0,Yes/No
+North Saanich,2021,Climate_Emergency,0,Yes/No
+North Vancouver City,2021,Climate_Emergency,0,Yes/No
+North Vancouver District,2021,Climate_Emergency,1,Yes/No
+Oak Bay,2021,Climate_Emergency,1,Yes/No
+Oliver,2021,Climate_Emergency,0,Yes/No
+Osoyoos,2021,Climate_Emergency,0,Yes/No
+Parksville,2021,Climate_Emergency,0,Yes/No
+Peachland,2021,Climate_Emergency,0,Yes/No
+Pemberton,2021,Climate_Emergency,1,Yes/No
+Penticton,2021,Climate_Emergency,1,Yes/No
+Pitt Meadows,2021,Climate_Emergency,0,Yes/No
+Port Alberni,2021,Climate_Emergency,1,Yes/No
+Port Alice,2021,Climate_Emergency,1,Yes/No
+Port Clements,2021,Climate_Emergency,0,Yes/No
+Port Coquitlam,2021,Climate_Emergency,0,Yes/No
+Port Edward,2021,Climate_Emergency,0,Yes/No
+Port Hardy,2021,Climate_Emergency,0,Yes/No
+Port McNeill,2021,Climate_Emergency,0,Yes/No
+Port Moody,2021,Climate_Emergency,1,Yes/No
+Pouce Coupe,2021,Climate_Emergency,0,Yes/No
+Powell River,2021,Climate_Emergency,1,Yes/No
+Prince George,2021,Climate_Emergency,0,Yes/No
+Prince Rupert,2021,Climate_Emergency,0,Yes/No
+Princeton,2021,Climate_Emergency,0,Yes/No
+Qualicum Beach,2021,Climate_Emergency,1,Yes/No
+Quesnel,2021,Climate_Emergency,0,Yes/No
+Radium Hot Springs,2021,Climate_Emergency,0,Yes/No
+Revelstoke,2021,Climate_Emergency,0,Yes/No
+Richmond,2021,Climate_Emergency,1,Yes/No
+Rossland,2021,Climate_Emergency,1,Yes/No
+Saanich,2021,Climate_Emergency,1,Yes/No
+Salmo,2021,Climate_Emergency,0,Yes/No
+Salmon Arm,2021,Climate_Emergency,1,Yes/No
+Sayward,2021,Climate_Emergency,0,Yes/No
+Sechelt,2021,Climate_Emergency,0,Yes/No
+Sicamous,2021,Climate_Emergency,0,Yes/No
+Sidney,2021,Climate_Emergency,1,Yes/No
+Smithers,2021,Climate_Emergency,1,Yes/No
+Sooke,2021,Climate_Emergency,1,Yes/No
+Spallumcheen,2021,Climate_Emergency,0,Yes/No
+Sparwood,2021,Climate_Emergency,0,Yes/No
+Squamish,2021,Climate_Emergency,1,Yes/No
+Stewart,2021,Climate_Emergency,0,Yes/No
+Summerland,2021,Climate_Emergency,0,Yes/No
+Surrey,2021,Climate_Emergency,1,Yes/No
+Taylor,2021,Climate_Emergency,0,Yes/No
+Telkwa,2021,Climate_Emergency,0,Yes/No
+Terrace,2021,Climate_Emergency,0,Yes/No
+Trail,2021,Climate_Emergency,0,Yes/No
+Tumbler Ridge,2021,Climate_Emergency,0,Yes/No
+Ucluelet,2021,Climate_Emergency,0,Yes/No
+Valemount,2021,Climate_Emergency,0,Yes/No
+Vancouver,2021,Climate_Emergency,1,Yes/No
+Vanderhoof,2021,Climate_Emergency,0,Yes/No
+Vernon,2021,Climate_Emergency,0,Yes/No
+Victoria,2021,Climate_Emergency,1,Yes/No
+View Royal,2021,Climate_Emergency,1,Yes/No
+Warfield,2021,Climate_Emergency,0,Yes/No
+West Vancouver,2021,Climate_Emergency,1,Yes/No
+Whistler,2021,Climate_Emergency,0,Yes/No
+White Rock,2021,Climate_Emergency,0,Yes/No
+Williams Lake,2021,Climate_Emergency,0,Yes/No
+One Hundred Mile House,2021,Reports_Corporate_Emissions,1,Yes/No
+Abbotsford,2021,Reports_Corporate_Emissions,1,Yes/No
+Alert Bay,2021,Reports_Corporate_Emissions,1,Yes/No
+Anmore,2021,Reports_Corporate_Emissions,0,Yes/No
+Armstrong,2021,Reports_Corporate_Emissions,0,Yes/No
+Ashcroft,2021,Reports_Corporate_Emissions,1,Yes/No
+Belcarra,2021,Reports_Corporate_Emissions,0,Yes/No
+Bowen Island,2021,Reports_Corporate_Emissions,0,Yes/No
+Burnaby,2021,Reports_Corporate_Emissions,1,Yes/No
+Burns Lake,2021,Reports_Corporate_Emissions,1,Yes/No
+Cache Creek,2021,Reports_Corporate_Emissions,1,Yes/No
+Campbell River,2021,Reports_Corporate_Emissions,1,Yes/No
+Canal Flats,2021,Reports_Corporate_Emissions,0,Yes/No
+Castlegar,2021,Reports_Corporate_Emissions,0,Yes/No
+Central Saanich,2021,Reports_Corporate_Emissions,1,Yes/No
+Chase,2021,Reports_Corporate_Emissions,0,Yes/No
+Chetwynd,2021,Reports_Corporate_Emissions,0,Yes/No
+Chilliwack,2021,Reports_Corporate_Emissions,1,Yes/No
+Clinton,2021,Reports_Corporate_Emissions,0,Yes/No
+Coldstream,2021,Reports_Corporate_Emissions,1,Yes/No
+Colwood,2021,Reports_Corporate_Emissions,1,Yes/No
+Comox,2021,Reports_Corporate_Emissions,1,Yes/No
+Coquitlam,2021,Reports_Corporate_Emissions,1,Yes/No
+Courtenay,2021,Reports_Corporate_Emissions,1,Yes/No
+Cranbrook,2021,Reports_Corporate_Emissions,1,Yes/No
+Creston,2021,Reports_Corporate_Emissions,1,Yes/No
+Cumberland,2021,Reports_Corporate_Emissions,1,Yes/No
+Queen Charlotte,2021,Reports_Corporate_Emissions,0,Yes/No
+Dawson Creek,2021,Reports_Corporate_Emissions,0,Yes/No
+Delta,2021,Reports_Corporate_Emissions,1,Yes/No
+Duncan,2021,Reports_Corporate_Emissions,1,Yes/No
+Elkford,2021,Reports_Corporate_Emissions,1,Yes/No
+Enderby,2021,Reports_Corporate_Emissions,1,Yes/No
+Esquimalt,2021,Reports_Corporate_Emissions,1,Yes/No
+Fernie,2021,Reports_Corporate_Emissions,0,Yes/No
+Fort St. James,2021,Reports_Corporate_Emissions,1,Yes/No
+Fort St. John,2021,Reports_Corporate_Emissions,1,Yes/No
+Fraser Lake,2021,Reports_Corporate_Emissions,0,Yes/No
+Fruitvale,2021,Reports_Corporate_Emissions,1,Yes/No
+Gibsons,2021,Reports_Corporate_Emissions,0,Yes/No
+Gold River,2021,Reports_Corporate_Emissions,0,Yes/No
+Golden,2021,Reports_Corporate_Emissions,1,Yes/No
+Grand Forks,2021,Reports_Corporate_Emissions,1,Yes/No
+Granisle,2021,Reports_Corporate_Emissions,1,Yes/No
+Greenwood,2021,Reports_Corporate_Emissions,0,Yes/No
+Harrison Hot Springs,2021,Reports_Corporate_Emissions,0,Yes/No
+Highlands,2021,Reports_Corporate_Emissions,1,Yes/No
+Hope,2021,Reports_Corporate_Emissions,0,Yes/No
+Houston,2021,Reports_Corporate_Emissions,0,Yes/No
+Hudson's Hope,2021,Reports_Corporate_Emissions,0,Yes/No
+Invermere,2021,Reports_Corporate_Emissions,0,Yes/No
+Kamloops,2021,Reports_Corporate_Emissions,1,Yes/No
+Kaslo,2021,Reports_Corporate_Emissions,1,Yes/No
+Kelowna,2021,Reports_Corporate_Emissions,1,Yes/No
+Kent,2021,Reports_Corporate_Emissions,0,Yes/No
+Keremeos,2021,Reports_Corporate_Emissions,1,Yes/No
+Kimberley,2021,Reports_Corporate_Emissions,1,Yes/No
+Kitimat,2021,Reports_Corporate_Emissions,1,Yes/No
+Ladysmith,2021,Reports_Corporate_Emissions,1,Yes/No
+Lake Country,2021,Reports_Corporate_Emissions,1,Yes/No
+Lake Cowichan,2021,Reports_Corporate_Emissions,1,Yes/No
+Langford,2021,Reports_Corporate_Emissions,1,Yes/No
+Langley City,2021,Reports_Corporate_Emissions,1,Yes/No
+Langley Township,2021,Reports_Corporate_Emissions,1,Yes/No
+Lantzville,2021,Reports_Corporate_Emissions,0,Yes/No
+Lillooet,2021,Reports_Corporate_Emissions,0,Yes/No
+Lions Bay,2021,Reports_Corporate_Emissions,0,Yes/No
+Logan Lake,2021,Reports_Corporate_Emissions,0,Yes/No
+Lumby,2021,Reports_Corporate_Emissions,0,Yes/No
+Mackenzie,2021,Reports_Corporate_Emissions,1,Yes/No
+Maple Ridge,2021,Reports_Corporate_Emissions,1,Yes/No
+Masset,2021,Reports_Corporate_Emissions,0,Yes/No
+McBride,2021,Reports_Corporate_Emissions,0,Yes/No
+Merritt,2021,Reports_Corporate_Emissions,0,Yes/No
+Metchosin,2021,Reports_Corporate_Emissions,0,Yes/No
+Midway,2021,Reports_Corporate_Emissions,0,Yes/No
+Mission,2021,Reports_Corporate_Emissions,1,Yes/No
+Montrose,2021,Reports_Corporate_Emissions,1,Yes/No
+Nakusp,2021,Reports_Corporate_Emissions,1,Yes/No
+Nanaimo,2021,Reports_Corporate_Emissions,1,Yes/No
+Nelson,2021,Reports_Corporate_Emissions,1,Yes/No
+New Denver,2021,Reports_Corporate_Emissions,0,Yes/No
+New Hazelton,2021,Reports_Corporate_Emissions,0,Yes/No
+New Westminster,2021,Reports_Corporate_Emissions,1,Yes/No
+North Cowichan,2021,Reports_Corporate_Emissions,1,Yes/No
+North Saanich,2021,Reports_Corporate_Emissions,1,Yes/No
+North Vancouver City,2021,Reports_Corporate_Emissions,1,Yes/No
+North Vancouver District,2021,Reports_Corporate_Emissions,1,Yes/No
+Oak Bay,2021,Reports_Corporate_Emissions,1,Yes/No
+Oliver,2021,Reports_Corporate_Emissions,0,Yes/No
+Osoyoos,2021,Reports_Corporate_Emissions,1,Yes/No
+Parksville,2021,Reports_Corporate_Emissions,0,Yes/No
+Peachland,2021,Reports_Corporate_Emissions,1,Yes/No
+Pemberton,2021,Reports_Corporate_Emissions,1,Yes/No
+Penticton,2021,Reports_Corporate_Emissions,1,Yes/No
+Pitt Meadows,2021,Reports_Corporate_Emissions,1,Yes/No
+Port Alberni,2021,Reports_Corporate_Emissions,1,Yes/No
+Port Alice,2021,Reports_Corporate_Emissions,1,Yes/No
+Port Clements,2021,Reports_Corporate_Emissions,1,Yes/No
+Port Coquitlam,2021,Reports_Corporate_Emissions,1,Yes/No
+Port Edward,2021,Reports_Corporate_Emissions,0,Yes/No
+Port Hardy,2021,Reports_Corporate_Emissions,0,Yes/No
+Port McNeill,2021,Reports_Corporate_Emissions,0,Yes/No
+Port Moody,2021,Reports_Corporate_Emissions,1,Yes/No
+Pouce Coupe,2021,Reports_Corporate_Emissions,0,Yes/No
+Powell River,2021,Reports_Corporate_Emissions,1,Yes/No
+Prince George,2021,Reports_Corporate_Emissions,1,Yes/No
+Prince Rupert,2021,Reports_Corporate_Emissions,0,Yes/No
+Princeton,2021,Reports_Corporate_Emissions,0,Yes/No
+Qualicum Beach,2021,Reports_Corporate_Emissions,1,Yes/No
+Quesnel,2021,Reports_Corporate_Emissions,1,Yes/No
+Radium Hot Springs,2021,Reports_Corporate_Emissions,0,Yes/No
+Revelstoke,2021,Reports_Corporate_Emissions,1,Yes/No
+Richmond,2021,Reports_Corporate_Emissions,1,Yes/No
+Rossland,2021,Reports_Corporate_Emissions,1,Yes/No
+Saanich,2021,Reports_Corporate_Emissions,1,Yes/No
+Salmo,2021,Reports_Corporate_Emissions,0,Yes/No
+Salmon Arm,2021,Reports_Corporate_Emissions,1,Yes/No
+Sayward,2021,Reports_Corporate_Emissions,0,Yes/No
+Sechelt,2021,Reports_Corporate_Emissions,0,Yes/No
+Sicamous,2021,Reports_Corporate_Emissions,0,Yes/No
+Sidney,2021,Reports_Corporate_Emissions,1,Yes/No
+Smithers,2021,Reports_Corporate_Emissions,1,Yes/No
+Sooke,2021,Reports_Corporate_Emissions,1,Yes/No
+Spallumcheen,2021,Reports_Corporate_Emissions,0,Yes/No
+Sparwood,2021,Reports_Corporate_Emissions,1,Yes/No
+Squamish,2021,Reports_Corporate_Emissions,1,Yes/No
+Stewart,2021,Reports_Corporate_Emissions,0,Yes/No
+Summerland,2021,Reports_Corporate_Emissions,1,Yes/No
+Surrey,2021,Reports_Corporate_Emissions,1,Yes/No
+Taylor,2021,Reports_Corporate_Emissions,0,Yes/No
+Telkwa,2021,Reports_Corporate_Emissions,1,Yes/No
+Terrace,2021,Reports_Corporate_Emissions,1,Yes/No
+Trail,2021,Reports_Corporate_Emissions,0,Yes/No
+Tumbler Ridge,2021,Reports_Corporate_Emissions,0,Yes/No
+Ucluelet,2021,Reports_Corporate_Emissions,0,Yes/No
+Valemount,2021,Reports_Corporate_Emissions,0,Yes/No
+Vancouver,2021,Reports_Corporate_Emissions,1,Yes/No
+Vanderhoof,2021,Reports_Corporate_Emissions,0,Yes/No
+Vernon,2021,Reports_Corporate_Emissions,1,Yes/No
+Victoria,2021,Reports_Corporate_Emissions,1,Yes/No
+View Royal,2021,Reports_Corporate_Emissions,1,Yes/No
+Warfield,2021,Reports_Corporate_Emissions,0,Yes/No
+West Vancouver,2021,Reports_Corporate_Emissions,1,Yes/No
+Whistler,2021,Reports_Corporate_Emissions,1,Yes/No
+White Rock,2021,Reports_Corporate_Emissions,1,Yes/No
+Williams Lake,2021,Reports_Corporate_Emissions,0,Yes/No
+One Hundred Mile House,2021,Community_GHG_tracking,1,Yes/No
+Abbotsford,2021,Community_GHG_tracking,1,Yes/No
+Alert Bay,2021,Community_GHG_tracking,0,Yes/No
+Anmore,2021,Community_GHG_tracking,0,Yes/No
+Armstrong,2021,Community_GHG_tracking,0,Yes/No
+Ashcroft,2021,Community_GHG_tracking,0,Yes/No
+Belcarra,2021,Community_GHG_tracking,0,Yes/No
+Bowen Island,2021,Community_GHG_tracking,0,Yes/No
+Burnaby,2021,Community_GHG_tracking,1,Yes/No
+Burns Lake,2021,Community_GHG_tracking,0,Yes/No
+Cache Creek,2021,Community_GHG_tracking,0,Yes/No
+Campbell River,2021,Community_GHG_tracking,0,Yes/No
+Canal Flats,2021,Community_GHG_tracking,0,Yes/No
+Castlegar,2021,Community_GHG_tracking,0,Yes/No
+Central Saanich,2021,Community_GHG_tracking,1,Yes/No
+Chase,2021,Community_GHG_tracking,0,Yes/No
+Chetwynd,2021,Community_GHG_tracking,1,Yes/No
+Chilliwack,2021,Community_GHG_tracking,1,Yes/No
+Clinton,2021,Community_GHG_tracking,0,Yes/No
+Coldstream,2021,Community_GHG_tracking,0,Yes/No
+Colwood,2021,Community_GHG_tracking,1,Yes/No
+Comox,2021,Community_GHG_tracking,1,Yes/No
+Coquitlam,2021,Community_GHG_tracking,1,Yes/No
+Courtenay,2021,Community_GHG_tracking,0,Yes/No
+Cranbrook,2021,Community_GHG_tracking,1,Yes/No
+Creston,2021,Community_GHG_tracking,1,Yes/No
+Cumberland,2021,Community_GHG_tracking,1,Yes/No
+Queen Charlotte,2021,Community_GHG_tracking,0,Yes/No
+Dawson Creek,2021,Community_GHG_tracking,1,Yes/No
+Delta,2021,Community_GHG_tracking,1,Yes/No
+Duncan,2021,Community_GHG_tracking,0,Yes/No
+Elkford,2021,Community_GHG_tracking,0,Yes/No
+Enderby,2021,Community_GHG_tracking,0,Yes/No
+Esquimalt,2021,Community_GHG_tracking,1,Yes/No
+Fernie,2021,Community_GHG_tracking,0,Yes/No
+Fort St. James,2021,Community_GHG_tracking,0,Yes/No
+Fort St. John,2021,Community_GHG_tracking,0,Yes/No
+Fraser Lake,2021,Community_GHG_tracking,0,Yes/No
+Fruitvale,2021,Community_GHG_tracking,0,Yes/No
+Gibsons,2021,Community_GHG_tracking,1,Yes/No
+Gold River,2021,Community_GHG_tracking,0,Yes/No
+Golden,2021,Community_GHG_tracking,0,Yes/No
+Grand Forks,2021,Community_GHG_tracking,0,Yes/No
+Granisle,2021,Community_GHG_tracking,1,Yes/No
+Greenwood,2021,Community_GHG_tracking,0,Yes/No
+Harrison Hot Springs,2021,Community_GHG_tracking,0,Yes/No
+Highlands,2021,Community_GHG_tracking,1,Yes/No
+Hope,2021,Community_GHG_tracking,1,Yes/No
+Houston,2021,Community_GHG_tracking,1,Yes/No
+Hudson's Hope,2021,Community_GHG_tracking,0,Yes/No
+Invermere,2021,Community_GHG_tracking,0,Yes/No
+Kamloops,2021,Community_GHG_tracking,1,Yes/No
+Kaslo,2021,Community_GHG_tracking,1,Yes/No
+Kelowna,2021,Community_GHG_tracking,1,Yes/No
+Kent,2021,Community_GHG_tracking,0,Yes/No
+Keremeos,2021,Community_GHG_tracking,1,Yes/No
+Kimberley,2021,Community_GHG_tracking,0,Yes/No
+Kitimat,2021,Community_GHG_tracking,0,Yes/No
+Ladysmith,2021,Community_GHG_tracking,0,Yes/No
+Lake Country,2021,Community_GHG_tracking,0,Yes/No
+Lake Cowichan,2021,Community_GHG_tracking,0,Yes/No
+Langford,2021,Community_GHG_tracking,0,Yes/No
+Langley City,2021,Community_GHG_tracking,1,Yes/No
+Langley Township,2021,Community_GHG_tracking,1,Yes/No
+Lantzville,2021,Community_GHG_tracking,0,Yes/No
+Lillooet,2021,Community_GHG_tracking,0,Yes/No
+Lions Bay,2021,Community_GHG_tracking,0,Yes/No
+Logan Lake,2021,Community_GHG_tracking,0,Yes/No
+Lumby,2021,Community_GHG_tracking,0,Yes/No
+Mackenzie,2021,Community_GHG_tracking,0,Yes/No
+Maple Ridge,2021,Community_GHG_tracking,0,Yes/No
+Masset,2021,Community_GHG_tracking,0,Yes/No
+McBride,2021,Community_GHG_tracking,0,Yes/No
+Merritt,2021,Community_GHG_tracking,0,Yes/No
+Metchosin,2021,Community_GHG_tracking,0,Yes/No
+Midway,2021,Community_GHG_tracking,0,Yes/No
+Mission,2021,Community_GHG_tracking,1,Yes/No
+Montrose,2021,Community_GHG_tracking,0,Yes/No
+Nakusp,2021,Community_GHG_tracking,0,Yes/No
+Nanaimo,2021,Community_GHG_tracking,1,Yes/No
+Nelson,2021,Community_GHG_tracking,1,Yes/No
+New Denver,2021,Community_GHG_tracking,0,Yes/No
+New Hazelton,2021,Community_GHG_tracking,0,Yes/No
+New Westminster,2021,Community_GHG_tracking,1,Yes/No
+North Cowichan,2021,Community_GHG_tracking,1,Yes/No
+North Saanich,2021,Community_GHG_tracking,1,Yes/No
+North Vancouver City,2021,Community_GHG_tracking,1,Yes/No
+North Vancouver District,2021,Community_GHG_tracking,1,Yes/No
+Oak Bay,2021,Community_GHG_tracking,0,Yes/No
+Oliver,2021,Community_GHG_tracking,0,Yes/No
+Osoyoos,2021,Community_GHG_tracking,1,Yes/No
+Parksville,2021,Community_GHG_tracking,0,Yes/No
+Peachland,2021,Community_GHG_tracking,0,Yes/No
+Pemberton,2021,Community_GHG_tracking,0,Yes/No
+Penticton,2021,Community_GHG_tracking,1,Yes/No
+Pitt Meadows,2021,Community_GHG_tracking,1,Yes/No
+Port Alberni,2021,Community_GHG_tracking,1,Yes/No
+Port Alice,2021,Community_GHG_tracking,0,Yes/No
+Port Clements,2021,Community_GHG_tracking,0,Yes/No
+Port Coquitlam,2021,Community_GHG_tracking,1,Yes/No
+Port Edward,2021,Community_GHG_tracking,0,Yes/No
+Port Hardy,2021,Community_GHG_tracking,1,Yes/No
+Port McNeill,2021,Community_GHG_tracking,0,Yes/No
+Port Moody,2021,Community_GHG_tracking,1,Yes/No
+Pouce Coupe,2021,Community_GHG_tracking,0,Yes/No
+Powell River,2021,Community_GHG_tracking,1,Yes/No
+Prince George,2021,Community_GHG_tracking,1,Yes/No
+Prince Rupert,2021,Community_GHG_tracking,0,Yes/No
+Princeton,2021,Community_GHG_tracking,0,Yes/No
+Qualicum Beach,2021,Community_GHG_tracking,1,Yes/No
+Quesnel,2021,Community_GHG_tracking,0,Yes/No
+Radium Hot Springs,2021,Community_GHG_tracking,0,Yes/No
+Revelstoke,2021,Community_GHG_tracking,1,Yes/No
+Richmond,2021,Community_GHG_tracking,1,Yes/No
+Rossland,2021,Community_GHG_tracking,1,Yes/No
+Saanich,2021,Community_GHG_tracking,1,Yes/No
+Salmo,2021,Community_GHG_tracking,0,Yes/No
+Salmon Arm,2021,Community_GHG_tracking,0,Yes/No
+Sayward,2021,Community_GHG_tracking,0,Yes/No
+Sechelt,2021,Community_GHG_tracking,1,Yes/No
+Sicamous,2021,Community_GHG_tracking,0,Yes/No
+Sidney,2021,Community_GHG_tracking,1,Yes/No
+Smithers,2021,Community_GHG_tracking,1,Yes/No
+Sooke,2021,Community_GHG_tracking,1,Yes/No
+Spallumcheen,2021,Community_GHG_tracking,1,Yes/No
+Sparwood,2021,Community_GHG_tracking,0,Yes/No
+Squamish,2021,Community_GHG_tracking,1,Yes/No
+Stewart,2021,Community_GHG_tracking,0,Yes/No
+Summerland,2021,Community_GHG_tracking,1,Yes/No
+Surrey,2021,Community_GHG_tracking,1,Yes/No
+Taylor,2021,Community_GHG_tracking,0,Yes/No
+Telkwa,2021,Community_GHG_tracking,0,Yes/No
+Terrace,2021,Community_GHG_tracking,0,Yes/No
+Trail,2021,Community_GHG_tracking,0,Yes/No
+Tumbler Ridge,2021,Community_GHG_tracking,0,Yes/No
+Ucluelet,2021,Community_GHG_tracking,0,Yes/No
+Valemount,2021,Community_GHG_tracking,1,Yes/No
+Vancouver,2021,Community_GHG_tracking,1,Yes/No
+Vanderhoof,2021,Community_GHG_tracking,0,Yes/No
+Vernon,2021,Community_GHG_tracking,1,Yes/No
+Victoria,2021,Community_GHG_tracking,1,Yes/No
+View Royal,2021,Community_GHG_tracking,1,Yes/No
+Warfield,2021,Community_GHG_tracking,0,Yes/No
+West Vancouver,2021,Community_GHG_tracking,1,Yes/No
+Whistler,2021,Community_GHG_tracking,1,Yes/No
+White Rock,2021,Community_GHG_tracking,0,Yes/No
+Williams Lake,2021,Community_GHG_tracking,0,Yes/No
+One Hundred Mile House,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Abbotsford,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Alert Bay,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Anmore,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Armstrong,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Ashcroft,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Belcarra,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Bowen Island,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Burnaby,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Burns Lake,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Cache Creek,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Campbell River,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Canal Flats,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Castlegar,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Central Saanich,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Chase,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Chetwynd,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Chilliwack,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Clinton,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Coldstream,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Colwood,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Comox,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Coquitlam,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Courtenay,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Cranbrook,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Creston,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Cumberland,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Queen Charlotte,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Dawson Creek,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Delta,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Duncan,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Elkford,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Enderby,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Esquimalt,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Fernie,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Fort St. James,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Fort St. John,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Fraser Lake,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Fruitvale,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Gibsons,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Gold River,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Golden,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Grand Forks,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Granisle,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Greenwood,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Harrison Hot Springs,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Highlands,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Hope,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Houston,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Hudson's Hope,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Invermere,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Kamloops,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Kaslo,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Kelowna,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Kent,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Keremeos,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Kimberley,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Kitimat,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Ladysmith,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Lake Country,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Lake Cowichan,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Langford,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Langley City,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Langley Township,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Lantzville,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Lillooet,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Lions Bay,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Logan Lake,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Lumby,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Mackenzie,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Maple Ridge,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Masset,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+McBride,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Merritt,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Metchosin,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Midway,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Mission,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Montrose,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Nakusp,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Nanaimo,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Nelson,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+New Denver,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+New Hazelton,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+New Westminster,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+North Cowichan,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+North Saanich,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+North Vancouver City,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+North Vancouver District,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Oak Bay,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Oliver,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Osoyoos,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Parksville,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Peachland,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Pemberton,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Penticton,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Pitt Meadows,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Port Alberni,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Port Alice,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Port Clements,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Port Coquitlam,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Port Edward,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Port Hardy,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Port McNeill,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Port Moody,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Pouce Coupe,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Powell River,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Prince George,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Prince Rupert,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Princeton,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Qualicum Beach,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Quesnel,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Radium Hot Springs,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Revelstoke,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Richmond,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Rossland,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Saanich,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Salmo,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Salmon Arm,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Sayward,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Sechelt,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Sicamous,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Sidney,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Smithers,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Sooke,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Spallumcheen,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Sparwood,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Squamish,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Stewart,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Summerland,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Surrey,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Taylor,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Telkwa,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Terrace,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Trail,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Tumbler Ridge,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Ucluelet,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Valemount,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Vancouver,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Vanderhoof,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Vernon,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Victoria,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+View Royal,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Warfield,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+West Vancouver,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+Whistler,2021,Net_Zero_Or_Carbon_Neutral_Target,1,Yes/No
+White Rock,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+Williams Lake,2021,Net_Zero_Or_Carbon_Neutral_Target,0,Yes/No
+One Hundred Mile House,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Abbotsford,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Alert Bay,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Anmore,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Armstrong,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Ashcroft,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Belcarra,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Bowen Island,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Burnaby,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Burns Lake,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Cache Creek,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Campbell River,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Canal Flats,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Castlegar,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Central Saanich,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Chase,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Chetwynd,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Chilliwack,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Clinton,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Coldstream,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Colwood,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Comox,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Coquitlam,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Courtenay,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Cranbrook,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Creston,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Cumberland,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Queen Charlotte,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Dawson Creek,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Delta,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Duncan,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Elkford,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Enderby,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Esquimalt,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Fernie,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Fort St. James,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Fort St. John,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Fraser Lake,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Fruitvale,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Gibsons,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Gold River,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Golden,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Grand Forks,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Granisle,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Greenwood,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Harrison Hot Springs,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Highlands,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Hope,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Houston,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Hudson's Hope,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Invermere,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Kamloops,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Kaslo,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Kelowna,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Kent,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Keremeos,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Kimberley,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Kitimat,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Ladysmith,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Lake Country,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Lake Cowichan,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Langford,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Langley City,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Langley Township,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Lantzville,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Lillooet,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Lions Bay,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Logan Lake,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Lumby,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Mackenzie,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Maple Ridge,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Masset,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+McBride,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Merritt,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Metchosin,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Midway,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Mission,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Montrose,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Nakusp,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Nanaimo,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Nelson,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+New Denver,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+New Hazelton,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+New Westminster,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+North Cowichan,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+North Saanich,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+North Vancouver City,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+North Vancouver District,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Oak Bay,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Oliver,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Osoyoos,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Parksville,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Peachland,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Pemberton,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Penticton,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Pitt Meadows,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Port Alberni,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Port Alice,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Port Clements,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Port Coquitlam,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Port Edward,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Port Hardy,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Port McNeill,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Port Moody,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Pouce Coupe,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Powell River,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Prince George,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Prince Rupert,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Princeton,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Qualicum Beach,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Quesnel,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Radium Hot Springs,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Revelstoke,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Richmond,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Rossland,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Saanich,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Salmo,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Salmon Arm,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Sayward,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Sechelt,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Sicamous,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Sidney,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Smithers,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Sooke,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Spallumcheen,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Sparwood,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Squamish,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Stewart,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Summerland,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Surrey,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Taylor,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Telkwa,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Terrace,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Trail,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Tumbler Ridge,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Ucluelet,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Valemount,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Vancouver,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Vanderhoof,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Vernon,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Victoria,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+View Royal,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Warfield,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+West Vancouver,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+Whistler,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+White Rock,2021,No_Staff_Capacity_For_GHG_Tracking,1,Yes/No
+Williams Lake,2021,No_Staff_Capacity_For_GHG_Tracking,0,Yes/No
+One Hundred Mile House,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Abbotsford,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Alert Bay,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Anmore,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Armstrong,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Ashcroft,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Belcarra,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Bowen Island,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Burnaby,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Burns Lake,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Cache Creek,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Campbell River,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Canal Flats,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Castlegar,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Central Saanich,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Chase,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Chetwynd,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Chilliwack,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Clinton,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Coldstream,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Colwood,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Comox,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Coquitlam,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Courtenay,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Cranbrook,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Creston,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Cumberland,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Queen Charlotte,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Dawson Creek,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Delta,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Duncan,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Elkford,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Enderby,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Esquimalt,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Fernie,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Fort St. James,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Fort St. John,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Fraser Lake,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Fruitvale,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Gibsons,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Gold River,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Golden,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Grand Forks,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Granisle,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Greenwood,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Harrison Hot Springs,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Highlands,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Hope,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Houston,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Hudson's Hope,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Invermere,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Kamloops,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Kaslo,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Kelowna,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Kent,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Keremeos,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Kimberley,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Kitimat,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Ladysmith,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Lake Country,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Lake Cowichan,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Langford,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Langley City,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Langley Township,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Lantzville,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Lillooet,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Lions Bay,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Logan Lake,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Lumby,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Mackenzie,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Maple Ridge,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Masset,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+McBride,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Merritt,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Metchosin,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Midway,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Mission,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Montrose,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Nakusp,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Nanaimo,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Nelson,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+New Denver,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+New Hazelton,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+New Westminster,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+North Cowichan,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+North Saanich,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+North Vancouver City,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+North Vancouver District,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Oak Bay,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Oliver,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Osoyoos,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Parksville,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Peachland,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Pemberton,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Penticton,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Pitt Meadows,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Port Alberni,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Port Alice,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Port Clements,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Port Coquitlam,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Port Edward,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Port Hardy,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Port McNeill,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Port Moody,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Pouce Coupe,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Powell River,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Prince George,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Prince Rupert,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Princeton,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Qualicum Beach,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Quesnel,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Radium Hot Springs,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Revelstoke,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Richmond,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Rossland,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Saanich,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Salmo,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Salmon Arm,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Sayward,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Sechelt,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Sicamous,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Sidney,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Smithers,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Sooke,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Spallumcheen,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Sparwood,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Squamish,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Stewart,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Summerland,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Surrey,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Taylor,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Telkwa,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Terrace,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Trail,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Tumbler Ridge,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Ucluelet,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Valemount,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Vancouver,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Vanderhoof,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Vernon,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Victoria,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+View Royal,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Warfield,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+West Vancouver,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+Whistler,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+White Rock,2021,No_Financial_Capacity_For_GHG_Tracking,1,Yes/No
+Williams Lake,2021,No_Financial_Capacity_For_GHG_Tracking,0,Yes/No
+One Hundred Mile House,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Abbotsford,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Alert Bay,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Anmore,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Armstrong,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Ashcroft,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Belcarra,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Bowen Island,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Burnaby,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Burns Lake,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Cache Creek,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Campbell River,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Canal Flats,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Castlegar,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Central Saanich,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Chase,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Chetwynd,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Chilliwack,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Clinton,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Coldstream,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Colwood,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Comox,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Coquitlam,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Courtenay,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Cranbrook,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Creston,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Cumberland,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Queen Charlotte,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Dawson Creek,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Delta,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Duncan,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Elkford,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Enderby,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Esquimalt,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Fernie,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Fort St. James,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Fort St. John,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Fraser Lake,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Fruitvale,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Gibsons,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Gold River,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Golden,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Grand Forks,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Granisle,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Greenwood,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Harrison Hot Springs,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Highlands,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Hope,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Houston,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Hudson's Hope,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Invermere,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Kamloops,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Kaslo,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Kelowna,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Kent,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Keremeos,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Kimberley,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Kitimat,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Ladysmith,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Lake Country,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Lake Cowichan,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Langford,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Langley City,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Langley Township,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Lantzville,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Lillooet,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Lions Bay,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Logan Lake,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Lumby,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Mackenzie,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Maple Ridge,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Masset,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+McBride,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Merritt,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Metchosin,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Midway,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Mission,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Montrose,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Nakusp,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Nanaimo,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Nelson,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+New Denver,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+New Hazelton,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+New Westminster,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+North Cowichan,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+North Saanich,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+North Vancouver City,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+North Vancouver District,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Oak Bay,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Oliver,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Osoyoos,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Parksville,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Peachland,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Pemberton,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Penticton,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Pitt Meadows,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Port Alberni,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Port Alice,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Port Clements,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Port Coquitlam,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Port Edward,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Port Hardy,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Port McNeill,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Port Moody,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Pouce Coupe,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Powell River,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Prince George,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Prince Rupert,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Princeton,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Qualicum Beach,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Quesnel,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Radium Hot Springs,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Revelstoke,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Richmond,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Rossland,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Saanich,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Salmo,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Salmon Arm,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Sayward,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Sechelt,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Sicamous,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Sidney,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Smithers,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Sooke,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Spallumcheen,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Sparwood,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Squamish,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Stewart,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Summerland,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Surrey,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Taylor,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Telkwa,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Terrace,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Trail,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Tumbler Ridge,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Ucluelet,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Valemount,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Vancouver,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Vanderhoof,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Vernon,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Victoria,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+View Royal,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+Warfield,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+West Vancouver,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Whistler,2021,Lack_Of_Jursidiction_Climate_Action,1,Yes/No
+White Rock,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+Williams Lake,2021,Lack_Of_Jursidiction_Climate_Action,0,Yes/No
+One Hundred Mile House,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Abbotsford,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Alert Bay,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Anmore,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Armstrong,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Ashcroft,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Belcarra,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Bowen Island,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Burnaby,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Burns Lake,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Cache Creek,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Campbell River,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Canal Flats,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Castlegar,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Central Saanich,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Chase,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Chetwynd,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Chilliwack,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Clinton,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Coldstream,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Colwood,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Comox,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Coquitlam,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Courtenay,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Cranbrook,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Creston,2021,Lack_Of_Staff_Capacity_Climate_Action,0,Yes/No
+Cumberland,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Queen Charlotte,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Dawson Creek,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Delta,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Duncan,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Elkford,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Enderby,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Esquimalt,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Fernie,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Fort St. James,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Fort St. John,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Fraser Lake,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Fruitvale,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Gibsons,2021,Lack_Of_Staff_Capacity_Climate_Action,0,Yes/No
+Gold River,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Golden,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Grand Forks,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Granisle,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Greenwood,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Harrison Hot Springs,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Highlands,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Hope,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Houston,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Hudson's Hope,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Invermere,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Kamloops,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Kaslo,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Kelowna,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Kent,2021,Lack_Of_Staff_Capacity_Climate_Action,0,Yes/No
+Keremeos,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Kimberley,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Kitimat,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Ladysmith,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Lake Country,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Lake Cowichan,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Langford,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Langley City,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Langley Township,2021,Lack_Of_Staff_Capacity_Climate_Action,0,Yes/No
+Lantzville,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Lillooet,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Lions Bay,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Logan Lake,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Lumby,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Mackenzie,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Maple Ridge,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Masset,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+McBride,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Merritt,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Metchosin,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Midway,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Mission,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Montrose,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Nakusp,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Nanaimo,2021,Lack_Of_Staff_Capacity_Climate_Action,0,Yes/No
+Nelson,2021,Lack_Of_Staff_Capacity_Climate_Action,0,Yes/No
+New Denver,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+New Hazelton,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+New Westminster,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+North Cowichan,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+North Saanich,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+North Vancouver City,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+North Vancouver District,2021,Lack_Of_Staff_Capacity_Climate_Action,0,Yes/No
+Oak Bay,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Oliver,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Osoyoos,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Parksville,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Peachland,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Pemberton,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Penticton,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Pitt Meadows,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Port Alberni,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Port Alice,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Port Clements,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Port Coquitlam,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Port Edward,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Port Hardy,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Port McNeill,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Port Moody,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Pouce Coupe,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Powell River,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Prince George,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Prince Rupert,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Princeton,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Qualicum Beach,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Quesnel,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Radium Hot Springs,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Revelstoke,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Richmond,2021,Lack_Of_Staff_Capacity_Climate_Action,0,Yes/No
+Rossland,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Saanich,2021,Lack_Of_Staff_Capacity_Climate_Action,0,Yes/No
+Salmo,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Salmon Arm,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Sayward,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Sechelt,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Sicamous,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Sidney,2021,Lack_Of_Staff_Capacity_Climate_Action,0,Yes/No
+Smithers,2021,Lack_Of_Staff_Capacity_Climate_Action,0,Yes/No
+Sooke,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Spallumcheen,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Sparwood,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Squamish,2021,Lack_Of_Staff_Capacity_Climate_Action,0,Yes/No
+Stewart,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Summerland,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Surrey,2021,Lack_Of_Staff_Capacity_Climate_Action,0,Yes/No
+Taylor,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Telkwa,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Terrace,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Trail,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Tumbler Ridge,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Ucluelet,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Valemount,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Vancouver,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Vanderhoof,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Vernon,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Victoria,2021,Lack_Of_Staff_Capacity_Climate_Action,0,Yes/No
+View Royal,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Warfield,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+West Vancouver,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Whistler,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+White Rock,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+Williams Lake,2021,Lack_Of_Staff_Capacity_Climate_Action,1,Yes/No
+One Hundred Mile House,2021,Lack_Of_Financial_Capacity_Climate_Action,0,Yes/No
+Abbotsford,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Alert Bay,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Anmore,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Armstrong,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Ashcroft,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Belcarra,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Bowen Island,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Burnaby,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Burns Lake,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Cache Creek,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Campbell River,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Canal Flats,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Castlegar,2021,Lack_Of_Financial_Capacity_Climate_Action,0,Yes/No
+Central Saanich,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Chase,2021,Lack_Of_Financial_Capacity_Climate_Action,0,Yes/No
+Chetwynd,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Chilliwack,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Clinton,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Coldstream,2021,Lack_Of_Financial_Capacity_Climate_Action,0,Yes/No
+Colwood,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Comox,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Coquitlam,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Courtenay,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Cranbrook,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Creston,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Cumberland,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Queen Charlotte,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Dawson Creek,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Delta,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Duncan,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Elkford,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Enderby,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Esquimalt,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Fernie,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Fort St. James,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Fort St. John,2021,Lack_Of_Financial_Capacity_Climate_Action,0,Yes/No
+Fraser Lake,2021,Lack_Of_Financial_Capacity_Climate_Action,0,Yes/No
+Fruitvale,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Gibsons,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Gold River,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Golden,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Grand Forks,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Granisle,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Greenwood,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Harrison Hot Springs,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Highlands,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Hope,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Houston,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Hudson's Hope,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Invermere,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Kamloops,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Kaslo,2021,Lack_Of_Financial_Capacity_Climate_Action,0,Yes/No
+Kelowna,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Kent,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Keremeos,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Kimberley,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Kitimat,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Ladysmith,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Lake Country,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Lake Cowichan,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Langford,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Langley City,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Langley Township,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Lantzville,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Lillooet,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Lions Bay,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Logan Lake,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Lumby,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Mackenzie,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Maple Ridge,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Masset,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+McBride,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Merritt,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Metchosin,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Midway,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Mission,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Montrose,2021,Lack_Of_Financial_Capacity_Climate_Action,0,Yes/No
+Nakusp,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Nanaimo,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Nelson,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+New Denver,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+New Hazelton,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+New Westminster,2021,Lack_Of_Financial_Capacity_Climate_Action,0,Yes/No
+North Cowichan,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+North Saanich,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+North Vancouver City,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+North Vancouver District,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Oak Bay,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Oliver,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Osoyoos,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Parksville,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Peachland,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Pemberton,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Penticton,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Pitt Meadows,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Port Alberni,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Port Alice,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Port Clements,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Port Coquitlam,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Port Edward,2021,Lack_Of_Financial_Capacity_Climate_Action,0,Yes/No
+Port Hardy,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Port McNeill,2021,Lack_Of_Financial_Capacity_Climate_Action,0,Yes/No
+Port Moody,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Pouce Coupe,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Powell River,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Prince George,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Prince Rupert,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Princeton,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Qualicum Beach,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Quesnel,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Radium Hot Springs,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Revelstoke,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Richmond,2021,Lack_Of_Financial_Capacity_Climate_Action,0,Yes/No
+Rossland,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Saanich,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Salmo,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Salmon Arm,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Sayward,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Sechelt,2021,Lack_Of_Financial_Capacity_Climate_Action,0,Yes/No
+Sicamous,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Sidney,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Smithers,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Sooke,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Spallumcheen,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Sparwood,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Squamish,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Stewart,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Summerland,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Surrey,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Taylor,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Telkwa,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Terrace,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Trail,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Tumbler Ridge,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Ucluelet,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Valemount,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Vancouver,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Vanderhoof,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Vernon,2021,Lack_Of_Financial_Capacity_Climate_Action,0,Yes/No
+Victoria,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+View Royal,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Warfield,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+West Vancouver,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Whistler,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+White Rock,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+Williams Lake,2021,Lack_Of_Financial_Capacity_Climate_Action,1,Yes/No
+One Hundred Mile House,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Abbotsford,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Alert Bay,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Anmore,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Armstrong,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Ashcroft,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Belcarra,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Bowen Island,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Burnaby,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Burns Lake,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Cache Creek,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Campbell River,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Canal Flats,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Castlegar,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Central Saanich,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Chase,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Chetwynd,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Chilliwack,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Clinton,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Coldstream,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Colwood,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Comox,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Coquitlam,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Courtenay,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Cranbrook,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Creston,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Cumberland,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Queen Charlotte,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Dawson Creek,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Delta,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Duncan,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Elkford,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Enderby,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Esquimalt,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Fernie,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Fort St. James,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Fort St. John,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Fraser Lake,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Fruitvale,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Gibsons,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Gold River,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Golden,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Grand Forks,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Granisle,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Greenwood,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Harrison Hot Springs,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Highlands,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Hope,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Houston,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Hudson's Hope,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Invermere,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Kamloops,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Kaslo,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Kelowna,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Kent,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Keremeos,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Kimberley,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Kitimat,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Ladysmith,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Lake Country,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Lake Cowichan,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Langford,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Langley City,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Langley Township,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Lantzville,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Lillooet,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Lions Bay,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Logan Lake,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Lumby,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Mackenzie,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Maple Ridge,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Masset,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+McBride,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Merritt,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Metchosin,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Midway,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Mission,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Montrose,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Nakusp,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Nanaimo,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Nelson,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+New Denver,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+New Hazelton,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+New Westminster,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+North Cowichan,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+North Saanich,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+North Vancouver City,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+North Vancouver District,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Oak Bay,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Oliver,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Osoyoos,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Parksville,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Peachland,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Pemberton,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Penticton,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Pitt Meadows,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Port Alberni,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Port Alice,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Port Clements,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Port Coquitlam,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Port Edward,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Port Hardy,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Port McNeill,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Port Moody,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Pouce Coupe,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Powell River,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Prince George,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Prince Rupert,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Princeton,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Qualicum Beach,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Quesnel,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Radium Hot Springs,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Revelstoke,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Richmond,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Rossland,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Saanich,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Salmo,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Salmon Arm,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Sayward,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Sechelt,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Sicamous,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Sidney,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Smithers,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Sooke,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Spallumcheen,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Sparwood,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Squamish,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Stewart,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Summerland,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Surrey,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Taylor,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Telkwa,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Terrace,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Trail,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Tumbler Ridge,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Ucluelet,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Valemount,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Vancouver,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Vanderhoof,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Vernon,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Victoria,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+View Royal,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Warfield,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+West Vancouver,2021,Lack_Of_Information_Climate_Action,1,Yes/No
+Whistler,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+White Rock,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+Williams Lake,2021,Lack_Of_Information_Climate_Action,0,Yes/No
+One Hundred Mile House,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Abbotsford,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Alert Bay,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Anmore,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Armstrong,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Ashcroft,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Belcarra,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Bowen Island,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Burnaby,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Burns Lake,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Cache Creek,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Campbell River,2021,Lack_Of_Political_Support_Climate_Action,1,Yes/No
+Canal Flats,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Castlegar,2021,Lack_Of_Political_Support_Climate_Action,1,Yes/No
+Central Saanich,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Chase,2021,Lack_Of_Political_Support_Climate_Action,1,Yes/No
+Chetwynd,2021,Lack_Of_Political_Support_Climate_Action,1,Yes/No
+Chilliwack,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Clinton,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Coldstream,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Colwood,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Comox,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Coquitlam,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Courtenay,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Cranbrook,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Creston,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Cumberland,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Queen Charlotte,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Dawson Creek,2021,Lack_Of_Political_Support_Climate_Action,1,Yes/No
+Delta,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Duncan,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Elkford,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Enderby,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Esquimalt,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Fernie,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Fort St. James,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Fort St. John,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Fraser Lake,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Fruitvale,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Gibsons,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Gold River,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Golden,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Grand Forks,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Granisle,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Greenwood,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Harrison Hot Springs,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Highlands,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Hope,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Houston,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Hudson's Hope,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Invermere,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Kamloops,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Kaslo,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Kelowna,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Kent,2021,Lack_Of_Political_Support_Climate_Action,1,Yes/No
+Keremeos,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Kimberley,2021,Lack_Of_Political_Support_Climate_Action,1,Yes/No
+Kitimat,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Ladysmith,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Lake Country,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Lake Cowichan,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Langford,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Langley City,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Langley Township,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Lantzville,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Lillooet,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Lions Bay,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Logan Lake,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Lumby,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Mackenzie,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Maple Ridge,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Masset,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+McBride,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Merritt,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Metchosin,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Midway,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Mission,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Montrose,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Nakusp,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Nanaimo,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Nelson,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+New Denver,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+New Hazelton,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+New Westminster,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+North Cowichan,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+North Saanich,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+North Vancouver City,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+North Vancouver District,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Oak Bay,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Oliver,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Osoyoos,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Parksville,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Peachland,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Pemberton,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Penticton,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Pitt Meadows,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Port Alberni,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Port Alice,2021,Lack_Of_Political_Support_Climate_Action,1,Yes/No
+Port Clements,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Port Coquitlam,2021,Lack_Of_Political_Support_Climate_Action,1,Yes/No
+Port Edward,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Port Hardy,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Port McNeill,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Port Moody,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Pouce Coupe,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Powell River,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Prince George,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Prince Rupert,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Princeton,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Qualicum Beach,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Quesnel,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Radium Hot Springs,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Revelstoke,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Richmond,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Rossland,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Saanich,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Salmo,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Salmon Arm,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Sayward,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Sechelt,2021,Lack_Of_Political_Support_Climate_Action,1,Yes/No
+Sicamous,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Sidney,2021,Lack_Of_Political_Support_Climate_Action,1,Yes/No
+Smithers,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Sooke,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Spallumcheen,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Sparwood,2021,Lack_Of_Political_Support_Climate_Action,1,Yes/No
+Squamish,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Stewart,2021,Lack_Of_Political_Support_Climate_Action,1,Yes/No
+Summerland,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Surrey,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Taylor,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Telkwa,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Terrace,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Trail,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Tumbler Ridge,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Ucluelet,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Valemount,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Vancouver,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Vanderhoof,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Vernon,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Victoria,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+View Royal,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Warfield,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+West Vancouver,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Whistler,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+White Rock,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+Williams Lake,2021,Lack_Of_Political_Support_Climate_Action,0,Yes/No
+One Hundred Mile House,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Abbotsford,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Alert Bay,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Anmore,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Armstrong,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Ashcroft,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Belcarra,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Bowen Island,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Burnaby,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Burns Lake,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Cache Creek,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Campbell River,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Canal Flats,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Castlegar,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Central Saanich,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Chase,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Chetwynd,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Chilliwack,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Clinton,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Coldstream,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Colwood,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Comox,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Coquitlam,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Courtenay,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Cranbrook,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Creston,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Cumberland,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Queen Charlotte,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Dawson Creek,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Delta,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Duncan,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Elkford,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Enderby,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Esquimalt,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Fernie,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Fort St. James,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Fort St. John,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Fraser Lake,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Fruitvale,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Gibsons,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Gold River,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Golden,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Grand Forks,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Granisle,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Greenwood,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Harrison Hot Springs,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Highlands,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Hope,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Houston,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Hudson's Hope,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Invermere,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Kamloops,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Kaslo,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Kelowna,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Kent,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Keremeos,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Kimberley,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Kitimat,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Ladysmith,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Lake Country,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Lake Cowichan,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Langford,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Langley City,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Langley Township,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Lantzville,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Lillooet,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Lions Bay,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Logan Lake,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Lumby,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Mackenzie,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Maple Ridge,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Masset,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+McBride,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Merritt,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Metchosin,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Midway,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Mission,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Montrose,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Nakusp,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Nanaimo,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Nelson,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+New Denver,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+New Hazelton,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+New Westminster,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+North Cowichan,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+North Saanich,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+North Vancouver City,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+North Vancouver District,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Oak Bay,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Oliver,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Osoyoos,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Parksville,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Peachland,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Pemberton,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Penticton,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Pitt Meadows,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Port Alberni,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Port Alice,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Port Clements,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Port Coquitlam,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Port Edward,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Port Hardy,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Port McNeill,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Port Moody,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Pouce Coupe,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Powell River,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Prince George,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Prince Rupert,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Princeton,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Qualicum Beach,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Quesnel,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Radium Hot Springs,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Revelstoke,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Richmond,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Rossland,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Saanich,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Salmo,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Salmon Arm,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Sayward,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Sechelt,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Sicamous,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Sidney,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Smithers,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Sooke,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Spallumcheen,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Sparwood,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Squamish,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Stewart,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Summerland,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Surrey,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Taylor,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Telkwa,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,1,Yes/No
+Terrace,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Trail,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Tumbler Ridge,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Ucluelet,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Valemount,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Vancouver,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Vanderhoof,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Vernon,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Victoria,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+View Royal,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Warfield,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+West Vancouver,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Whistler,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+White Rock,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+Williams Lake,2021,Lack_Of_Provincial_Federal_Support_Climate_Action,0,Yes/No
+One Hundred Mile House,2021,Climate_Action_N_Barriers,3,count out of 8
+Abbotsford,2021,Climate_Action_N_Barriers,3,count out of 8
+Alert Bay,2021,Climate_Action_N_Barriers,4,count out of 8
+Anmore,2021,Climate_Action_N_Barriers,4,count out of 8
+Armstrong,2021,Climate_Action_N_Barriers,4,count out of 8
+Ashcroft,2021,Climate_Action_N_Barriers,4,count out of 8
+Belcarra,2021,Climate_Action_N_Barriers,5,count out of 8
+Bowen Island,2021,Climate_Action_N_Barriers,5,count out of 8
+Burnaby,2021,Climate_Action_N_Barriers,5,count out of 8
+Burns Lake,2021,Climate_Action_N_Barriers,4,count out of 8
+Cache Creek,2021,Climate_Action_N_Barriers,5,count out of 8
+Campbell River,2021,Climate_Action_N_Barriers,4,count out of 8
+Canal Flats,2021,Climate_Action_N_Barriers,5,count out of 8
+Castlegar,2021,Climate_Action_N_Barriers,3,count out of 8
+Central Saanich,2021,Climate_Action_N_Barriers,3,count out of 8
+Chase,2021,Climate_Action_N_Barriers,4,count out of 8
+Chetwynd,2021,Climate_Action_N_Barriers,4,count out of 8
+Chilliwack,2021,Climate_Action_N_Barriers,3,count out of 8
+Clinton,2021,Climate_Action_N_Barriers,4,count out of 8
+Coldstream,2021,Climate_Action_N_Barriers,4,count out of 8
+Colwood,2021,Climate_Action_N_Barriers,3,count out of 8
+Comox,2021,Climate_Action_N_Barriers,3,count out of 8
+Coquitlam,2021,Climate_Action_N_Barriers,3,count out of 8
+Courtenay,2021,Climate_Action_N_Barriers,4,count out of 8
+Cranbrook,2021,Climate_Action_N_Barriers,3,count out of 8
+Creston,2021,Climate_Action_N_Barriers,2,count out of 8
+Cumberland,2021,Climate_Action_N_Barriers,3,count out of 8
+Queen Charlotte,2021,Climate_Action_N_Barriers,5,count out of 8
+Dawson Creek,2021,Climate_Action_N_Barriers,4,count out of 8
+Delta,2021,Climate_Action_N_Barriers,3,count out of 8
+Duncan,2021,Climate_Action_N_Barriers,5,count out of 8
+Elkford,2021,Climate_Action_N_Barriers,4,count out of 8
+Enderby,2021,Climate_Action_N_Barriers,4,count out of 8
+Esquimalt,2021,Climate_Action_N_Barriers,4,count out of 8
+Fernie,2021,Climate_Action_N_Barriers,5,count out of 8
+Fort St. James,2021,Climate_Action_N_Barriers,3,count out of 8
+Fort St. John,2021,Climate_Action_N_Barriers,4,count out of 8
+Fraser Lake,2021,Climate_Action_N_Barriers,4,count out of 8
+Fruitvale,2021,Climate_Action_N_Barriers,4,count out of 8
+Gibsons,2021,Climate_Action_N_Barriers,3,count out of 8
+Gold River,2021,Climate_Action_N_Barriers,5,count out of 8
+Golden,2021,Climate_Action_N_Barriers,4,count out of 8
+Grand Forks,2021,Climate_Action_N_Barriers,5,count out of 8
+Granisle,2021,Climate_Action_N_Barriers,4,count out of 8
+Greenwood,2021,Climate_Action_N_Barriers,5,count out of 8
+Harrison Hot Springs,2021,Climate_Action_N_Barriers,4,count out of 8
+Highlands,2021,Climate_Action_N_Barriers,5,count out of 8
+Hope,2021,Climate_Action_N_Barriers,3,count out of 8
+Houston,2021,Climate_Action_N_Barriers,5,count out of 8
+Hudson's Hope,2021,Climate_Action_N_Barriers,4,count out of 8
+Invermere,2021,Climate_Action_N_Barriers,4,count out of 8
+Kamloops,2021,Climate_Action_N_Barriers,4,count out of 8
+Kaslo,2021,Climate_Action_N_Barriers,4,count out of 8
+Kelowna,2021,Climate_Action_N_Barriers,2,count out of 8
+Kent,2021,Climate_Action_N_Barriers,5,count out of 8
+Keremeos,2021,Climate_Action_N_Barriers,5,count out of 8
+Kimberley,2021,Climate_Action_N_Barriers,4,count out of 8
+Kitimat,2021,Climate_Action_N_Barriers,4,count out of 8
+Ladysmith,2021,Climate_Action_N_Barriers,4,count out of 8
+Lake Country,2021,Climate_Action_N_Barriers,5,count out of 8
+Lake Cowichan,2021,Climate_Action_N_Barriers,5,count out of 8
+Langford,2021,Climate_Action_N_Barriers,4,count out of 8
+Langley City,2021,Climate_Action_N_Barriers,3,count out of 8
+Langley Township,2021,Climate_Action_N_Barriers,2,count out of 8
+Lantzville,2021,Climate_Action_N_Barriers,5,count out of 8
+Lillooet,2021,Climate_Action_N_Barriers,5,count out of 8
+Lions Bay,2021,Climate_Action_N_Barriers,4,count out of 8
+Logan Lake,2021,Climate_Action_N_Barriers,4,count out of 8
+Lumby,2021,Climate_Action_N_Barriers,4,count out of 8
+Mackenzie,2021,Climate_Action_N_Barriers,5,count out of 8
+Maple Ridge,2021,Climate_Action_N_Barriers,5,count out of 8
+Masset,2021,Climate_Action_N_Barriers,5,count out of 8
+McBride,2021,Climate_Action_N_Barriers,5,count out of 8
+Merritt,2021,Climate_Action_N_Barriers,4,count out of 8
+Metchosin,2021,Climate_Action_N_Barriers,3,count out of 8
+Midway,2021,Climate_Action_N_Barriers,4,count out of 8
+Mission,2021,Climate_Action_N_Barriers,5,count out of 8
+Montrose,2021,Climate_Action_N_Barriers,4,count out of 8
+Nakusp,2021,Climate_Action_N_Barriers,5,count out of 8
+Nanaimo,2021,Climate_Action_N_Barriers,3,count out of 8
+Nelson,2021,Climate_Action_N_Barriers,3,count out of 8
+New Denver,2021,Climate_Action_N_Barriers,4,count out of 8
+New Hazelton,2021,Climate_Action_N_Barriers,4,count out of 8
+New Westminster,2021,Climate_Action_N_Barriers,4,count out of 8
+North Cowichan,2021,Climate_Action_N_Barriers,3,count out of 8
+North Saanich,2021,Climate_Action_N_Barriers,3,count out of 8
+North Vancouver City,2021,Climate_Action_N_Barriers,3,count out of 8
+North Vancouver District,2021,Climate_Action_N_Barriers,3,count out of 8
+Oak Bay,2021,Climate_Action_N_Barriers,4,count out of 8
+Oliver,2021,Climate_Action_N_Barriers,5,count out of 8
+Osoyoos,2021,Climate_Action_N_Barriers,3,count out of 8
+Parksville,2021,Climate_Action_N_Barriers,5,count out of 8
+Peachland,2021,Climate_Action_N_Barriers,5,count out of 8
+Pemberton,2021,Climate_Action_N_Barriers,5,count out of 8
+Penticton,2021,Climate_Action_N_Barriers,3,count out of 8
+Pitt Meadows,2021,Climate_Action_N_Barriers,5,count out of 8
+Port Alberni,2021,Climate_Action_N_Barriers,5,count out of 8
+Port Alice,2021,Climate_Action_N_Barriers,5,count out of 8
+Port Clements,2021,Climate_Action_N_Barriers,4,count out of 8
+Port Coquitlam,2021,Climate_Action_N_Barriers,5,count out of 8
+Port Edward,2021,Climate_Action_N_Barriers,4,count out of 8
+Port Hardy,2021,Climate_Action_N_Barriers,3,count out of 8
+Port McNeill,2021,Climate_Action_N_Barriers,3,count out of 8
+Port Moody,2021,Climate_Action_N_Barriers,3,count out of 8
+Pouce Coupe,2021,Climate_Action_N_Barriers,4,count out of 8
+Powell River,2021,Climate_Action_N_Barriers,3,count out of 8
+Prince George,2021,Climate_Action_N_Barriers,4,count out of 8
+Prince Rupert,2021,Climate_Action_N_Barriers,5,count out of 8
+Princeton,2021,Climate_Action_N_Barriers,5,count out of 8
+Qualicum Beach,2021,Climate_Action_N_Barriers,4,count out of 8
+Quesnel,2021,Climate_Action_N_Barriers,5,count out of 8
+Radium Hot Springs,2021,Climate_Action_N_Barriers,4,count out of 8
+Revelstoke,2021,Climate_Action_N_Barriers,3,count out of 8
+Richmond,2021,Climate_Action_N_Barriers,3,count out of 8
+Rossland,2021,Climate_Action_N_Barriers,4,count out of 8
+Saanich,2021,Climate_Action_N_Barriers,3,count out of 8
+Salmo,2021,Climate_Action_N_Barriers,5,count out of 8
+Salmon Arm,2021,Climate_Action_N_Barriers,5,count out of 8
+Sayward,2021,Climate_Action_N_Barriers,4,count out of 8
+Sechelt,2021,Climate_Action_N_Barriers,3,count out of 8
+Sicamous,2021,Climate_Action_N_Barriers,5,count out of 8
+Sidney,2021,Climate_Action_N_Barriers,3,count out of 8
+Smithers,2021,Climate_Action_N_Barriers,3,count out of 8
+Sooke,2021,Climate_Action_N_Barriers,3,count out of 8
+Spallumcheen,2021,Climate_Action_N_Barriers,3,count out of 8
+Sparwood,2021,Climate_Action_N_Barriers,5,count out of 8
+Squamish,2021,Climate_Action_N_Barriers,3,count out of 8
+Stewart,2021,Climate_Action_N_Barriers,5,count out of 8
+Summerland,2021,Climate_Action_N_Barriers,3,count out of 8
+Surrey,2021,Climate_Action_N_Barriers,3,count out of 8
+Taylor,2021,Climate_Action_N_Barriers,4,count out of 8
+Telkwa,2021,Climate_Action_N_Barriers,5,count out of 8
+Terrace,2021,Climate_Action_N_Barriers,5,count out of 8
+Trail,2021,Climate_Action_N_Barriers,5,count out of 8
+Tumbler Ridge,2021,Climate_Action_N_Barriers,4,count out of 8
+Ucluelet,2021,Climate_Action_N_Barriers,5,count out of 8
+Valemount,2021,Climate_Action_N_Barriers,4,count out of 8
+Vancouver,2021,Climate_Action_N_Barriers,3,count out of 8
+Vanderhoof,2021,Climate_Action_N_Barriers,4,count out of 8
+Vernon,2021,Climate_Action_N_Barriers,3,count out of 8
+Victoria,2021,Climate_Action_N_Barriers,3,count out of 8
+View Royal,2021,Climate_Action_N_Barriers,3,count out of 8
+Warfield,2021,Climate_Action_N_Barriers,5,count out of 8
+West Vancouver,2021,Climate_Action_N_Barriers,3,count out of 8
+Whistler,2021,Climate_Action_N_Barriers,3,count out of 8
+White Rock,2021,Climate_Action_N_Barriers,4,count out of 8
+Williams Lake,2021,Climate_Action_N_Barriers,2,count out of 8
+One Hundred Mile House,2021,Climate_Action_Score,3,count out of 5
+Abbotsford,2021,Climate_Action_Score,2,count out of 5
+Alert Bay,2021,Climate_Action_Score,1,count out of 5
+Anmore,2021,Climate_Action_Score,0,count out of 5
+Armstrong,2021,Climate_Action_Score,0,count out of 5
+Ashcroft,2021,Climate_Action_Score,2,count out of 5
+Belcarra,2021,Climate_Action_Score,0,count out of 5
+Bowen Island,2021,Climate_Action_Score,2,count out of 5
+Burnaby,2021,Climate_Action_Score,5,count out of 5
+Burns Lake,2021,Climate_Action_Score,2,count out of 5
+Cache Creek,2021,Climate_Action_Score,1,count out of 5
+Campbell River,2021,Climate_Action_Score,3,count out of 5
+Canal Flats,2021,Climate_Action_Score,0,count out of 5
+Castlegar,2021,Climate_Action_Score,2,count out of 5
+Central Saanich,2021,Climate_Action_Score,5,count out of 5
+Chase,2021,Climate_Action_Score,1,count out of 5
+Chetwynd,2021,Climate_Action_Score,2,count out of 5
+Chilliwack,2021,Climate_Action_Score,4,count out of 5
+Clinton,2021,Climate_Action_Score,0,count out of 5
+Coldstream,2021,Climate_Action_Score,2,count out of 5
+Colwood,2021,Climate_Action_Score,4,count out of 5
+Comox,2021,Climate_Action_Score,4,count out of 5
+Coquitlam,2021,Climate_Action_Score,4,count out of 5
+Courtenay,2021,Climate_Action_Score,4,count out of 5
+Cranbrook,2021,Climate_Action_Score,3,count out of 5
+Creston,2021,Climate_Action_Score,2,count out of 5
+Cumberland,2021,Climate_Action_Score,4,count out of 5
+Queen Charlotte,2021,Climate_Action_Score,1,count out of 5
+Dawson Creek,2021,Climate_Action_Score,2,count out of 5
+Delta,2021,Climate_Action_Score,4,count out of 5
+Duncan,2021,Climate_Action_Score,3,count out of 5
+Elkford,2021,Climate_Action_Score,2,count out of 5
+Enderby,2021,Climate_Action_Score,1,count out of 5
+Esquimalt,2021,Climate_Action_Score,5,count out of 5
+Fernie,2021,Climate_Action_Score,1,count out of 5
+Fort St. James,2021,Climate_Action_Score,1,count out of 5
+Fort St. John,2021,Climate_Action_Score,1,count out of 5
+Fraser Lake,2021,Climate_Action_Score,0,count out of 5
+Fruitvale,2021,Climate_Action_Score,2,count out of 5
+Gibsons,2021,Climate_Action_Score,4,count out of 5
+Gold River,2021,Climate_Action_Score,1,count out of 5
+Golden,2021,Climate_Action_Score,2,count out of 5
+Grand Forks,2021,Climate_Action_Score,2,count out of 5
+Granisle,2021,Climate_Action_Score,2,count out of 5
+Greenwood,2021,Climate_Action_Score,0,count out of 5
+Harrison Hot Springs,2021,Climate_Action_Score,0,count out of 5
+Highlands,2021,Climate_Action_Score,5,count out of 5
+Hope,2021,Climate_Action_Score,2,count out of 5
+Houston,2021,Climate_Action_Score,1,count out of 5
+Hudson's Hope,2021,Climate_Action_Score,0,count out of 5
+Invermere,2021,Climate_Action_Score,1,count out of 5
+Kamloops,2021,Climate_Action_Score,3,count out of 5
+Kaslo,2021,Climate_Action_Score,4,count out of 5
+Kelowna,2021,Climate_Action_Score,3,count out of 5
+Kent,2021,Climate_Action_Score,0,count out of 5
+Keremeos,2021,Climate_Action_Score,3,count out of 5
+Kimberley,2021,Climate_Action_Score,1,count out of 5
+Kitimat,2021,Climate_Action_Score,2,count out of 5
+Ladysmith,2021,Climate_Action_Score,2,count out of 5
+Lake Country,2021,Climate_Action_Score,1,count out of 5
+Lake Cowichan,2021,Climate_Action_Score,1,count out of 5
+Langford,2021,Climate_Action_Score,3,count out of 5
+Langley City,2021,Climate_Action_Score,5,count out of 5
+Langley Township,2021,Climate_Action_Score,5,count out of 5
+Lantzville,2021,Climate_Action_Score,0,count out of 5
+Lillooet,2021,Climate_Action_Score,0,count out of 5
+Lions Bay,2021,Climate_Action_Score,2,count out of 5
+Logan Lake,2021,Climate_Action_Score,1,count out of 5
+Lumby,2021,Climate_Action_Score,0,count out of 5
+Mackenzie,2021,Climate_Action_Score,3,count out of 5
+Maple Ridge,2021,Climate_Action_Score,3,count out of 5
+Masset,2021,Climate_Action_Score,0,count out of 5
+McBride,2021,Climate_Action_Score,1,count out of 5
+Merritt,2021,Climate_Action_Score,1,count out of 5
+Metchosin,2021,Climate_Action_Score,3,count out of 5
+Midway,2021,Climate_Action_Score,0,count out of 5
+Mission,2021,Climate_Action_Score,4,count out of 5
+Montrose,2021,Climate_Action_Score,1,count out of 5
+Nakusp,2021,Climate_Action_Score,2,count out of 5
+Nanaimo,2021,Climate_Action_Score,5,count out of 5
+Nelson,2021,Climate_Action_Score,4,count out of 5
+New Denver,2021,Climate_Action_Score,2,count out of 5
+New Hazelton,2021,Climate_Action_Score,1,count out of 5
+New Westminster,2021,Climate_Action_Score,5,count out of 5
+North Cowichan,2021,Climate_Action_Score,4,count out of 5
+North Saanich,2021,Climate_Action_Score,2,count out of 5
+North Vancouver City,2021,Climate_Action_Score,4,count out of 5
+North Vancouver District,2021,Climate_Action_Score,5,count out of 5
+Oak Bay,2021,Climate_Action_Score,2,count out of 5
+Oliver,2021,Climate_Action_Score,1,count out of 5
+Osoyoos,2021,Climate_Action_Score,3,count out of 5
+Parksville,2021,Climate_Action_Score,0,count out of 5
+Peachland,2021,Climate_Action_Score,2,count out of 5
+Pemberton,2021,Climate_Action_Score,3,count out of 5
+Penticton,2021,Climate_Action_Score,5,count out of 5
+Pitt Meadows,2021,Climate_Action_Score,2,count out of 5
+Port Alberni,2021,Climate_Action_Score,3,count out of 5
+Port Alice,2021,Climate_Action_Score,2,count out of 5
+Port Clements,2021,Climate_Action_Score,1,count out of 5
+Port Coquitlam,2021,Climate_Action_Score,3,count out of 5
+Port Edward,2021,Climate_Action_Score,0,count out of 5
+Port Hardy,2021,Climate_Action_Score,1,count out of 5
+Port McNeill,2021,Climate_Action_Score,0,count out of 5
+Port Moody,2021,Climate_Action_Score,5,count out of 5
+Pouce Coupe,2021,Climate_Action_Score,0,count out of 5
+Powell River,2021,Climate_Action_Score,3,count out of 5
+Prince George,2021,Climate_Action_Score,3,count out of 5
+Prince Rupert,2021,Climate_Action_Score,0,count out of 5
+Princeton,2021,Climate_Action_Score,1,count out of 5
+Qualicum Beach,2021,Climate_Action_Score,5,count out of 5
+Quesnel,2021,Climate_Action_Score,2,count out of 5
+Radium Hot Springs,2021,Climate_Action_Score,1,count out of 5
+Revelstoke,2021,Climate_Action_Score,3,count out of 5
+Richmond,2021,Climate_Action_Score,5,count out of 5
+Rossland,2021,Climate_Action_Score,5,count out of 5
+Saanich,2021,Climate_Action_Score,5,count out of 5
+Salmo,2021,Climate_Action_Score,1,count out of 5
+Salmon Arm,2021,Climate_Action_Score,3,count out of 5
+Sayward,2021,Climate_Action_Score,0,count out of 5
+Sechelt,2021,Climate_Action_Score,1,count out of 5
+Sicamous,2021,Climate_Action_Score,0,count out of 5
+Sidney,2021,Climate_Action_Score,5,count out of 5
+Smithers,2021,Climate_Action_Score,5,count out of 5
+Sooke,2021,Climate_Action_Score,5,count out of 5
+Spallumcheen,2021,Climate_Action_Score,2,count out of 5
+Sparwood,2021,Climate_Action_Score,2,count out of 5
+Squamish,2021,Climate_Action_Score,5,count out of 5
+Stewart,2021,Climate_Action_Score,0,count out of 5
+Summerland,2021,Climate_Action_Score,3,count out of 5
+Surrey,2021,Climate_Action_Score,5,count out of 5
+Taylor,2021,Climate_Action_Score,0,count out of 5
+Telkwa,2021,Climate_Action_Score,1,count out of 5
+Terrace,2021,Climate_Action_Score,2,count out of 5
+Trail,2021,Climate_Action_Score,1,count out of 5
+Tumbler Ridge,2021,Climate_Action_Score,0,count out of 5
+Ucluelet,2021,Climate_Action_Score,2,count out of 5
+Valemount,2021,Climate_Action_Score,1,count out of 5
+Vancouver,2021,Climate_Action_Score,5,count out of 5
+Vanderhoof,2021,Climate_Action_Score,0,count out of 5
+Vernon,2021,Climate_Action_Score,4,count out of 5
+Victoria,2021,Climate_Action_Score,4,count out of 5
+View Royal,2021,Climate_Action_Score,5,count out of 5
+Warfield,2021,Climate_Action_Score,1,count out of 5
+West Vancouver,2021,Climate_Action_Score,5,count out of 5
+Whistler,2021,Climate_Action_Score,4,count out of 5
+White Rock,2021,Climate_Action_Score,2,count out of 5
+Williams Lake,2021,Climate_Action_Score,0,count out of 5

@@ -1,0 +1,4264 @@
+Municipality_Name,Year,Metric,Value,Unit
+Elkford,2006,CWB,80.0,index
+Sparwood,2006,CWB,78.0,index
+Fernie,2006,CWB,80.0,index
+Cranbrook,2006,CWB,78.0,index
+Kimberley,2006,CWB,78.0,index
+Invermere,2006,CWB,82.0,index
+Radium Hot Springs,2006,CWB,81.0,index
+Canal Flats,2006,CWB,71.0,index
+Creston,2006,CWB,74.0,index
+Salmo,2006,CWB,68.0,index
+Nelson,2006,CWB,80.0,index
+Kaslo,2006,CWB,75.0,index
+New Denver,2006,CWB,69.0,index
+Castlegar,2006,CWB,78.0,index
+Nakusp,2006,CWB,76.0,index
+Fruitvale,2006,CWB,76.0,index
+Montrose,2006,CWB,80.0,index
+Trail,2006,CWB,77.0,index
+Warfield,2006,CWB,81.0,index
+Rossland,2006,CWB,82.0,index
+Grand Forks,2006,CWB,74.0,index
+Midway,2006,CWB,76.0,index
+Greenwood,2006,CWB,71.0,index
+Osoyoos,2006,CWB,75.0,index
+Keremeos,2006,CWB,72.0,index
+Oliver,2006,CWB,75.0,index
+Princeton,2006,CWB,74.0,index
+Summerland,2006,CWB,79.0,index
+Penticton,2006,CWB,77.0,index
+Hope,2006,CWB,75.0,index
+Chilliwack,2006,CWB,78.0,index
+Harrison Hot Springs,2006,CWB,78.0,index
+Kent,2006,CWB,77.0,index
+Abbotsford,2006,CWB,78.0,index
+Mission,2006,CWB,77.0,index
+Langley Township,2006,CWB,82.0,index
+Langley City,2006,CWB,79.0,index
+Surrey,2006,CWB,78.0,index
+White Rock,2006,CWB,83.0,index
+Delta,2006,CWB,82.0,index
+Richmond,2006,CWB,79.0,index
+Vancouver,2006,CWB,82.0,index
+Burnaby,2006,CWB,79.0,index
+New Westminster,2006,CWB,80.0,index
+Coquitlam,2006,CWB,81.0,index
+Belcarra,2006,CWB,90.0,index
+Anmore,2006,CWB,87.0,index
+Port Coquitlam,2006,CWB,81.0,index
+Port Moody,2006,CWB,85.0,index
+North Vancouver District,2006,CWB,86.0,index
+North Vancouver City,2006,CWB,83.0,index
+West Vancouver,2006,CWB,90.0,index
+Bowen Island,2006,CWB,86.0,index
+Lions Bay,2006,CWB,87.0,index
+Pitt Meadows,2006,CWB,81.0,index
+Maple Ridge,2006,CWB,80.0,index
+North Saanich,2006,CWB,86.0,index
+Sidney,2006,CWB,81.0,index
+Central Saanich,2006,CWB,84.0,index
+Saanich,2006,CWB,83.0,index
+Oak Bay,2006,CWB,89.0,index
+Victoria,2006,CWB,82.0,index
+Esquimalt,2006,CWB,80.0,index
+Colwood,2006,CWB,81.0,index
+Metchosin,2006,CWB,84.0,index
+Langford,2006,CWB,81.0,index
+View Royal,2006,CWB,83.0,index
+Highlands,2006,CWB,84.0,index
+Sooke,2006,CWB,79.0,index
+North Cowichan,2006,CWB,78.0,index
+Duncan,2006,CWB,73.0,index
+Lake Cowichan,2006,CWB,73.0,index
+Ladysmith,2006,CWB,77.0,index
+Nanaimo,2006,CWB,79.0,index
+Lantzville,2006,CWB,82.0,index
+Parksville,2006,CWB,77.0,index
+Qualicum Beach,2006,CWB,79.0,index
+Port Alberni,2006,CWB,74.0,index
+Ucluelet,2006,CWB,78.0,index
+Gold River,2006,CWB,77.0,index
+Campbell River,2006,CWB,77.0,index
+Sayward,2006,CWB,69.0,index
+Comox,2006,CWB,81.0,index
+Courtenay,2006,CWB,77.0,index
+Cumberland,2006,CWB,76.0,index
+Powell River,2006,CWB,77.0,index
+Gibsons,2006,CWB,79.0,index
+Sechelt,2006,CWB,79.0,index
+Squamish,2006,CWB,80.0,index
+Pemberton,2006,CWB,84.0,index
+Whistler,2006,CWB,86.0,index
+Lillooet,2006,CWB,77.0,index
+Merritt,2006,CWB,74.0,index
+Ashcroft,2006,CWB,74.0,index
+Cache Creek,2006,CWB,70.0,index
+Clinton,2006,CWB,68.0,index
+Logan Lake,2006,CWB,77.0,index
+Kamloops,2006,CWB,80.0,index
+Chase,2006,CWB,75.0,index
+Kelowna,2006,CWB,80.0,index
+Lake Country,2006,CWB,80.0,index
+Peachland,2006,CWB,78.0,index
+Lumby,2006,CWB,75.0,index
+Coldstream,2006,CWB,82.0,index
+Vernon,2006,CWB,78.0,index
+Spallumcheen,2006,CWB,77.0,index
+Armstrong,2006,CWB,77.0,index
+Enderby,2006,CWB,73.0,index
+Golden,2006,CWB,78.0,index
+Revelstoke,2006,CWB,78.0,index
+Salmon Arm,2006,CWB,77.0,index
+Sicamous,2006,CWB,76.0,index
+One Hundred Mile House,2006,CWB,73.0,index
+Williams Lake,2006,CWB,77.0,index
+Quesnel,2006,CWB,77.0,index
+Alert Bay,2006,CWB,77.0,index
+Port McNeill,2006,CWB,81.0,index
+Port Alice,2006,CWB,74.0,index
+Port Hardy,2006,CWB,75.0,index
+Port Edward,2006,CWB,73.0,index
+Prince Rupert,2006,CWB,75.0,index
+Masset,2006,CWB,74.0,index
+Queen Charlotte,2006,CWB,80.0,index
+Port Clements,2006,CWB,74.0,index
+Kitimat,2006,CWB,78.0,index
+Terrace,2006,CWB,77.0,index
+New Hazelton,2006,CWB,72.0,index
+Stewart,2006,CWB,80.0,index
+Vanderhoof,2006,CWB,78.0,index
+Fraser Lake,2006,CWB,80.0,index
+Fort St. James,2006,CWB,79.0,index
+Burns Lake,2006,CWB,71.0,index
+Granisle,2006,CWB,72.0,index
+Houston,2006,CWB,77.0,index
+Telkwa,2006,CWB,77.0,index
+Smithers,2006,CWB,78.0,index
+Valemount,2006,CWB,76.0,index
+McBride,2006,CWB,75.0,index
+Prince George,2006,CWB,79.0,index
+Mackenzie,2006,CWB,79.0,index
+Tumbler Ridge,2006,CWB,78.0,index
+Pouce Coupe,2006,CWB,73.0,index
+Chetwynd,2006,CWB,79.0,index
+Dawson Creek,2006,CWB,77.0,index
+Hudson's Hope,2006,CWB,76.0,index
+Taylor,2006,CWB,79.0,index
+Fort St. John,2006,CWB,80.0,index
+Elkford,2006,Income,80.0,index
+Sparwood,2006,Income,76.0,index
+Fernie,2006,Income,75.0,index
+Cranbrook,2006,Income,72.0,index
+Kimberley,2006,Income,71.0,index
+Invermere,2006,Income,73.0,index
+Radium Hot Springs,2006,Income,79.0,index
+Canal Flats,2006,Income,73.0,index
+Creston,2006,Income,68.0,index
+Salmo,2006,Income,62.0,index
+Nelson,2006,Income,70.0,index
+Kaslo,2006,Income,64.0,index
+New Denver,2006,Income,61.0,index
+Castlegar,2006,Income,74.0,index
+Nakusp,2006,Income,70.0,index
+Fruitvale,2006,Income,70.0,index
+Montrose,2006,Income,76.0,index
+Trail,2006,Income,72.0,index
+Warfield,2006,Income,73.0,index
+Rossland,2006,Income,77.0,index
+Grand Forks,2006,Income,67.0,index
+Midway,2006,Income,71.0,index
+Greenwood,2006,Income,66.0,index
+Osoyoos,2006,Income,71.0,index
+Keremeos,2006,Income,64.0,index
+Oliver,2006,Income,69.0,index
+Princeton,2006,Income,69.0,index
+Summerland,2006,Income,73.0,index
+Penticton,2006,Income,71.0,index
+Hope,2006,Income,69.0,index
+Chilliwack,2006,Income,71.0,index
+Harrison Hot Springs,2006,Income,69.0,index
+Kent,2006,Income,68.0,index
+Abbotsford,2006,Income,70.0,index
+Mission,2006,Income,70.0,index
+Langley Township,2006,Income,77.0,index
+Langley City,2006,Income,72.0,index
+Surrey,2006,Income,71.0,index
+White Rock,2006,Income,81.0,index
+Delta,2006,Income,77.0,index
+Richmond,2006,Income,71.0,index
+Vancouver,2006,Income,78.0,index
+Burnaby,2006,Income,72.0,index
+New Westminster,2006,Income,76.0,index
+Coquitlam,2006,Income,74.0,index
+Belcarra,2006,Income,100.0,index
+Anmore,2006,Income,87.0,index
+Port Coquitlam,2006,Income,75.0,index
+Port Moody,2006,Income,79.0,index
+North Vancouver District,2006,Income,84.0,index
+North Vancouver City,2006,Income,77.0,index
+West Vancouver,2006,Income,99.0,index
+Bowen Island,2006,Income,81.0,index
+Lions Bay,2006,Income,88.0,index
+Pitt Meadows,2006,Income,75.0,index
+Maple Ridge,2006,Income,74.0,index
+North Saanich,2006,Income,87.0,index
+Sidney,2006,Income,75.0,index
+Central Saanich,2006,Income,79.0,index
+Saanich,2006,Income,78.0,index
+Oak Bay,2006,Income,92.0,index
+Victoria,2006,Income,75.0,index
+Esquimalt,2006,Income,74.0,index
+Colwood,2006,Income,75.0,index
+Metchosin,2006,Income,82.0,index
+Langford,2006,Income,75.0,index
+View Royal,2006,Income,79.0,index
+Highlands,2006,Income,79.0,index
+Sooke,2006,Income,72.0,index
+North Cowichan,2006,Income,73.0,index
+Duncan,2006,Income,65.0,index
+Lake Cowichan,2006,Income,68.0,index
+Ladysmith,2006,Income,72.0,index
+Nanaimo,2006,Income,71.0,index
+Lantzville,2006,Income,77.0,index
+Parksville,2006,Income,71.0,index
+Qualicum Beach,2006,Income,75.0,index
+Port Alberni,2006,Income,69.0,index
+Ucluelet,2006,Income,71.0,index
+Gold River,2006,Income,73.0,index
+Campbell River,2006,Income,72.0,index
+Sayward,2006,Income,63.0,index
+Comox,2006,Income,76.0,index
+Courtenay,2006,Income,70.0,index
+Cumberland,2006,Income,66.0,index
+Powell River,2006,Income,72.0,index
+Gibsons,2006,Income,74.0,index
+Sechelt,2006,Income,73.0,index
+Squamish,2006,Income,75.0,index
+Pemberton,2006,Income,73.0,index
+Whistler,2006,Income,81.0,index
+Lillooet,2006,Income,71.0,index
+Merritt,2006,Income,70.0,index
+Ashcroft,2006,Income,72.0,index
+Cache Creek,2006,Income,68.0,index
+Clinton,2006,Income,65.0,index
+Logan Lake,2006,Income,76.0,index
+Kamloops,2006,Income,74.0,index
+Chase,2006,Income,71.0,index
+Kelowna,2006,Income,74.0,index
+Lake Country,2006,Income,74.0,index
+Peachland,2006,Income,71.0,index
+Lumby,2006,Income,67.0,index
+Coldstream,2006,Income,79.0,index
+Vernon,2006,Income,71.0,index
+Spallumcheen,2006,Income,71.0,index
+Armstrong,2006,Income,69.0,index
+Enderby,2006,Income,65.0,index
+Golden,2006,Income,72.0,index
+Revelstoke,2006,Income,72.0,index
+Salmon Arm,2006,Income,70.0,index
+Sicamous,2006,Income,74.0,index
+One Hundred Mile House,2006,Income,67.0,index
+Williams Lake,2006,Income,72.0,index
+Quesnel,2006,Income,74.0,index
+Alert Bay,2006,Income,71.0,index
+Port McNeill,2006,Income,76.0,index
+Port Alice,2006,Income,69.0,index
+Port Hardy,2006,Income,72.0,index
+Port Edward,2006,Income,73.0,index
+Prince Rupert,2006,Income,70.0,index
+Masset,2006,Income,69.0,index
+Queen Charlotte,2006,Income,71.0,index
+Port Clements,2006,Income,71.0,index
+Kitimat,2006,Income,79.0,index
+Terrace,2006,Income,71.0,index
+New Hazelton,2006,Income,66.0,index
+Stewart,2006,Income,75.0,index
+Vanderhoof,2006,Income,72.0,index
+Fraser Lake,2006,Income,86.0,index
+Fort St. James,2006,Income,76.0,index
+Burns Lake,2006,Income,65.0,index
+Granisle,2006,Income,71.0,index
+Houston,2006,Income,74.0,index
+Telkwa,2006,Income,70.0,index
+Smithers,2006,Income,71.0,index
+Valemount,2006,Income,70.0,index
+McBride,2006,Income,67.0,index
+Prince George,2006,Income,75.0,index
+Mackenzie,2006,Income,80.0,index
+Tumbler Ridge,2006,Income,77.0,index
+Pouce Coupe,2006,Income,75.0,index
+Chetwynd,2006,Income,76.0,index
+Dawson Creek,2006,Income,74.0,index
+Hudson's Hope,2006,Income,75.0,index
+Taylor,2006,Income,73.0,index
+Fort St. John,2006,Income,77.0,index
+Elkford,2006,Education,58.0,index
+Sparwood,2006,Education,55.0,index
+Fernie,2006,Education,60.0,index
+Cranbrook,2006,Education,58.0,index
+Kimberley,2006,Education,60.0,index
+Invermere,2006,Education,66.0,index
+Radium Hot Springs,2006,Education,56.0,index
+Canal Flats,2006,Education,40.0,index
+Creston,2006,Education,51.0,index
+Salmo,2006,Education,48.0,index
+Nelson,2006,Education,67.0,index
+Kaslo,2006,Education,59.0,index
+New Denver,2006,Education,52.0,index
+Castlegar,2006,Education,58.0,index
+Nakusp,2006,Education,55.0,index
+Fruitvale,2006,Education,55.0,index
+Montrose,2006,Education,62.0,index
+Trail,2006,Education,57.0,index
+Warfield,2006,Education,64.0,index
+Rossland,2006,Education,71.0,index
+Grand Forks,2006,Education,52.0,index
+Midway,2006,Education,56.0,index
+Greenwood,2006,Education,51.0,index
+Osoyoos,2006,Education,54.0,index
+Keremeos,2006,Education,47.0,index
+Oliver,2006,Education,54.0,index
+Princeton,2006,Education,49.0,index
+Summerland,2006,Education,61.0,index
+Penticton,2006,Education,56.0,index
+Hope,2006,Education,54.0,index
+Chilliwack,2006,Education,57.0,index
+Harrison Hot Springs,2006,Education,62.0,index
+Kent,2006,Education,55.0,index
+Abbotsford,2006,Education,57.0,index
+Mission,2006,Education,57.0,index
+Langley Township,2006,Education,63.0,index
+Langley City,2006,Education,58.0,index
+Surrey,2006,Education,60.0,index
+White Rock,2006,Education,66.0,index
+Delta,2006,Education,65.0,index
+Richmond,2006,Education,68.0,index
+Vancouver,2006,Education,69.0,index
+Burnaby,2006,Education,67.0,index
+New Westminster,2006,Education,65.0,index
+Coquitlam,2006,Education,68.0,index
+Belcarra,2006,Education,74.0,index
+Anmore,2006,Education,72.0,index
+Port Coquitlam,2006,Education,64.0,index
+Port Moody,2006,Education,73.0,index
+North Vancouver District,2006,Education,75.0,index
+North Vancouver City,2006,Education,71.0,index
+West Vancouver,2006,Education,79.0,index
+Bowen Island,2006,Education,77.0,index
+Lions Bay,2006,Education,77.0,index
+Pitt Meadows,2006,Education,62.0,index
+Maple Ridge,2006,Education,61.0,index
+North Saanich,2006,Education,71.0,index
+Sidney,2006,Education,63.0,index
+Central Saanich,2006,Education,69.0,index
+Saanich,2006,Education,69.0,index
+Oak Bay,2006,Education,80.0,index
+Victoria,2006,Education,70.0,index
+Esquimalt,2006,Education,62.0,index
+Colwood,2006,Education,63.0,index
+Metchosin,2006,Education,68.0,index
+Langford,2006,Education,62.0,index
+View Royal,2006,Education,65.0,index
+Highlands,2006,Education,69.0,index
+Sooke,2006,Education,59.0,index
+North Cowichan,2006,Education,59.0,index
+Duncan,2006,Education,51.0,index
+Lake Cowichan,2006,Education,50.0,index
+Ladysmith,2006,Education,57.0,index
+Nanaimo,2006,Education,62.0,index
+Lantzville,2006,Education,67.0,index
+Parksville,2006,Education,59.0,index
+Qualicum Beach,2006,Education,65.0,index
+Port Alberni,2006,Education,52.0,index
+Ucluelet,2006,Education,59.0,index
+Gold River,2006,Education,56.0,index
+Campbell River,2006,Education,56.0,index
+Sayward,2006,Education,52.0,index
+Comox,2006,Education,64.0,index
+Courtenay,2006,Education,58.0,index
+Cumberland,2006,Education,56.0,index
+Powell River,2006,Education,57.0,index
+Gibsons,2006,Education,63.0,index
+Sechelt,2006,Education,62.0,index
+Squamish,2006,Education,62.0,index
+Pemberton,2006,Education,69.0,index
+Whistler,2006,Education,75.0,index
+Lillooet,2006,Education,55.0,index
+Merritt,2006,Education,51.0,index
+Ashcroft,2006,Education,50.0,index
+Cache Creek,2006,Education,38.0,index
+Clinton,2006,Education,39.0,index
+Logan Lake,2006,Education,52.0,index
+Kamloops,2006,Education,60.0,index
+Chase,2006,Education,47.0,index
+Kelowna,2006,Education,61.0,index
+Lake Country,2006,Education,61.0,index
+Peachland,2006,Education,61.0,index
+Lumby,2006,Education,52.0,index
+Coldstream,2006,Education,64.0,index
+Vernon,2006,Education,58.0,index
+Spallumcheen,2006,Education,57.0,index
+Armstrong,2006,Education,54.0,index
+Enderby,2006,Education,49.0,index
+Golden,2006,Education,58.0,index
+Revelstoke,2006,Education,57.0,index
+Salmon Arm,2006,Education,58.0,index
+Sicamous,2006,Education,50.0,index
+One Hundred Mile House,2006,Education,52.0,index
+Williams Lake,2006,Education,55.0,index
+Quesnel,2006,Education,56.0,index
+Alert Bay,2006,Education,54.0,index
+Port McNeill,2006,Education,59.0,index
+Port Alice,2006,Education,51.0,index
+Port Hardy,2006,Education,53.0,index
+Port Edward,2006,Education,52.0,index
+Prince Rupert,2006,Education,52.0,index
+Masset,2006,Education,52.0,index
+Queen Charlotte,2006,Education,67.0,index
+Port Clements,2006,Education,50.0,index
+Kitimat,2006,Education,55.0,index
+Terrace,2006,Education,58.0,index
+New Hazelton,2006,Education,54.0,index
+Stewart,2006,Education,57.0,index
+Vanderhoof,2006,Education,53.0,index
+Fraser Lake,2006,Education,52.0,index
+Fort St. James,2006,Education,57.0,index
+Burns Lake,2006,Education,49.0,index
+Granisle,2006,Education,59.0,index
+Houston,2006,Education,53.0,index
+Telkwa,2006,Education,58.0,index
+Smithers,2006,Education,58.0,index
+Valemount,2006,Education,54.0,index
+McBride,2006,Education,54.0,index
+Prince George,2006,Education,58.0,index
+Mackenzie,2006,Education,57.0,index
+Tumbler Ridge,2006,Education,54.0,index
+Pouce Coupe,2006,Education,38.0,index
+Chetwynd,2006,Education,57.0,index
+Dawson Creek,2006,Education,53.0,index
+Hudson's Hope,2006,Education,57.0,index
+Taylor,2006,Education,52.0,index
+Fort St. John,2006,Education,56.0,index
+Elkford,2006,Housing,96.0,index
+Sparwood,2006,Housing,94.0,index
+Fernie,2006,Housing,95.0,index
+Cranbrook,2006,Housing,95.0,index
+Kimberley,2006,Housing,95.0,index
+Invermere,2006,Housing,96.0,index
+Radium Hot Springs,2006,Housing,98.0,index
+Canal Flats,2006,Housing,84.0,index
+Creston,2006,Housing,96.0,index
+Salmo,2006,Housing,86.0,index
+Nelson,2006,Housing,94.0,index
+Kaslo,2006,Housing,92.0,index
+New Denver,2006,Housing,89.0,index
+Castlegar,2006,Housing,96.0,index
+Nakusp,2006,Housing,92.0,index
+Fruitvale,2006,Housing,94.0,index
+Montrose,2006,Housing,96.0,index
+Trail,2006,Housing,94.0,index
+Warfield,2006,Housing,97.0,index
+Rossland,2006,Housing,92.0,index
+Grand Forks,2006,Housing,93.0,index
+Midway,2006,Housing,93.0,index
+Greenwood,2006,Housing,91.0,index
+Osoyoos,2006,Housing,95.0,index
+Keremeos,2006,Housing,98.0,index
+Oliver,2006,Housing,95.0,index
+Princeton,2006,Housing,94.0,index
+Summerland,2006,Housing,96.0,index
+Penticton,2006,Housing,96.0,index
+Hope,2006,Housing,94.0,index
+Chilliwack,2006,Housing,96.0,index
+Harrison Hot Springs,2006,Housing,97.0,index
+Kent,2006,Housing,95.0,index
+Abbotsford,2006,Housing,95.0,index
+Mission,2006,Housing,95.0,index
+Langley Township,2006,Housing,97.0,index
+Langley City,2006,Housing,95.0,index
+Surrey,2006,Housing,94.0,index
+White Rock,2006,Housing,96.0,index
+Delta,2006,Housing,96.0,index
+Richmond,2006,Housing,94.0,index
+Vancouver,2006,Housing,93.0,index
+Burnaby,2006,Housing,93.0,index
+New Westminster,2006,Housing,93.0,index
+Coquitlam,2006,Housing,95.0,index
+Belcarra,2006,Housing,98.0,index
+Anmore,2006,Housing,97.0,index
+Port Coquitlam,2006,Housing,95.0,index
+Port Moody,2006,Housing,97.0,index
+North Vancouver District,2006,Housing,96.0,index
+North Vancouver City,2006,Housing,93.0,index
+West Vancouver,2006,Housing,96.0,index
+Bowen Island,2006,Housing,91.0,index
+Lions Bay,2006,Housing,93.0,index
+Pitt Meadows,2006,Housing,97.0,index
+Maple Ridge,2006,Housing,97.0,index
+North Saanich,2006,Housing,97.0,index
+Sidney,2006,Housing,98.0,index
+Central Saanich,2006,Housing,98.0,index
+Saanich,2006,Housing,97.0,index
+Oak Bay,2006,Housing,97.0,index
+Victoria,2006,Housing,95.0,index
+Esquimalt,2006,Housing,96.0,index
+Colwood,2006,Housing,97.0,index
+Metchosin,2006,Housing,96.0,index
+Langford,2006,Housing,95.0,index
+View Royal,2006,Housing,98.0,index
+Highlands,2006,Housing,99.0,index
+Sooke,2006,Housing,95.0,index
+North Cowichan,2006,Housing,96.0,index
+Duncan,2006,Housing,91.0,index
+Lake Cowichan,2006,Housing,94.0,index
+Ladysmith,2006,Housing,95.0,index
+Nanaimo,2006,Housing,96.0,index
+Lantzville,2006,Housing,96.0,index
+Parksville,2006,Housing,97.0,index
+Qualicum Beach,2006,Housing,97.0,index
+Port Alberni,2006,Housing,93.0,index
+Ucluelet,2006,Housing,90.0,index
+Gold River,2006,Housing,92.0,index
+Campbell River,2006,Housing,96.0,index
+Sayward,2006,Housing,90.0,index
+Comox,2006,Housing,97.0,index
+Courtenay,2006,Housing,96.0,index
+Cumberland,2006,Housing,95.0,index
+Powell River,2006,Housing,95.0,index
+Gibsons,2006,Housing,96.0,index
+Sechelt,2006,Housing,96.0,index
+Squamish,2006,Housing,96.0,index
+Pemberton,2006,Housing,98.0,index
+Whistler,2006,Housing,96.0,index
+Lillooet,2006,Housing,95.0,index
+Merritt,2006,Housing,92.0,index
+Ashcroft,2006,Housing,91.0,index
+Cache Creek,2006,Housing,91.0,index
+Clinton,2006,Housing,87.0,index
+Logan Lake,2006,Housing,97.0,index
+Kamloops,2006,Housing,96.0,index
+Chase,2006,Housing,95.0,index
+Kelowna,2006,Housing,97.0,index
+Lake Country,2006,Housing,97.0,index
+Peachland,2006,Housing,97.0,index
+Lumby,2006,Housing,98.0,index
+Coldstream,2006,Housing,97.0,index
+Vernon,2006,Housing,96.0,index
+Spallumcheen,2006,Housing,96.0,index
+Armstrong,2006,Housing,97.0,index
+Enderby,2006,Housing,96.0,index
+Golden,2006,Housing,94.0,index
+Revelstoke,2006,Housing,97.0,index
+Salmon Arm,2006,Housing,95.0,index
+Sicamous,2006,Housing,97.0,index
+One Hundred Mile House,2006,Housing,90.0,index
+Williams Lake,2006,Housing,96.0,index
+Quesnel,2006,Housing,95.0,index
+Alert Bay,2006,Housing,90.0,index
+Port McNeill,2006,Housing,97.0,index
+Port Alice,2006,Housing,96.0,index
+Port Hardy,2006,Housing,92.0,index
+Port Edward,2006,Housing,84.0,index
+Prince Rupert,2006,Housing,94.0,index
+Masset,2006,Housing,89.0,index
+Queen Charlotte,2006,Housing,90.0,index
+Port Clements,2006,Housing,86.0,index
+Kitimat,2006,Housing,95.0,index
+Terrace,2006,Housing,92.0,index
+New Hazelton,2006,Housing,89.0,index
+Stewart,2006,Housing,98.0,index
+Vanderhoof,2006,Housing,95.0,index
+Fraser Lake,2006,Housing,95.0,index
+Fort St. James,2006,Housing,98.0,index
+Burns Lake,2006,Housing,86.0,index
+Granisle,2006,Housing,94.0,index
+Houston,2006,Housing,95.0,index
+Telkwa,2006,Housing,93.0,index
+Smithers,2006,Housing,96.0,index
+Valemount,2006,Housing,91.0,index
+McBride,2006,Housing,85.0,index
+Prince George,2006,Housing,95.0,index
+Mackenzie,2006,Housing,94.0,index
+Tumbler Ridge,2006,Housing,96.0,index
+Pouce Coupe,2006,Housing,92.0,index
+Chetwynd,2006,Housing,93.0,index
+Dawson Creek,2006,Housing,94.0,index
+Hudson's Hope,2006,Housing,92.0,index
+Taylor,2006,Housing,97.0,index
+Fort St. John,2006,Housing,96.0,index
+Elkford,2006,Labour_Force,87.0,index
+Sparwood,2006,Labour_Force,88.0,index
+Fernie,2006,Labour_Force,90.0,index
+Cranbrook,2006,Labour_Force,87.0,index
+Kimberley,2006,Labour_Force,87.0,index
+Invermere,2006,Labour_Force,91.0,index
+Radium Hot Springs,2006,Labour_Force,93.0,index
+Canal Flats,2006,Labour_Force,89.0,index
+Creston,2006,Labour_Force,80.0,index
+Salmo,2006,Labour_Force,77.0,index
+Nelson,2006,Labour_Force,88.0,index
+Kaslo,2006,Labour_Force,83.0,index
+New Denver,2006,Labour_Force,74.0,index
+Castlegar,2006,Labour_Force,85.0,index
+Nakusp,2006,Labour_Force,85.0,index
+Fruitvale,2006,Labour_Force,83.0,index
+Montrose,2006,Labour_Force,86.0,index
+Trail,2006,Labour_Force,85.0,index
+Warfield,2006,Labour_Force,88.0,index
+Rossland,2006,Labour_Force,88.0,index
+Grand Forks,2006,Labour_Force,82.0,index
+Midway,2006,Labour_Force,86.0,index
+Greenwood,2006,Labour_Force,77.0,index
+Osoyoos,2006,Labour_Force,81.0,index
+Keremeos,2006,Labour_Force,81.0,index
+Oliver,2006,Labour_Force,82.0,index
+Princeton,2006,Labour_Force,81.0,index
+Summerland,2006,Labour_Force,87.0,index
+Penticton,2006,Labour_Force,86.0,index
+Hope,2006,Labour_Force,82.0,index
+Chilliwack,2006,Labour_Force,88.0,index
+Harrison Hot Springs,2006,Labour_Force,83.0,index
+Kent,2006,Labour_Force,88.0,index
+Abbotsford,2006,Labour_Force,89.0,index
+Mission,2006,Labour_Force,87.0,index
+Langley Township,2006,Labour_Force,90.0,index
+Langley City,2006,Labour_Force,89.0,index
+Surrey,2006,Labour_Force,87.0,index
+White Rock,2006,Labour_Force,89.0,index
+Delta,2006,Labour_Force,89.0,index
+Richmond,2006,Labour_Force,85.0,index
+Vancouver,2006,Labour_Force,87.0,index
+Burnaby,2006,Labour_Force,86.0,index
+New Westminster,2006,Labour_Force,89.0,index
+Coquitlam,2006,Labour_Force,87.0,index
+Belcarra,2006,Labour_Force,90.0,index
+Anmore,2006,Labour_Force,93.0,index
+Port Coquitlam,2006,Labour_Force,89.0,index
+Port Moody,2006,Labour_Force,90.0,index
+North Vancouver District,2006,Labour_Force,89.0,index
+North Vancouver City,2006,Labour_Force,89.0,index
+West Vancouver,2006,Labour_Force,86.0,index
+Bowen Island,2006,Labour_Force,93.0,index
+Lions Bay,2006,Labour_Force,90.0,index
+Pitt Meadows,2006,Labour_Force,90.0,index
+Maple Ridge,2006,Labour_Force,89.0,index
+North Saanich,2006,Labour_Force,87.0,index
+Sidney,2006,Labour_Force,88.0,index
+Central Saanich,2006,Labour_Force,90.0,index
+Saanich,2006,Labour_Force,89.0,index
+Oak Bay,2006,Labour_Force,89.0,index
+Victoria,2006,Labour_Force,88.0,index
+Esquimalt,2006,Labour_Force,88.0,index
+Colwood,2006,Labour_Force,90.0,index
+Metchosin,2006,Labour_Force,90.0,index
+Langford,2006,Labour_Force,91.0,index
+View Royal,2006,Labour_Force,90.0,index
+Highlands,2006,Labour_Force,91.0,index
+Sooke,2006,Labour_Force,89.0,index
+North Cowichan,2006,Labour_Force,86.0,index
+Duncan,2006,Labour_Force,83.0,index
+Lake Cowichan,2006,Labour_Force,81.0,index
+Ladysmith,2006,Labour_Force,85.0,index
+Nanaimo,2006,Labour_Force,86.0,index
+Lantzville,2006,Labour_Force,87.0,index
+Parksville,2006,Labour_Force,81.0,index
+Qualicum Beach,2006,Labour_Force,80.0,index
+Port Alberni,2006,Labour_Force,82.0,index
+Ucluelet,2006,Labour_Force,92.0,index
+Gold River,2006,Labour_Force,85.0,index
+Campbell River,2006,Labour_Force,85.0,index
+Sayward,2006,Labour_Force,73.0,index
+Comox,2006,Labour_Force,85.0,index
+Courtenay,2006,Labour_Force,85.0,index
+Cumberland,2006,Labour_Force,86.0,index
+Powell River,2006,Labour_Force,84.0,index
+Gibsons,2006,Labour_Force,84.0,index
+Sechelt,2006,Labour_Force,86.0,index
+Squamish,2006,Labour_Force,90.0,index
+Pemberton,2006,Labour_Force,94.0,index
+Whistler,2006,Labour_Force,93.0,index
+Lillooet,2006,Labour_Force,85.0,index
+Merritt,2006,Labour_Force,85.0,index
+Ashcroft,2006,Labour_Force,81.0,index
+Cache Creek,2006,Labour_Force,83.0,index
+Clinton,2006,Labour_Force,83.0,index
+Logan Lake,2006,Labour_Force,82.0,index
+Kamloops,2006,Labour_Force,88.0,index
+Chase,2006,Labour_Force,85.0,index
+Kelowna,2006,Labour_Force,89.0,index
+Lake Country,2006,Labour_Force,89.0,index
+Peachland,2006,Labour_Force,82.0,index
+Lumby,2006,Labour_Force,84.0,index
+Coldstream,2006,Labour_Force,88.0,index
+Vernon,2006,Labour_Force,86.0,index
+Spallumcheen,2006,Labour_Force,87.0,index
+Armstrong,2006,Labour_Force,86.0,index
+Enderby,2006,Labour_Force,84.0,index
+Golden,2006,Labour_Force,88.0,index
+Revelstoke,2006,Labour_Force,85.0,index
+Salmon Arm,2006,Labour_Force,86.0,index
+Sicamous,2006,Labour_Force,82.0,index
+One Hundred Mile House,2006,Labour_Force,84.0,index
+Williams Lake,2006,Labour_Force,87.0,index
+Quesnel,2006,Labour_Force,85.0,index
+Alert Bay,2006,Labour_Force,92.0,index
+Port McNeill,2006,Labour_Force,92.0,index
+Port Alice,2006,Labour_Force,82.0,index
+Port Hardy,2006,Labour_Force,85.0,index
+Port Edward,2006,Labour_Force,82.0,index
+Prince Rupert,2006,Labour_Force,84.0,index
+Masset,2006,Labour_Force,86.0,index
+Queen Charlotte,2006,Labour_Force,91.0,index
+Port Clements,2006,Labour_Force,89.0,index
+Kitimat,2006,Labour_Force,85.0,index
+Terrace,2006,Labour_Force,87.0,index
+New Hazelton,2006,Labour_Force,80.0,index
+Stewart,2006,Labour_Force,91.0,index
+Vanderhoof,2006,Labour_Force,89.0,index
+Fraser Lake,2006,Labour_Force,86.0,index
+Fort St. James,2006,Labour_Force,87.0,index
+Burns Lake,2006,Labour_Force,84.0,index
+Granisle,2006,Labour_Force,65.0,index
+Houston,2006,Labour_Force,87.0,index
+Telkwa,2006,Labour_Force,86.0,index
+Smithers,2006,Labour_Force,88.0,index
+Valemount,2006,Labour_Force,89.0,index
+McBride,2006,Labour_Force,92.0,index
+Prince George,2006,Labour_Force,88.0,index
+Mackenzie,2006,Labour_Force,87.0,index
+Tumbler Ridge,2006,Labour_Force,87.0,index
+Pouce Coupe,2006,Labour_Force,87.0,index
+Chetwynd,2006,Labour_Force,90.0,index
+Dawson Creek,2006,Labour_Force,89.0,index
+Hudson's Hope,2006,Labour_Force,78.0,index
+Taylor,2006,Labour_Force,93.0,index
+Fort St. John,2006,Labour_Force,91.0,index
+Elkford,2006,Population,2463.0,count
+Sparwood,2006,Population,3618.0,count
+Fernie,2006,Population,4217.0,count
+Cranbrook,2006,Population,18267.0,count
+Kimberley,2006,Population,6139.0,count
+Invermere,2006,Population,3002.0,count
+Radium Hot Springs,2006,Population,735.0,count
+Canal Flats,2006,Population,700.0,count
+Creston,2006,Population,4826.0,count
+Salmo,2006,Population,1007.0,count
+Nelson,2006,Population,9258.0,count
+Kaslo,2006,Population,1072.0,count
+New Denver,2006,Population,512.0,count
+Castlegar,2006,Population,7259.0,count
+Nakusp,2006,Population,1524.0,count
+Fruitvale,2006,Population,1952.0,count
+Montrose,2006,Population,1012.0,count
+Trail,2006,Population,7237.0,count
+Warfield,2006,Population,1729.0,count
+Rossland,2006,Population,3278.0,count
+Grand Forks,2006,Population,4036.0,count
+Midway,2006,Population,621.0,count
+Greenwood,2006,Population,625.0,count
+Osoyoos,2006,Population,4752.0,count
+Keremeos,2006,Population,1289.0,count
+Oliver,2006,Population,4370.0,count
+Princeton,2006,Population,2677.0,count
+Summerland,2006,Population,10828.0,count
+Penticton,2006,Population,31909.0,count
+Hope,2006,Population,6185.0,count
+Chilliwack,2006,Population,69217.0,count
+Harrison Hot Springs,2006,Population,1573.0,count
+Kent,2006,Population,4738.0,count
+Abbotsford,2006,Population,123864.0,count
+Mission,2006,Population,34505.0,count
+Langley Township,2006,Population,93726.0,count
+Langley City,2006,Population,23606.0,count
+Surrey,2006,Population,394976.0,count
+White Rock,2006,Population,18755.0,count
+Delta,2006,Population,96723.0,count
+Richmond,2006,Population,174461.0,count
+Vancouver,2006,Population,578041.0,count
+Burnaby,2006,Population,202799.0,count
+New Westminster,2006,Population,58549.0,count
+Coquitlam,2006,Population,114565.0,count
+Belcarra,2006,Population,676.0,count
+Anmore,2006,Population,1785.0,count
+Port Coquitlam,2006,Population,52687.0,count
+Port Moody,2006,Population,27512.0,count
+North Vancouver District,2006,Population,82562.0,count
+North Vancouver City,2006,Population,45165.0,count
+West Vancouver,2006,Population,42131.0,count
+Bowen Island,2006,Population,3362.0,count
+Lions Bay,2006,Population,1328.0,count
+Pitt Meadows,2006,Population,15623.0,count
+Maple Ridge,2006,Population,68949.0,count
+North Saanich,2006,Population,10823.0,count
+Sidney,2006,Population,11315.0,count
+Central Saanich,2006,Population,15745.0,count
+Saanich,2006,Population,108265.0,count
+Oak Bay,2006,Population,17908.0,count
+Victoria,2006,Population,78057.0,count
+Esquimalt,2006,Population,16840.0,count
+Colwood,2006,Population,14687.0,count
+Metchosin,2006,Population,4795.0,count
+Langford,2006,Population,22459.0,count
+View Royal,2006,Population,8768.0,count
+Highlands,2006,Population,1903.0,count
+Sooke,2006,Population,9704.0,count
+North Cowichan,2006,Population,27557.0,count
+Duncan,2006,Population,4986.0,count
+Lake Cowichan,2006,Population,2948.0,count
+Ladysmith,2006,Population,7538.0,count
+Nanaimo,2006,Population,78692.0,count
+Lantzville,2006,Population,3661.0,count
+Parksville,2006,Population,10993.0,count
+Qualicum Beach,2006,Population,8502.0,count
+Port Alberni,2006,Population,17548.0,count
+Ucluelet,2006,Population,1487.0,count
+Gold River,2006,Population,1362.0,count
+Campbell River,2006,Population,29572.0,count
+Sayward,2006,Population,341.0,count
+Comox,2006,Population,12136.0,count
+Courtenay,2006,Population,21940.0,count
+Cumberland,2006,Population,2762.0,count
+Powell River,2006,Population,12957.0,count
+Gibsons,2006,Population,4182.0,count
+Sechelt,2006,Population,8454.0,count
+Squamish,2006,Population,14949.0,count
+Pemberton,2006,Population,2192.0,count
+Whistler,2006,Population,9248.0,count
+Lillooet,2006,Population,2324.0,count
+Merritt,2006,Population,6998.0,count
+Ashcroft,2006,Population,1664.0,count
+Cache Creek,2006,Population,1037.0,count
+Clinton,2006,Population,578.0,count
+Logan Lake,2006,Population,2162.0,count
+Kamloops,2006,Population,80376.0,count
+Chase,2006,Population,2409.0,count
+Kelowna,2006,Population,106707.0,count
+Lake Country,2006,Population,9606.0,count
+Peachland,2006,Population,4883.0,count
+Lumby,2006,Population,1634.0,count
+Coldstream,2006,Population,9471.0,count
+Vernon,2006,Population,35944.0,count
+Spallumcheen,2006,Population,4960.0,count
+Armstrong,2006,Population,4241.0,count
+Enderby,2006,Population,2828.0,count
+Golden,2006,Population,3811.0,count
+Revelstoke,2006,Population,7230.0,count
+Salmon Arm,2006,Population,16012.0,count
+Sicamous,2006,Population,2676.0,count
+One Hundred Mile House,2006,Population,1885.0,count
+Williams Lake,2006,Population,10744.0,count
+Quesnel,2006,Population,9326.0,count
+Alert Bay,2006,Population,556.0,count
+Port McNeill,2006,Population,2623.0,count
+Port Alice,2006,Population,821.0,count
+Port Hardy,2006,Population,3822.0,count
+Port Edward,2006,Population,577.0,count
+Prince Rupert,2006,Population,12815.0,count
+Masset,2006,Population,940.0,count
+Queen Charlotte,2006,Population,948.0,count
+Port Clements,2006,Population,440.0,count
+Kitimat,2006,Population,8987.0,count
+Terrace,2006,Population,11320.0,count
+New Hazelton,2006,Population,627.0,count
+Stewart,2006,Population,496.0,count
+Vanderhoof,2006,Population,4064.0,count
+Fraser Lake,2006,Population,1113.0,count
+Fort St. James,2006,Population,1355.0,count
+Burns Lake,2006,Population,2107.0,count
+Granisle,2006,Population,364.0,count
+Houston,2006,Population,3163.0,count
+Telkwa,2006,Population,1295.0,count
+Smithers,2006,Population,5217.0,count
+Valemount,2006,Population,1018.0,count
+McBride,2006,Population,660.0,count
+Prince George,2006,Population,70981.0,count
+Mackenzie,2006,Population,4539.0,count
+Tumbler Ridge,2006,Population,2454.0,count
+Pouce Coupe,2006,Population,739.0,count
+Chetwynd,2006,Population,2633.0,count
+Dawson Creek,2006,Population,10994.0,count
+Hudson's Hope,2006,Population,1012.0,count
+Taylor,2006,Population,1384.0,count
+Fort St. John,2006,Population,17402.0,count
+Elkford,2011,CWB,84.0,index
+Sparwood,2011,CWB,82.0,index
+Fernie,2011,CWB,85.0,index
+Cranbrook,2011,CWB,79.0,index
+Kimberley,2011,CWB,78.0,index
+Invermere,2011,CWB,82.0,index
+Radium Hot Springs,2011,CWB,77.0,index
+Canal Flats,2011,CWB,79.0,index
+Creston,2011,CWB,76.0,index
+Salmo,2011,CWB,73.0,index
+Nelson,2011,CWB,81.0,index
+Kaslo,2011,CWB,74.0,index
+New Denver,2011,CWB,76.0,index
+Castlegar,2011,CWB,79.0,index
+Nakusp,2011,CWB,74.0,index
+Fruitvale,2011,CWB,77.0,index
+Montrose,2011,CWB,81.0,index
+Trail,2011,CWB,78.0,index
+Warfield,2011,CWB,82.0,index
+Rossland,2011,CWB,83.0,index
+Grand Forks,2011,CWB,75.0,index
+Midway,2011,CWB,73.0,index
+Greenwood,2011,CWB,70.0,index
+Osoyoos,2011,CWB,77.0,index
+Keremeos,2011,CWB,63.0,index
+Oliver,2011,CWB,76.0,index
+Princeton,2011,CWB,75.0,index
+Summerland,2011,CWB,80.0,index
+Penticton,2011,CWB,78.0,index
+Hope,2011,CWB,75.0,index
+Chilliwack,2011,CWB,78.0,index
+Harrison Hot Springs,2011,CWB,79.0,index
+Kent,2011,CWB,78.0,index
+Abbotsford,2011,CWB,78.0,index
+Mission,2011,CWB,79.0,index
+Langley Township,2011,CWB,82.0,index
+Langley City,2011,CWB,79.0,index
+Surrey,2011,CWB,78.0,index
+White Rock,2011,CWB,84.0,index
+Delta,2011,CWB,82.0,index
+Richmond,2011,CWB,80.0,index
+Vancouver,2011,CWB,83.0,index
+Burnaby,2011,CWB,80.0,index
+New Westminster,2011,CWB,81.0,index
+Coquitlam,2011,CWB,82.0,index
+Belcarra,2011,CWB,91.0,index
+Anmore,2011,CWB,88.0,index
+Port Coquitlam,2011,CWB,82.0,index
+Port Moody,2011,CWB,85.0,index
+North Vancouver District,2011,CWB,87.0,index
+North Vancouver City,2011,CWB,84.0,index
+West Vancouver,2011,CWB,90.0,index
+Bowen Island,2011,CWB,87.0,index
+Lions Bay,2011,CWB,89.0,index
+Pitt Meadows,2011,CWB,82.0,index
+Maple Ridge,2011,CWB,81.0,index
+North Saanich,2011,CWB,86.0,index
+Sidney,2011,CWB,82.0,index
+Central Saanich,2011,CWB,84.0,index
+Saanich,2011,CWB,84.0,index
+Oak Bay,2011,CWB,88.0,index
+Victoria,2011,CWB,83.0,index
+Esquimalt,2011,CWB,81.0,index
+Colwood,2011,CWB,82.0,index
+Metchosin,2011,CWB,84.0,index
+Langford,2011,CWB,82.0,index
+View Royal,2011,CWB,84.0,index
+Highlands,2011,CWB,85.0,index
+Sooke,2011,CWB,80.0,index
+North Cowichan,2011,CWB,79.0,index
+Duncan,2011,CWB,76.0,index
+Lake Cowichan,2011,CWB,76.0,index
+Ladysmith,2011,CWB,80.0,index
+Nanaimo,2011,CWB,80.0,index
+Lantzville,2011,CWB,82.0,index
+Parksville,2011,CWB,78.0,index
+Qualicum Beach,2011,CWB,81.0,index
+Port Alberni,2011,CWB,74.0,index
+Ucluelet,2011,CWB,79.0,index
+Gold River,2011,CWB,80.0,index
+Campbell River,2011,CWB,78.0,index
+Sayward,2011,CWB,74.0,index
+Comox,2011,CWB,82.0,index
+Courtenay,2011,CWB,78.0,index
+Cumberland,2011,CWB,76.0,index
+Powell River,2011,CWB,78.0,index
+Gibsons,2011,CWB,81.0,index
+Sechelt,2011,CWB,83.0,index
+Squamish,2011,CWB,81.0,index
+Pemberton,2011,CWB,84.0,index
+Whistler,2011,CWB,87.0,index
+Lillooet,2011,CWB,75.0,index
+Merritt,2011,CWB,77.0,index
+Ashcroft,2011,CWB,77.0,index
+Cache Creek,2011,CWB,74.0,index
+Clinton,2011,CWB,72.0,index
+Logan Lake,2011,CWB,78.0,index
+Kamloops,2011,CWB,81.0,index
+Chase,2011,CWB,75.0,index
+Kelowna,2011,CWB,81.0,index
+Lake Country,2011,CWB,80.0,index
+Peachland,2011,CWB,80.0,index
+Lumby,2011,CWB,75.0,index
+Coldstream,2011,CWB,82.0,index
+Vernon,2011,CWB,78.0,index
+Spallumcheen,2011,CWB,77.0,index
+Armstrong,2011,CWB,77.0,index
+Enderby,2011,CWB,75.0,index
+Golden,2011,CWB,81.0,index
+Revelstoke,2011,CWB,79.0,index
+Salmon Arm,2011,CWB,78.0,index
+Sicamous,2011,CWB,72.0,index
+One Hundred Mile House,2011,CWB,75.0,index
+Williams Lake,2011,CWB,77.0,index
+Quesnel,2011,CWB,75.0,index
+Alert Bay,2011,CWB,76.0,index
+Port McNeill,2011,CWB,80.0,index
+Port Alice,2011,CWB,79.0,index
+Port Hardy,2011,CWB,78.0,index
+Port Edward,2011,CWB,71.0,index
+Prince Rupert,2011,CWB,75.0,index
+Masset,2011,CWB,74.0,index
+Queen Charlotte,2011,CWB,83.0,index
+Port Clements,2011,CWB,74.0,index
+Kitimat,2011,CWB,78.0,index
+Terrace,2011,CWB,78.0,index
+New Hazelton,2011,CWB,75.0,index
+Stewart,2011,CWB,79.0,index
+Vanderhoof,2011,CWB,78.0,index
+Fraser Lake,2011,CWB,76.0,index
+Fort St. James,2011,CWB,74.0,index
+Burns Lake,2011,CWB,74.0,index
+Granisle,2011,CWB,71.0,index
+Houston,2011,CWB,79.0,index
+Telkwa,2011,CWB,79.0,index
+Smithers,2011,CWB,80.0,index
+Valemount,2011,CWB,76.0,index
+McBride,2011,CWB,68.0,index
+Prince George,2011,CWB,79.0,index
+Mackenzie,2011,CWB,78.0,index
+Tumbler Ridge,2011,CWB,79.0,index
+Pouce Coupe,2011,CWB,75.0,index
+Chetwynd,2011,CWB,79.0,index
+Dawson Creek,2011,CWB,79.0,index
+Hudson's Hope,2011,CWB,80.0,index
+Taylor,2011,CWB,76.0,index
+Fort St. John,2011,CWB,81.0,index
+Elkford,2011,Income,86.0,index
+Sparwood,2011,Income,86.0,index
+Fernie,2011,Income,83.0,index
+Cranbrook,2011,Income,74.0,index
+Kimberley,2011,Income,74.0,index
+Invermere,2011,Income,83.0,index
+Radium Hot Springs,2011,Income,70.0,index
+Canal Flats,2011,Income,71.0,index
+Creston,2011,Income,71.0,index
+Salmo,2011,Income,63.0,index
+Nelson,2011,Income,75.0,index
+Kaslo,2011,Income,68.0,index
+New Denver,2011,Income,71.0,index
+Castlegar,2011,Income,75.0,index
+Nakusp,2011,Income,67.0,index
+Fruitvale,2011,Income,78.0,index
+Montrose,2011,Income,83.0,index
+Trail,2011,Income,76.0,index
+Warfield,2011,Income,81.0,index
+Rossland,2011,Income,80.0,index
+Grand Forks,2011,Income,70.0,index
+Midway,2011,Income,66.0,index
+Greenwood,2011,Income,64.0,index
+Osoyoos,2011,Income,75.0,index
+Keremeos,2011,Income,58.0,index
+Oliver,2011,Income,71.0,index
+Princeton,2011,Income,76.0,index
+Summerland,2011,Income,76.0,index
+Penticton,2011,Income,72.0,index
+Hope,2011,Income,69.0,index
+Chilliwack,2011,Income,72.0,index
+Harrison Hot Springs,2011,Income,74.0,index
+Kent,2011,Income,71.0,index
+Abbotsford,2011,Income,72.0,index
+Mission,2011,Income,72.0,index
+Langley Township,2011,Income,78.0,index
+Langley City,2011,Income,73.0,index
+Surrey,2011,Income,72.0,index
+White Rock,2011,Income,84.0,index
+Delta,2011,Income,79.0,index
+Richmond,2011,Income,73.0,index
+Vancouver,2011,Income,81.0,index
+Burnaby,2011,Income,74.0,index
+New Westminster,2011,Income,77.0,index
+Coquitlam,2011,Income,76.0,index
+Belcarra,2011,Income,100.0,index
+Anmore,2011,Income,94.0,index
+Port Coquitlam,2011,Income,76.0,index
+Port Moody,2011,Income,82.0,index
+North Vancouver District,2011,Income,86.0,index
+North Vancouver City,2011,Income,81.0,index
+West Vancouver,2011,Income,99.0,index
+Bowen Island,2011,Income,85.0,index
+Lions Bay,2011,Income,93.0,index
+Pitt Meadows,2011,Income,76.0,index
+Maple Ridge,2011,Income,76.0,index
+North Saanich,2011,Income,88.0,index
+Sidney,2011,Income,79.0,index
+Central Saanich,2011,Income,83.0,index
+Saanich,2011,Income,80.0,index
+Oak Bay,2011,Income,90.0,index
+Victoria,2011,Income,78.0,index
+Esquimalt,2011,Income,76.0,index
+Colwood,2011,Income,78.0,index
+Metchosin,2011,Income,83.0,index
+Langford,2011,Income,77.0,index
+View Royal,2011,Income,81.0,index
+Highlands,2011,Income,85.0,index
+Sooke,2011,Income,74.0,index
+North Cowichan,2011,Income,74.0,index
+Duncan,2011,Income,70.0,index
+Lake Cowichan,2011,Income,72.0,index
+Ladysmith,2011,Income,75.0,index
+Nanaimo,2011,Income,74.0,index
+Lantzville,2011,Income,80.0,index
+Parksville,2011,Income,74.0,index
+Qualicum Beach,2011,Income,79.0,index
+Port Alberni,2011,Income,69.0,index
+Ucluelet,2011,Income,74.0,index
+Gold River,2011,Income,76.0,index
+Campbell River,2011,Income,74.0,index
+Sayward,2011,Income,79.0,index
+Comox,2011,Income,78.0,index
+Courtenay,2011,Income,73.0,index
+Cumberland,2011,Income,68.0,index
+Powell River,2011,Income,73.0,index
+Gibsons,2011,Income,77.0,index
+Sechelt,2011,Income,80.0,index
+Squamish,2011,Income,76.0,index
+Pemberton,2011,Income,78.0,index
+Whistler,2011,Income,85.0,index
+Lillooet,2011,Income,73.0,index
+Merritt,2011,Income,74.0,index
+Ashcroft,2011,Income,75.0,index
+Cache Creek,2011,Income,71.0,index
+Clinton,2011,Income,69.0,index
+Logan Lake,2011,Income,76.0,index
+Kamloops,2011,Income,77.0,index
+Chase,2011,Income,72.0,index
+Kelowna,2011,Income,77.0,index
+Lake Country,2011,Income,74.0,index
+Peachland,2011,Income,77.0,index
+Lumby,2011,Income,66.0,index
+Coldstream,2011,Income,78.0,index
+Vernon,2011,Income,74.0,index
+Spallumcheen,2011,Income,72.0,index
+Armstrong,2011,Income,70.0,index
+Enderby,2011,Income,69.0,index
+Golden,2011,Income,78.0,index
+Revelstoke,2011,Income,75.0,index
+Salmon Arm,2011,Income,71.0,index
+Sicamous,2011,Income,71.0,index
+One Hundred Mile House,2011,Income,70.0,index
+Williams Lake,2011,Income,73.0,index
+Quesnel,2011,Income,72.0,index
+Alert Bay,2011,Income,71.0,index
+Port McNeill,2011,Income,77.0,index
+Port Alice,2011,Income,82.0,index
+Port Hardy,2011,Income,74.0,index
+Port Edward,2011,Income,64.0,index
+Prince Rupert,2011,Income,72.0,index
+Masset,2011,Income,71.0,index
+Queen Charlotte,2011,Income,83.0,index
+Port Clements,2011,Income,69.0,index
+Kitimat,2011,Income,80.0,index
+Terrace,2011,Income,74.0,index
+New Hazelton,2011,Income,67.0,index
+Stewart,2011,Income,84.0,index
+Vanderhoof,2011,Income,76.0,index
+Fraser Lake,2011,Income,75.0,index
+Fort St. James,2011,Income,69.0,index
+Burns Lake,2011,Income,68.0,index
+Granisle,2011,Income,70.0,index
+Houston,2011,Income,79.0,index
+Telkwa,2011,Income,72.0,index
+Smithers,2011,Income,74.0,index
+Valemount,2011,Income,72.0,index
+McBride,2011,Income,58.0,index
+Prince George,2011,Income,76.0,index
+Mackenzie,2011,Income,75.0,index
+Tumbler Ridge,2011,Income,82.0,index
+Pouce Coupe,2011,Income,74.0,index
+Chetwynd,2011,Income,79.0,index
+Dawson Creek,2011,Income,77.0,index
+Hudson's Hope,2011,Income,80.0,index
+Taylor,2011,Income,77.0,index
+Fort St. John,2011,Income,81.0,index
+Elkford,2011,Education,61.0,index
+Sparwood,2011,Education,60.0,index
+Fernie,2011,Education,70.0,index
+Cranbrook,2011,Education,59.0,index
+Kimberley,2011,Education,65.0,index
+Invermere,2011,Education,66.0,index
+Radium Hot Springs,2011,Education,61.0,index
+Canal Flats,2011,Education,56.0,index
+Creston,2011,Education,58.0,index
+Salmo,2011,Education,51.0,index
+Nelson,2011,Education,70.0,index
+Kaslo,2011,Education,66.0,index
+New Denver,2011,Education,61.0,index
+Castlegar,2011,Education,61.0,index
+Nakusp,2011,Education,54.0,index
+Fruitvale,2011,Education,57.0,index
+Montrose,2011,Education,60.0,index
+Trail,2011,Education,58.0,index
+Warfield,2011,Education,67.0,index
+Rossland,2011,Education,73.0,index
+Grand Forks,2011,Education,56.0,index
+Midway,2011,Education,58.0,index
+Greenwood,2011,Education,53.0,index
+Osoyoos,2011,Education,58.0,index
+Keremeos,2011,Education,42.0,index
+Oliver,2011,Education,56.0,index
+Princeton,2011,Education,48.0,index
+Summerland,2011,Education,63.0,index
+Penticton,2011,Education,60.0,index
+Hope,2011,Education,56.0,index
+Chilliwack,2011,Education,60.0,index
+Harrison Hot Springs,2011,Education,64.0,index
+Kent,2011,Education,58.0,index
+Abbotsford,2011,Education,60.0,index
+Mission,2011,Education,60.0,index
+Langley Township,2011,Education,66.0,index
+Langley City,2011,Education,60.0,index
+Surrey,2011,Education,63.0,index
+White Rock,2011,Education,71.0,index
+Delta,2011,Education,67.0,index
+Richmond,2011,Education,71.0,index
+Vancouver,2011,Education,72.0,index
+Burnaby,2011,Education,71.0,index
+New Westminster,2011,Education,69.0,index
+Coquitlam,2011,Education,71.0,index
+Belcarra,2011,Education,78.0,index
+Anmore,2011,Education,75.0,index
+Port Coquitlam,2011,Education,68.0,index
+Port Moody,2011,Education,75.0,index
+North Vancouver District,2011,Education,77.0,index
+North Vancouver City,2011,Education,73.0,index
+West Vancouver,2011,Education,82.0,index
+Bowen Island,2011,Education,83.0,index
+Lions Bay,2011,Education,83.0,index
+Pitt Meadows,2011,Education,65.0,index
+Maple Ridge,2011,Education,64.0,index
+North Saanich,2011,Education,74.0,index
+Sidney,2011,Education,65.0,index
+Central Saanich,2011,Education,69.0,index
+Saanich,2011,Education,72.0,index
+Oak Bay,2011,Education,80.0,index
+Victoria,2011,Education,73.0,index
+Esquimalt,2011,Education,64.0,index
+Colwood,2011,Education,65.0,index
+Metchosin,2011,Education,68.0,index
+Langford,2011,Education,65.0,index
+View Royal,2011,Education,69.0,index
+Highlands,2011,Education,68.0,index
+Sooke,2011,Education,64.0,index
+North Cowichan,2011,Education,62.0,index
+Duncan,2011,Education,58.0,index
+Lake Cowichan,2011,Education,57.0,index
+Ladysmith,2011,Education,63.0,index
+Nanaimo,2011,Education,65.0,index
+Lantzville,2011,Education,68.0,index
+Parksville,2011,Education,62.0,index
+Qualicum Beach,2011,Education,67.0,index
+Port Alberni,2011,Education,54.0,index
+Ucluelet,2011,Education,62.0,index
+Gold River,2011,Education,58.0,index
+Campbell River,2011,Education,59.0,index
+Sayward,2011,Education,52.0,index
+Comox,2011,Education,67.0,index
+Courtenay,2011,Education,60.0,index
+Cumberland,2011,Education,58.0,index
+Powell River,2011,Education,59.0,index
+Gibsons,2011,Education,67.0,index
+Sechelt,2011,Education,68.0,index
+Squamish,2011,Education,66.0,index
+Pemberton,2011,Education,72.0,index
+Whistler,2011,Education,77.0,index
+Lillooet,2011,Education,59.0,index
+Merritt,2011,Education,58.0,index
+Ashcroft,2011,Education,56.0,index
+Cache Creek,2011,Education,43.0,index
+Clinton,2011,Education,46.0,index
+Logan Lake,2011,Education,57.0,index
+Kamloops,2011,Education,64.0,index
+Chase,2011,Education,51.0,index
+Kelowna,2011,Education,65.0,index
+Lake Country,2011,Education,62.0,index
+Peachland,2011,Education,65.0,index
+Lumby,2011,Education,58.0,index
+Coldstream,2011,Education,68.0,index
+Vernon,2011,Education,61.0,index
+Spallumcheen,2011,Education,58.0,index
+Armstrong,2011,Education,58.0,index
+Enderby,2011,Education,54.0,index
+Golden,2011,Education,61.0,index
+Revelstoke,2011,Education,62.0,index
+Salmon Arm,2011,Education,61.0,index
+Sicamous,2011,Education,46.0,index
+One Hundred Mile House,2011,Education,54.0,index
+Williams Lake,2011,Education,58.0,index
+Quesnel,2011,Education,53.0,index
+Alert Bay,2011,Education,51.0,index
+Port McNeill,2011,Education,55.0,index
+Port Alice,2011,Education,57.0,index
+Port Hardy,2011,Education,58.0,index
+Port Edward,2011,Education,63.0,index
+Prince Rupert,2011,Education,54.0,index
+Masset,2011,Education,55.0,index
+Queen Charlotte,2011,Education,69.0,index
+Port Clements,2011,Education,47.0,index
+Kitimat,2011,Education,56.0,index
+Terrace,2011,Education,59.0,index
+New Hazelton,2011,Education,64.0,index
+Stewart,2011,Education,61.0,index
+Vanderhoof,2011,Education,57.0,index
+Fraser Lake,2011,Education,48.0,index
+Fort St. James,2011,Education,53.0,index
+Burns Lake,2011,Education,54.0,index
+Granisle,2011,Education,50.0,index
+Houston,2011,Education,57.0,index
+Telkwa,2011,Education,61.0,index
+Smithers,2011,Education,60.0,index
+Valemount,2011,Education,50.0,index
+McBride,2011,Education,47.0,index
+Prince George,2011,Education,60.0,index
+Mackenzie,2011,Education,57.0,index
+Tumbler Ridge,2011,Education,53.0,index
+Pouce Coupe,2011,Education,47.0,index
+Chetwynd,2011,Education,59.0,index
+Dawson Creek,2011,Education,56.0,index
+Hudson's Hope,2011,Education,56.0,index
+Taylor,2011,Education,48.0,index
+Fort St. John,2011,Education,58.0,index
+Elkford,2011,Housing,98.0,index
+Sparwood,2011,Housing,96.0,index
+Fernie,2011,Housing,96.0,index
+Cranbrook,2011,Housing,96.0,index
+Kimberley,2011,Housing,92.0,index
+Invermere,2011,Housing,93.0,index
+Radium Hot Springs,2011,Housing,99.0,index
+Canal Flats,2011,Housing,96.0,index
+Creston,2011,Housing,92.0,index
+Salmo,2011,Housing,95.0,index
+Nelson,2011,Housing,94.0,index
+Kaslo,2011,Housing,90.0,index
+New Denver,2011,Housing,94.0,index
+Castlegar,2011,Housing,95.0,index
+Nakusp,2011,Housing,93.0,index
+Fruitvale,2011,Housing,92.0,index
+Montrose,2011,Housing,95.0,index
+Trail,2011,Housing,93.0,index
+Warfield,2011,Housing,92.0,index
+Rossland,2011,Housing,95.0,index
+Grand Forks,2011,Housing,95.0,index
+Midway,2011,Housing,97.0,index
+Greenwood,2011,Housing,95.0,index
+Osoyoos,2011,Housing,96.0,index
+Keremeos,2011,Housing,92.0,index
+Oliver,2011,Housing,93.0,index
+Princeton,2011,Housing,96.0,index
+Summerland,2011,Housing,97.0,index
+Penticton,2011,Housing,96.0,index
+Hope,2011,Housing,94.0,index
+Chilliwack,2011,Housing,96.0,index
+Harrison Hot Springs,2011,Housing,97.0,index
+Kent,2011,Housing,95.0,index
+Abbotsford,2011,Housing,93.0,index
+Mission,2011,Housing,96.0,index
+Langley Township,2011,Housing,97.0,index
+Langley City,2011,Housing,95.0,index
+Surrey,2011,Housing,92.0,index
+White Rock,2011,Housing,95.0,index
+Delta,2011,Housing,95.0,index
+Richmond,2011,Housing,92.0,index
+Vancouver,2011,Housing,92.0,index
+Burnaby,2011,Housing,92.0,index
+New Westminster,2011,Housing,91.0,index
+Coquitlam,2011,Housing,94.0,index
+Belcarra,2011,Housing,99.0,index
+Anmore,2011,Housing,97.0,index
+Port Coquitlam,2011,Housing,95.0,index
+Port Moody,2011,Housing,95.0,index
+North Vancouver District,2011,Housing,96.0,index
+North Vancouver City,2011,Housing,93.0,index
+West Vancouver,2011,Housing,96.0,index
+Bowen Island,2011,Housing,89.0,index
+Lions Bay,2011,Housing,97.0,index
+Pitt Meadows,2011,Housing,96.0,index
+Maple Ridge,2011,Housing,96.0,index
+North Saanich,2011,Housing,97.0,index
+Sidney,2011,Housing,96.0,index
+Central Saanich,2011,Housing,96.0,index
+Saanich,2011,Housing,96.0,index
+Oak Bay,2011,Housing,97.0,index
+Victoria,2011,Housing,94.0,index
+Esquimalt,2011,Housing,95.0,index
+Colwood,2011,Housing,97.0,index
+Metchosin,2011,Housing,96.0,index
+Langford,2011,Housing,98.0,index
+View Royal,2011,Housing,96.0,index
+Highlands,2011,Housing,98.0,index
+Sooke,2011,Housing,97.0,index
+North Cowichan,2011,Housing,96.0,index
+Duncan,2011,Housing,95.0,index
+Lake Cowichan,2011,Housing,95.0,index
+Ladysmith,2011,Housing,96.0,index
+Nanaimo,2011,Housing,96.0,index
+Lantzville,2011,Housing,95.0,index
+Parksville,2011,Housing,97.0,index
+Qualicum Beach,2011,Housing,98.0,index
+Port Alberni,2011,Housing,94.0,index
+Ucluelet,2011,Housing,92.0,index
+Gold River,2011,Housing,97.0,index
+Campbell River,2011,Housing,95.0,index
+Sayward,2011,Housing,92.0,index
+Comox,2011,Housing,97.0,index
+Courtenay,2011,Housing,96.0,index
+Cumberland,2011,Housing,94.0,index
+Powell River,2011,Housing,96.0,index
+Gibsons,2011,Housing,93.0,index
+Sechelt,2011,Housing,98.0,index
+Squamish,2011,Housing,94.0,index
+Pemberton,2011,Housing,93.0,index
+Whistler,2011,Housing,94.0,index
+Lillooet,2011,Housing,91.0,index
+Merritt,2011,Housing,93.0,index
+Ashcroft,2011,Housing,95.0,index
+Cache Creek,2011,Housing,97.0,index
+Clinton,2011,Housing,96.0,index
+Logan Lake,2011,Housing,98.0,index
+Kamloops,2011,Housing,96.0,index
+Chase,2011,Housing,95.0,index
+Kelowna,2011,Housing,97.0,index
+Lake Country,2011,Housing,96.0,index
+Peachland,2011,Housing,98.0,index
+Lumby,2011,Housing,95.0,index
+Coldstream,2011,Housing,97.0,index
+Vernon,2011,Housing,95.0,index
+Spallumcheen,2011,Housing,91.0,index
+Armstrong,2011,Housing,95.0,index
+Enderby,2011,Housing,95.0,index
+Golden,2011,Housing,96.0,index
+Revelstoke,2011,Housing,95.0,index
+Salmon Arm,2011,Housing,94.0,index
+Sicamous,2011,Housing,95.0,index
+One Hundred Mile House,2011,Housing,95.0,index
+Williams Lake,2011,Housing,93.0,index
+Quesnel,2011,Housing,94.0,index
+Alert Bay,2011,Housing,90.0,index
+Port McNeill,2011,Housing,97.0,index
+Port Alice,2011,Housing,93.0,index
+Port Hardy,2011,Housing,94.0,index
+Port Edward,2011,Housing,71.0,index
+Prince Rupert,2011,Housing,91.0,index
+Masset,2011,Housing,89.0,index
+Queen Charlotte,2011,Housing,89.0,index
+Port Clements,2011,Housing,91.0,index
+Kitimat,2011,Housing,95.0,index
+Terrace,2011,Housing,94.0,index
+New Hazelton,2011,Housing,93.0,index
+Stewart,2011,Housing,83.0,index
+Vanderhoof,2011,Housing,95.0,index
+Fraser Lake,2011,Housing,94.0,index
+Fort St. James,2011,Housing,91.0,index
+Burns Lake,2011,Housing,91.0,index
+Granisle,2011,Housing,88.0,index
+Houston,2011,Housing,93.0,index
+Telkwa,2011,Housing,96.0,index
+Smithers,2011,Housing,97.0,index
+Valemount,2011,Housing,94.0,index
+McBride,2011,Housing,90.0,index
+Prince George,2011,Housing,95.0,index
+Mackenzie,2011,Housing,93.0,index
+Tumbler Ridge,2011,Housing,92.0,index
+Pouce Coupe,2011,Housing,96.0,index
+Chetwynd,2011,Housing,92.0,index
+Dawson Creek,2011,Housing,93.0,index
+Hudson's Hope,2011,Housing,96.0,index
+Taylor,2011,Housing,95.0,index
+Fort St. John,2011,Housing,95.0,index
+Elkford,2011,Labour_Force,89.0,index
+Sparwood,2011,Labour_Force,87.0,index
+Fernie,2011,Labour_Force,91.0,index
+Cranbrook,2011,Labour_Force,87.0,index
+Kimberley,2011,Labour_Force,83.0,index
+Invermere,2011,Labour_Force,88.0,index
+Radium Hot Springs,2011,Labour_Force,78.0,index
+Canal Flats,2011,Labour_Force,91.0,index
+Creston,2011,Labour_Force,84.0,index
+Salmo,2011,Labour_Force,82.0,index
+Nelson,2011,Labour_Force,85.0,index
+Kaslo,2011,Labour_Force,74.0,index
+New Denver,2011,Labour_Force,78.0,index
+Castlegar,2011,Labour_Force,84.0,index
+Nakusp,2011,Labour_Force,81.0,index
+Fruitvale,2011,Labour_Force,81.0,index
+Montrose,2011,Labour_Force,86.0,index
+Trail,2011,Labour_Force,83.0,index
+Warfield,2011,Labour_Force,89.0,index
+Rossland,2011,Labour_Force,85.0,index
+Grand Forks,2011,Labour_Force,79.0,index
+Midway,2011,Labour_Force,72.0,index
+Greenwood,2011,Labour_Force,67.0,index
+Osoyoos,2011,Labour_Force,81.0,index
+Keremeos,2011,Labour_Force,60.0,index
+Oliver,2011,Labour_Force,83.0,index
+Princeton,2011,Labour_Force,79.0,index
+Summerland,2011,Labour_Force,85.0,index
+Penticton,2011,Labour_Force,86.0,index
+Hope,2011,Labour_Force,79.0,index
+Chilliwack,2011,Labour_Force,86.0,index
+Harrison Hot Springs,2011,Labour_Force,79.0,index
+Kent,2011,Labour_Force,87.0,index
+Abbotsford,2011,Labour_Force,87.0,index
+Mission,2011,Labour_Force,87.0,index
+Langley Township,2011,Labour_Force,89.0,index
+Langley City,2011,Labour_Force,87.0,index
+Surrey,2011,Labour_Force,86.0,index
+White Rock,2011,Labour_Force,87.0,index
+Delta,2011,Labour_Force,88.0,index
+Richmond,2011,Labour_Force,84.0,index
+Vancouver,2011,Labour_Force,86.0,index
+Burnaby,2011,Labour_Force,85.0,index
+New Westminster,2011,Labour_Force,87.0,index
+Coquitlam,2011,Labour_Force,86.0,index
+Belcarra,2011,Labour_Force,85.0,index
+Anmore,2011,Labour_Force,88.0,index
+Port Coquitlam,2011,Labour_Force,89.0,index
+Port Moody,2011,Labour_Force,88.0,index
+North Vancouver District,2011,Labour_Force,89.0,index
+North Vancouver City,2011,Labour_Force,89.0,index
+West Vancouver,2011,Labour_Force,83.0,index
+Bowen Island,2011,Labour_Force,89.0,index
+Lions Bay,2011,Labour_Force,84.0,index
+Pitt Meadows,2011,Labour_Force,90.0,index
+Maple Ridge,2011,Labour_Force,88.0,index
+North Saanich,2011,Labour_Force,86.0,index
+Sidney,2011,Labour_Force,86.0,index
+Central Saanich,2011,Labour_Force,89.0,index
+Saanich,2011,Labour_Force,88.0,index
+Oak Bay,2011,Labour_Force,87.0,index
+Victoria,2011,Labour_Force,87.0,index
+Esquimalt,2011,Labour_Force,88.0,index
+Colwood,2011,Labour_Force,89.0,index
+Metchosin,2011,Labour_Force,88.0,index
+Langford,2011,Labour_Force,90.0,index
+View Royal,2011,Labour_Force,89.0,index
+Highlands,2011,Labour_Force,89.0,index
+Sooke,2011,Labour_Force,87.0,index
+North Cowichan,2011,Labour_Force,85.0,index
+Duncan,2011,Labour_Force,82.0,index
+Lake Cowichan,2011,Labour_Force,79.0,index
+Ladysmith,2011,Labour_Force,86.0,index
+Nanaimo,2011,Labour_Force,85.0,index
+Lantzville,2011,Labour_Force,85.0,index
+Parksville,2011,Labour_Force,81.0,index
+Qualicum Beach,2011,Labour_Force,79.0,index
+Port Alberni,2011,Labour_Force,78.0,index
+Ucluelet,2011,Labour_Force,89.0,index
+Gold River,2011,Labour_Force,89.0,index
+Campbell River,2011,Labour_Force,84.0,index
+Sayward,2011,Labour_Force,73.0,index
+Comox,2011,Labour_Force,87.0,index
+Courtenay,2011,Labour_Force,83.0,index
+Cumberland,2011,Labour_Force,86.0,index
+Powell River,2011,Labour_Force,82.0,index
+Gibsons,2011,Labour_Force,86.0,index
+Sechelt,2011,Labour_Force,87.0,index
+Squamish,2011,Labour_Force,90.0,index
+Pemberton,2011,Labour_Force,94.0,index
+Whistler,2011,Labour_Force,91.0,index
+Lillooet,2011,Labour_Force,77.0,index
+Merritt,2011,Labour_Force,82.0,index
+Ashcroft,2011,Labour_Force,82.0,index
+Cache Creek,2011,Labour_Force,86.0,index
+Clinton,2011,Labour_Force,77.0,index
+Logan Lake,2011,Labour_Force,83.0,index
+Kamloops,2011,Labour_Force,86.0,index
+Chase,2011,Labour_Force,84.0,index
+Kelowna,2011,Labour_Force,87.0,index
+Lake Country,2011,Labour_Force,88.0,index
+Peachland,2011,Labour_Force,82.0,index
+Lumby,2011,Labour_Force,80.0,index
+Coldstream,2011,Labour_Force,86.0,index
+Vernon,2011,Labour_Force,84.0,index
+Spallumcheen,2011,Labour_Force,86.0,index
+Armstrong,2011,Labour_Force,86.0,index
+Enderby,2011,Labour_Force,82.0,index
+Golden,2011,Labour_Force,87.0,index
+Revelstoke,2011,Labour_Force,84.0,index
+Salmon Arm,2011,Labour_Force,86.0,index
+Sicamous,2011,Labour_Force,76.0,index
+One Hundred Mile House,2011,Labour_Force,79.0,index
+Williams Lake,2011,Labour_Force,85.0,index
+Quesnel,2011,Labour_Force,82.0,index
+Alert Bay,2011,Labour_Force,92.0,index
+Port McNeill,2011,Labour_Force,89.0,index
+Port Alice,2011,Labour_Force,86.0,index
+Port Hardy,2011,Labour_Force,87.0,index
+Port Edward,2011,Labour_Force,85.0,index
+Prince Rupert,2011,Labour_Force,82.0,index
+Masset,2011,Labour_Force,82.0,index
+Queen Charlotte,2011,Labour_Force,89.0,index
+Port Clements,2011,Labour_Force,89.0,index
+Kitimat,2011,Labour_Force,82.0,index
+Terrace,2011,Labour_Force,86.0,index
+New Hazelton,2011,Labour_Force,76.0,index
+Stewart,2011,Labour_Force,87.0,index
+Vanderhoof,2011,Labour_Force,85.0,index
+Fraser Lake,2011,Labour_Force,88.0,index
+Fort St. James,2011,Labour_Force,84.0,index
+Burns Lake,2011,Labour_Force,81.0,index
+Granisle,2011,Labour_Force,74.0,index
+Houston,2011,Labour_Force,87.0,index
+Telkwa,2011,Labour_Force,88.0,index
+Smithers,2011,Labour_Force,88.0,index
+Valemount,2011,Labour_Force,85.0,index
+McBride,2011,Labour_Force,78.0,index
+Prince George,2011,Labour_Force,86.0,index
+Mackenzie,2011,Labour_Force,88.0,index
+Tumbler Ridge,2011,Labour_Force,88.0,index
+Pouce Coupe,2011,Labour_Force,84.0,index
+Chetwynd,2011,Labour_Force,88.0,index
+Dawson Creek,2011,Labour_Force,89.0,index
+Hudson's Hope,2011,Labour_Force,89.0,index
+Taylor,2011,Labour_Force,85.0,index
+Fort St. John,2011,Labour_Force,90.0,index
+Elkford,2011,Population,2523.0,count
+Sparwood,2011,Population,3667.0,count
+Fernie,2011,Population,4448.0,count
+Cranbrook,2011,Population,19319.0,count
+Kimberley,2011,Population,6652.0,count
+Invermere,2011,Population,2955.0,count
+Radium Hot Springs,2011,Population,777.0,count
+Canal Flats,2011,Population,715.0,count
+Creston,2011,Population,5306.0,count
+Salmo,2011,Population,1139.0,count
+Nelson,2011,Population,10230.0,count
+Kaslo,2011,Population,1026.0,count
+New Denver,2011,Population,504.0,count
+Castlegar,2011,Population,7816.0,count
+Nakusp,2011,Population,1569.0,count
+Fruitvale,2011,Population,2016.0,count
+Montrose,2011,Population,1030.0,count
+Trail,2011,Population,7681.0,count
+Warfield,2011,Population,1700.0,count
+Rossland,2011,Population,3556.0,count
+Grand Forks,2011,Population,3985.0,count
+Midway,2011,Population,674.0,count
+Greenwood,2011,Population,708.0,count
+Osoyoos,2011,Population,4845.0,count
+Keremeos,2011,Population,1330.0,count
+Oliver,2011,Population,4824.0,count
+Princeton,2011,Population,2724.0,count
+Summerland,2011,Population,11280.0,count
+Penticton,2011,Population,32877.0,count
+Hope,2011,Population,5969.0,count
+Chilliwack,2011,Population,77936.0,count
+Harrison Hot Springs,2011,Population,1468.0,count
+Kent,2011,Population,5664.0,count
+Abbotsford,2011,Population,133497.0,count
+Mission,2011,Population,36426.0,count
+Langley Township,2011,Population,104177.0,count
+Langley City,2011,Population,25081.0,count
+Surrey,2011,Population,468251.0,count
+White Rock,2011,Population,19339.0,count
+Delta,2011,Population,99863.0,count
+Richmond,2011,Population,190473.0,count
+Vancouver,2011,Population,603502.0,count
+Burnaby,2011,Population,223218.0,count
+New Westminster,2011,Population,65976.0,count
+Coquitlam,2011,Population,126456.0,count
+Belcarra,2011,Population,644.0,count
+Anmore,2011,Population,2092.0,count
+Port Coquitlam,2011,Population,56342.0,count
+Port Moody,2011,Population,32975.0,count
+North Vancouver District,2011,Population,84412.0,count
+North Vancouver City,2011,Population,48196.0,count
+West Vancouver,2011,Population,42694.0,count
+Bowen Island,2011,Population,3402.0,count
+Lions Bay,2011,Population,1318.0,count
+Pitt Meadows,2011,Population,17736.0,count
+Maple Ridge,2011,Population,76052.0,count
+North Saanich,2011,Population,11089.0,count
+Sidney,2011,Population,11178.0,count
+Central Saanich,2011,Population,15936.0,count
+Saanich,2011,Population,109752.0,count
+Oak Bay,2011,Population,18015.0,count
+Victoria,2011,Population,80017.0,count
+Esquimalt,2011,Population,16209.0,count
+Colwood,2011,Population,16093.0,count
+Metchosin,2011,Population,4803.0,count
+Langford,2011,Population,29228.0,count
+View Royal,2011,Population,9381.0,count
+Highlands,2011,Population,2120.0,count
+Sooke,2011,Population,11435.0,count
+North Cowichan,2011,Population,28807.0,count
+Duncan,2011,Population,4932.0,count
+Lake Cowichan,2011,Population,2974.0,count
+Ladysmith,2011,Population,7921.0,count
+Nanaimo,2011,Population,83810.0,count
+Lantzville,2011,Population,3601.0,count
+Parksville,2011,Population,11977.0,count
+Qualicum Beach,2011,Population,8687.0,count
+Port Alberni,2011,Population,17743.0,count
+Ucluelet,2011,Population,1627.0,count
+Gold River,2011,Population,1267.0,count
+Campbell River,2011,Population,31186.0,count
+Sayward,2011,Population,317.0,count
+Comox,2011,Population,13627.0,count
+Courtenay,2011,Population,24099.0,count
+Cumberland,2011,Population,3398.0,count
+Powell River,2011,Population,13165.0,count
+Gibsons,2011,Population,4437.0,count
+Sechelt,2011,Population,9291.0,count
+Squamish,2011,Population,17158.0,count
+Pemberton,2011,Population,2369.0,count
+Whistler,2011,Population,9824.0,count
+Lillooet,2011,Population,2322.0,count
+Merritt,2011,Population,7113.0,count
+Ashcroft,2011,Population,1628.0,count
+Cache Creek,2011,Population,1040.0,count
+Clinton,2011,Population,636.0,count
+Logan Lake,2011,Population,2073.0,count
+Kamloops,2011,Population,85678.0,count
+Chase,2011,Population,2495.0,count
+Kelowna,2011,Population,117312.0,count
+Lake Country,2011,Population,11708.0,count
+Peachland,2011,Population,5200.0,count
+Lumby,2011,Population,1731.0,count
+Coldstream,2011,Population,10314.0,count
+Vernon,2011,Population,38150.0,count
+Spallumcheen,2011,Population,5055.0,count
+Armstrong,2011,Population,4815.0,count
+Enderby,2011,Population,2932.0,count
+Golden,2011,Population,3701.0,count
+Revelstoke,2011,Population,7139.0,count
+Salmon Arm,2011,Population,17464.0,count
+Sicamous,2011,Population,2441.0,count
+One Hundred Mile House,2011,Population,1886.0,count
+Williams Lake,2011,Population,10832.0,count
+Quesnel,2011,Population,10007.0,count
+Alert Bay,2011,Population,445.0,count
+Port McNeill,2011,Population,2505.0,count
+Port Alice,2011,Population,805.0,count
+Port Hardy,2011,Population,4008.0,count
+Port Edward,2011,Population,544.0,count
+Prince Rupert,2011,Population,12508.0,count
+Masset,2011,Population,884.0,count
+Queen Charlotte,2011,Population,944.0,count
+Port Clements,2011,Population,378.0,count
+Kitimat,2011,Population,8335.0,count
+Terrace,2011,Population,11486.0,count
+New Hazelton,2011,Population,666.0,count
+Stewart,2011,Population,494.0,count
+Vanderhoof,2011,Population,4480.0,count
+Fraser Lake,2011,Population,1167.0,count
+Fort St. James,2011,Population,1691.0,count
+Burns Lake,2011,Population,2029.0,count
+Granisle,2011,Population,303.0,count
+Houston,2011,Population,3147.0,count
+Telkwa,2011,Population,1350.0,count
+Smithers,2011,Population,5404.0,count
+Valemount,2011,Population,1020.0,count
+McBride,2011,Population,586.0,count
+Prince George,2011,Population,71974.0,count
+Mackenzie,2011,Population,3507.0,count
+Tumbler Ridge,2011,Population,2710.0,count
+Pouce Coupe,2011,Population,738.0,count
+Chetwynd,2011,Population,2635.0,count
+Dawson Creek,2011,Population,11583.0,count
+Hudson's Hope,2011,Population,970.0,count
+Taylor,2011,Population,1373.0,count
+Fort St. John,2011,Population,18609.0,count
+Elkford,2016,CWB,83.0,index
+Sparwood,2016,CWB,83.0,index
+Fernie,2016,CWB,85.0,index
+Cranbrook,2016,CWB,81.0,index
+Kimberley,2016,CWB,81.0,index
+Invermere,2016,CWB,84.0,index
+Radium Hot Springs,2016,CWB,82.0,index
+Canal Flats,2016,CWB,78.0,index
+Creston,2016,CWB,77.0,index
+Salmo,2016,CWB,74.0,index
+Nelson,2016,CWB,82.0,index
+Kaslo,2016,CWB,79.0,index
+New Denver,2016,CWB,79.0,index
+Castlegar,2016,CWB,80.0,index
+Nakusp,2016,CWB,78.0,index
+Fruitvale,2016,CWB,80.0,index
+Montrose,2016,CWB,83.0,index
+Trail,2016,CWB,78.0,index
+Warfield,2016,CWB,82.0,index
+Rossland,2016,CWB,85.0,index
+Grand Forks,2016,CWB,76.0,index
+Midway,2016,CWB,73.0,index
+Greenwood,2016,CWB,71.0,index
+Osoyoos,2016,CWB,77.0,index
+Keremeos,2016,CWB,74.0,index
+Oliver,2016,CWB,78.0,index
+Princeton,2016,CWB,78.0,index
+Summerland,2016,CWB,82.0,index
+Penticton,2016,CWB,80.0,index
+Hope,2016,CWB,76.0,index
+Chilliwack,2016,CWB,80.0,index
+Harrison Hot Springs,2016,CWB,80.0,index
+Kent,2016,CWB,77.0,index
+Abbotsford,2016,CWB,79.0,index
+Mission,2016,CWB,79.0,index
+Langley Township,2016,CWB,83.0,index
+Langley City,2016,CWB,80.0,index
+Surrey,2016,CWB,79.0,index
+White Rock,2016,CWB,85.0,index
+Delta,2016,CWB,83.0,index
+Richmond,2016,CWB,81.0,index
+Vancouver,2016,CWB,85.0,index
+Burnaby,2016,CWB,82.0,index
+New Westminster,2016,CWB,83.0,index
+Coquitlam,2016,CWB,83.0,index
+Belcarra,2016,CWB,90.0,index
+Anmore,2016,CWB,88.0,index
+Port Coquitlam,2016,CWB,83.0,index
+Port Moody,2016,CWB,86.0,index
+North Vancouver District,2016,CWB,88.0,index
+North Vancouver City,2016,CWB,85.0,index
+West Vancouver,2016,CWB,90.0,index
+Bowen Island,2016,CWB,89.0,index
+Lions Bay,2016,CWB,88.0,index
+Pitt Meadows,2016,CWB,83.0,index
+Maple Ridge,2016,CWB,82.0,index
+North Saanich,2016,CWB,88.0,index
+Sidney,2016,CWB,83.0,index
+Central Saanich,2016,CWB,86.0,index
+Saanich,2016,CWB,84.0,index
+Oak Bay,2016,CWB,90.0,index
+Victoria,2016,CWB,85.0,index
+Esquimalt,2016,CWB,82.0,index
+Colwood,2016,CWB,83.0,index
+Metchosin,2016,CWB,84.0,index
+Langford,2016,CWB,83.0,index
+View Royal,2016,CWB,84.0,index
+Highlands,2016,CWB,86.0,index
+Sooke,2016,CWB,81.0,index
+North Cowichan,2016,CWB,81.0,index
+Duncan,2016,CWB,75.0,index
+Lake Cowichan,2016,CWB,75.0,index
+Ladysmith,2016,CWB,81.0,index
+Nanaimo,2016,CWB,81.0,index
+Lantzville,2016,CWB,83.0,index
+Parksville,2016,CWB,80.0,index
+Qualicum Beach,2016,CWB,83.0,index
+Port Alberni,2016,CWB,75.0,index
+Ucluelet,2016,CWB,82.0,index
+Gold River,2016,CWB,80.0,index
+Campbell River,2016,CWB,80.0,index
+Sayward,2016,CWB,74.0,index
+Comox,2016,CWB,83.0,index
+Courtenay,2016,CWB,80.0,index
+Cumberland,2016,CWB,80.0,index
+Powell River,2016,CWB,78.0,index
+Gibsons,2016,CWB,83.0,index
+Sechelt,2016,CWB,81.0,index
+Squamish,2016,CWB,84.0,index
+Pemberton,2016,CWB,84.0,index
+Whistler,2016,CWB,88.0,index
+Lillooet,2016,CWB,76.0,index
+Merritt,2016,CWB,77.0,index
+Ashcroft,2016,CWB,77.0,index
+Cache Creek,2016,CWB,76.0,index
+Clinton,2016,CWB,75.0,index
+Logan Lake,2016,CWB,78.0,index
+Kamloops,2016,CWB,82.0,index
+Chase,2016,CWB,74.0,index
+Kelowna,2016,CWB,83.0,index
+Lake Country,2016,CWB,83.0,index
+Peachland,2016,CWB,81.0,index
+Lumby,2016,CWB,76.0,index
+Coldstream,2016,CWB,84.0,index
+Vernon,2016,CWB,80.0,index
+Spallumcheen,2016,CWB,79.0,index
+Armstrong,2016,CWB,79.0,index
+Enderby,2016,CWB,76.0,index
+Golden,2016,CWB,81.0,index
+Revelstoke,2016,CWB,82.0,index
+Salmon Arm,2016,CWB,81.0,index
+Sicamous,2016,CWB,77.0,index
+One Hundred Mile House,2016,CWB,74.0,index
+Williams Lake,2016,CWB,79.0,index
+Quesnel,2016,CWB,77.0,index
+Alert Bay,2016,CWB,82.0,index
+Port McNeill,2016,CWB,80.0,index
+Port Alice,2016,CWB,76.0,index
+Port Hardy,2016,CWB,76.0,index
+Port Edward,2016,CWB,76.0,index
+Prince Rupert,2016,CWB,77.0,index
+Masset,2016,CWB,76.0,index
+Queen Charlotte,2016,CWB,81.0,index
+Port Clements,2016,CWB,78.0,index
+Kitimat,2016,CWB,80.0,index
+Terrace,2016,CWB,80.0,index
+New Hazelton,2016,CWB,72.0,index
+Stewart,2016,CWB,80.0,index
+Vanderhoof,2016,CWB,80.0,index
+Fraser Lake,2016,CWB,77.0,index
+Fort St. James,2016,CWB,80.0,index
+Burns Lake,2016,CWB,76.0,index
+Granisle,2016,CWB,69.0,index
+Houston,2016,CWB,78.0,index
+Telkwa,2016,CWB,81.0,index
+Smithers,2016,CWB,82.0,index
+Valemount,2016,CWB,78.0,index
+McBride,2016,CWB,76.0,index
+Prince George,2016,CWB,81.0,index
+Mackenzie,2016,CWB,80.0,index
+Tumbler Ridge,2016,CWB,77.0,index
+Pouce Coupe,2016,CWB,75.0,index
+Chetwynd,2016,CWB,80.0,index
+Dawson Creek,2016,CWB,79.0,index
+Hudson's Hope,2016,CWB,79.0,index
+Taylor,2016,CWB,79.0,index
+Fort St. John,2016,CWB,83.0,index
+Elkford,2016,Income,87.0,index
+Sparwood,2016,Income,85.0,index
+Fernie,2016,Income,85.0,index
+Cranbrook,2016,Income,78.0,index
+Kimberley,2016,Income,78.0,index
+Invermere,2016,Income,80.0,index
+Radium Hot Springs,2016,Income,84.0,index
+Canal Flats,2016,Income,79.0,index
+Creston,2016,Income,72.0,index
+Salmo,2016,Income,72.0,index
+Nelson,2016,Income,75.0,index
+Kaslo,2016,Income,72.0,index
+New Denver,2016,Income,72.0,index
+Castlegar,2016,Income,78.0,index
+Nakusp,2016,Income,73.0,index
+Fruitvale,2016,Income,80.0,index
+Montrose,2016,Income,84.0,index
+Trail,2016,Income,77.0,index
+Warfield,2016,Income,81.0,index
+Rossland,2016,Income,83.0,index
+Grand Forks,2016,Income,72.0,index
+Midway,2016,Income,70.0,index
+Greenwood,2016,Income,69.0,index
+Osoyoos,2016,Income,75.0,index
+Keremeos,2016,Income,71.0,index
+Oliver,2016,Income,73.0,index
+Princeton,2016,Income,76.0,index
+Summerland,2016,Income,79.0,index
+Penticton,2016,Income,78.0,index
+Hope,2016,Income,74.0,index
+Chilliwack,2016,Income,75.0,index
+Harrison Hot Springs,2016,Income,77.0,index
+Kent,2016,Income,73.0,index
+Abbotsford,2016,Income,74.0,index
+Mission,2016,Income,74.0,index
+Langley Township,2016,Income,80.0,index
+Langley City,2016,Income,75.0,index
+Surrey,2016,Income,74.0,index
+White Rock,2016,Income,86.0,index
+Delta,2016,Income,81.0,index
+Richmond,2016,Income,74.0,index
+Vancouver,2016,Income,83.0,index
+Burnaby,2016,Income,76.0,index
+New Westminster,2016,Income,79.0,index
+Coquitlam,2016,Income,77.0,index
+Belcarra,2016,Income,100.0,index
+Anmore,2016,Income,92.0,index
+Port Coquitlam,2016,Income,78.0,index
+Port Moody,2016,Income,84.0,index
+North Vancouver District,2016,Income,90.0,index
+North Vancouver City,2016,Income,82.0,index
+West Vancouver,2016,Income,100.0,index
+Bowen Island,2016,Income,88.0,index
+Lions Bay,2016,Income,92.0,index
+Pitt Meadows,2016,Income,81.0,index
+Maple Ridge,2016,Income,79.0,index
+North Saanich,2016,Income,93.0,index
+Sidney,2016,Income,80.0,index
+Central Saanich,2016,Income,84.0,index
+Saanich,2016,Income,81.0,index
+Oak Bay,2016,Income,94.0,index
+Victoria,2016,Income,80.0,index
+Esquimalt,2016,Income,78.0,index
+Colwood,2016,Income,82.0,index
+Metchosin,2016,Income,82.0,index
+Langford,2016,Income,78.0,index
+View Royal,2016,Income,82.0,index
+Highlands,2016,Income,84.0,index
+Sooke,2016,Income,76.0,index
+North Cowichan,2016,Income,77.0,index
+Duncan,2016,Income,70.0,index
+Lake Cowichan,2016,Income,71.0,index
+Ladysmith,2016,Income,77.0,index
+Nanaimo,2016,Income,76.0,index
+Lantzville,2016,Income,81.0,index
+Parksville,2016,Income,77.0,index
+Qualicum Beach,2016,Income,85.0,index
+Port Alberni,2016,Income,72.0,index
+Ucluelet,2016,Income,75.0,index
+Gold River,2016,Income,78.0,index
+Campbell River,2016,Income,77.0,index
+Sayward,2016,Income,71.0,index
+Comox,2016,Income,79.0,index
+Courtenay,2016,Income,75.0,index
+Cumberland,2016,Income,73.0,index
+Powell River,2016,Income,75.0,index
+Gibsons,2016,Income,79.0,index
+Sechelt,2016,Income,78.0,index
+Squamish,2016,Income,80.0,index
+Pemberton,2016,Income,78.0,index
+Whistler,2016,Income,86.0,index
+Lillooet,2016,Income,73.0,index
+Merritt,2016,Income,75.0,index
+Ashcroft,2016,Income,78.0,index
+Cache Creek,2016,Income,74.0,index
+Clinton,2016,Income,73.0,index
+Logan Lake,2016,Income,78.0,index
+Kamloops,2016,Income,79.0,index
+Chase,2016,Income,73.0,index
+Kelowna,2016,Income,81.0,index
+Lake Country,2016,Income,82.0,index
+Peachland,2016,Income,80.0,index
+Lumby,2016,Income,73.0,index
+Coldstream,2016,Income,84.0,index
+Vernon,2016,Income,77.0,index
+Spallumcheen,2016,Income,75.0,index
+Armstrong,2016,Income,74.0,index
+Enderby,2016,Income,70.0,index
+Golden,2016,Income,78.0,index
+Revelstoke,2016,Income,78.0,index
+Salmon Arm,2016,Income,78.0,index
+Sicamous,2016,Income,78.0,index
+One Hundred Mile House,2016,Income,70.0,index
+Williams Lake,2016,Income,77.0,index
+Quesnel,2016,Income,76.0,index
+Alert Bay,2016,Income,76.0,index
+Port McNeill,2016,Income,80.0,index
+Port Alice,2016,Income,83.0,index
+Port Hardy,2016,Income,74.0,index
+Port Edward,2016,Income,74.0,index
+Prince Rupert,2016,Income,78.0,index
+Masset,2016,Income,74.0,index
+Queen Charlotte,2016,Income,79.0,index
+Port Clements,2016,Income,78.0,index
+Kitimat,2016,Income,86.0,index
+Terrace,2016,Income,79.0,index
+New Hazelton,2016,Income,74.0,index
+Stewart,2016,Income,79.0,index
+Vanderhoof,2016,Income,78.0,index
+Fraser Lake,2016,Income,79.0,index
+Fort St. James,2016,Income,80.0,index
+Burns Lake,2016,Income,74.0,index
+Granisle,2016,Income,72.0,index
+Houston,2016,Income,79.0,index
+Telkwa,2016,Income,78.0,index
+Smithers,2016,Income,79.0,index
+Valemount,2016,Income,74.0,index
+McBride,2016,Income,70.0,index
+Prince George,2016,Income,79.0,index
+Mackenzie,2016,Income,83.0,index
+Tumbler Ridge,2016,Income,78.0,index
+Pouce Coupe,2016,Income,79.0,index
+Chetwynd,2016,Income,82.0,index
+Dawson Creek,2016,Income,81.0,index
+Hudson's Hope,2016,Income,80.0,index
+Taylor,2016,Income,84.0,index
+Fort St. John,2016,Income,85.0,index
+Elkford,2016,Education,62.0,index
+Sparwood,2016,Education,62.0,index
+Fernie,2016,Education,71.0,index
+Cranbrook,2016,Education,62.0,index
+Kimberley,2016,Education,66.0,index
+Invermere,2016,Education,68.0,index
+Radium Hot Springs,2016,Education,65.0,index
+Canal Flats,2016,Education,50.0,index
+Creston,2016,Education,57.0,index
+Salmo,2016,Education,53.0,index
+Nelson,2016,Education,72.0,index
+Kaslo,2016,Education,65.0,index
+New Denver,2016,Education,65.0,index
+Castlegar,2016,Education,63.0,index
+Nakusp,2016,Education,57.0,index
+Fruitvale,2016,Education,63.0,index
+Montrose,2016,Education,65.0,index
+Trail,2016,Education,58.0,index
+Warfield,2016,Education,65.0,index
+Rossland,2016,Education,75.0,index
+Grand Forks,2016,Education,58.0,index
+Midway,2016,Education,53.0,index
+Greenwood,2016,Education,47.0,index
+Osoyoos,2016,Education,58.0,index
+Keremeos,2016,Education,52.0,index
+Oliver,2016,Education,58.0,index
+Princeton,2016,Education,56.0,index
+Summerland,2016,Education,66.0,index
+Penticton,2016,Education,61.0,index
+Hope,2016,Education,56.0,index
+Chilliwack,2016,Education,61.0,index
+Harrison Hot Springs,2016,Education,64.0,index
+Kent,2016,Education,57.0,index
+Abbotsford,2016,Education,61.0,index
+Mission,2016,Education,60.0,index
+Langley Township,2016,Education,67.0,index
+Langley City,2016,Education,60.0,index
+Surrey,2016,Education,65.0,index
+White Rock,2016,Education,71.0,index
+Delta,2016,Education,67.0,index
+Richmond,2016,Education,72.0,index
+Vancouver,2016,Education,74.0,index
+Burnaby,2016,Education,72.0,index
+New Westminster,2016,Education,71.0,index
+Coquitlam,2016,Education,72.0,index
+Belcarra,2016,Education,76.0,index
+Anmore,2016,Education,74.0,index
+Port Coquitlam,2016,Education,68.0,index
+Port Moody,2016,Education,76.0,index
+North Vancouver District,2016,Education,79.0,index
+North Vancouver City,2016,Education,76.0,index
+West Vancouver,2016,Education,82.0,index
+Bowen Island,2016,Education,81.0,index
+Lions Bay,2016,Education,80.0,index
+Pitt Meadows,2016,Education,66.0,index
+Maple Ridge,2016,Education,65.0,index
+North Saanich,2016,Education,75.0,index
+Sidney,2016,Education,68.0,index
+Central Saanich,2016,Education,71.0,index
+Saanich,2016,Education,73.0,index
+Oak Bay,2016,Education,83.0,index
+Victoria,2016,Education,75.0,index
+Esquimalt,2016,Education,67.0,index
+Colwood,2016,Education,66.0,index
+Metchosin,2016,Education,69.0,index
+Langford,2016,Education,67.0,index
+View Royal,2016,Education,70.0,index
+Highlands,2016,Education,70.0,index
+Sooke,2016,Education,64.0,index
+North Cowichan,2016,Education,63.0,index
+Duncan,2016,Education,57.0,index
+Lake Cowichan,2016,Education,57.0,index
+Ladysmith,2016,Education,64.0,index
+Nanaimo,2016,Education,66.0,index
+Lantzville,2016,Education,69.0,index
+Parksville,2016,Education,64.0,index
+Qualicum Beach,2016,Education,69.0,index
+Port Alberni,2016,Education,54.0,index
+Ucluelet,2016,Education,66.0,index
+Gold River,2016,Education,61.0,index
+Campbell River,2016,Education,61.0,index
+Sayward,2016,Education,47.0,index
+Comox,2016,Education,68.0,index
+Courtenay,2016,Education,63.0,index
+Cumberland,2016,Education,65.0,index
+Powell River,2016,Education,60.0,index
+Gibsons,2016,Education,69.0,index
+Sechelt,2016,Education,66.0,index
+Squamish,2016,Education,71.0,index
+Pemberton,2016,Education,71.0,index
+Whistler,2016,Education,79.0,index
+Lillooet,2016,Education,58.0,index
+Merritt,2016,Education,58.0,index
+Ashcroft,2016,Education,55.0,index
+Cache Creek,2016,Education,52.0,index
+Clinton,2016,Education,52.0,index
+Logan Lake,2016,Education,59.0,index
+Kamloops,2016,Education,65.0,index
+Chase,2016,Education,51.0,index
+Kelowna,2016,Education,66.0,index
+Lake Country,2016,Education,65.0,index
+Peachland,2016,Education,64.0,index
+Lumby,2016,Education,54.0,index
+Coldstream,2016,Education,69.0,index
+Vernon,2016,Education,62.0,index
+Spallumcheen,2016,Education,60.0,index
+Armstrong,2016,Education,58.0,index
+Enderby,2016,Education,55.0,index
+Golden,2016,Education,62.0,index
+Revelstoke,2016,Education,65.0,index
+Salmon Arm,2016,Education,64.0,index
+Sicamous,2016,Education,54.0,index
+One Hundred Mile House,2016,Education,50.0,index
+Williams Lake,2016,Education,56.0,index
+Quesnel,2016,Education,54.0,index
+Alert Bay,2016,Education,68.0,index
+Port McNeill,2016,Education,57.0,index
+Port Alice,2016,Education,58.0,index
+Port Hardy,2016,Education,53.0,index
+Port Edward,2016,Education,55.0,index
+Prince Rupert,2016,Education,55.0,index
+Masset,2016,Education,58.0,index
+Queen Charlotte,2016,Education,67.0,index
+Port Clements,2016,Education,58.0,index
+Kitimat,2016,Education,60.0,index
+Terrace,2016,Education,62.0,index
+New Hazelton,2016,Education,47.0,index
+Stewart,2016,Education,58.0,index
+Vanderhoof,2016,Education,61.0,index
+Fraser Lake,2016,Education,55.0,index
+Fort St. James,2016,Education,58.0,index
+Burns Lake,2016,Education,60.0,index
+Granisle,2016,Education,42.0,index
+Houston,2016,Education,56.0,index
+Telkwa,2016,Education,63.0,index
+Smithers,2016,Education,64.0,index
+Valemount,2016,Education,56.0,index
+McBride,2016,Education,58.0,index
+Prince George,2016,Education,61.0,index
+Mackenzie,2016,Education,55.0,index
+Tumbler Ridge,2016,Education,57.0,index
+Pouce Coupe,2016,Education,51.0,index
+Chetwynd,2016,Education,59.0,index
+Dawson Creek,2016,Education,57.0,index
+Hudson's Hope,2016,Education,60.0,index
+Taylor,2016,Education,54.0,index
+Fort St. John,2016,Education,62.0,index
+Elkford,2016,Housing,97.0,index
+Sparwood,2016,Housing,98.0,index
+Fernie,2016,Housing,95.0,index
+Cranbrook,2016,Housing,96.0,index
+Kimberley,2016,Housing,94.0,index
+Invermere,2016,Housing,96.0,index
+Radium Hot Springs,2016,Housing,97.0,index
+Canal Flats,2016,Housing,97.0,index
+Creston,2016,Housing,96.0,index
+Salmo,2016,Housing,93.0,index
+Nelson,2016,Housing,94.0,index
+Kaslo,2016,Housing,95.0,index
+New Denver,2016,Housing,95.0,index
+Castlegar,2016,Housing,95.0,index
+Nakusp,2016,Housing,93.0,index
+Fruitvale,2016,Housing,94.0,index
+Montrose,2016,Housing,98.0,index
+Trail,2016,Housing,94.0,index
+Warfield,2016,Housing,95.0,index
+Rossland,2016,Housing,94.0,index
+Grand Forks,2016,Housing,94.0,index
+Midway,2016,Housing,95.0,index
+Greenwood,2016,Housing,94.0,index
+Osoyoos,2016,Housing,93.0,index
+Keremeos,2016,Housing,97.0,index
+Oliver,2016,Housing,96.0,index
+Princeton,2016,Housing,95.0,index
+Summerland,2016,Housing,96.0,index
+Penticton,2016,Housing,96.0,index
+Hope,2016,Housing,94.0,index
+Chilliwack,2016,Housing,97.0,index
+Harrison Hot Springs,2016,Housing,96.0,index
+Kent,2016,Housing,96.0,index
+Abbotsford,2016,Housing,94.0,index
+Mission,2016,Housing,95.0,index
+Langley Township,2016,Housing,97.0,index
+Langley City,2016,Housing,95.0,index
+Surrey,2016,Housing,92.0,index
+White Rock,2016,Housing,97.0,index
+Delta,2016,Housing,95.0,index
+Richmond,2016,Housing,93.0,index
+Vancouver,2016,Housing,94.0,index
+Burnaby,2016,Housing,93.0,index
+New Westminster,2016,Housing,93.0,index
+Coquitlam,2016,Housing,94.0,index
+Belcarra,2016,Housing,98.0,index
+Anmore,2016,Housing,98.0,index
+Port Coquitlam,2016,Housing,95.0,index
+Port Moody,2016,Housing,95.0,index
+North Vancouver District,2016,Housing,96.0,index
+North Vancouver City,2016,Housing,94.0,index
+West Vancouver,2016,Housing,96.0,index
+Bowen Island,2016,Housing,96.0,index
+Lions Bay,2016,Housing,93.0,index
+Pitt Meadows,2016,Housing,97.0,index
+Maple Ridge,2016,Housing,97.0,index
+North Saanich,2016,Housing,98.0,index
+Sidney,2016,Housing,98.0,index
+Central Saanich,2016,Housing,98.0,index
+Saanich,2016,Housing,96.0,index
+Oak Bay,2016,Housing,97.0,index
+Victoria,2016,Housing,96.0,index
+Esquimalt,2016,Housing,95.0,index
+Colwood,2016,Housing,97.0,index
+Metchosin,2016,Housing,96.0,index
+Langford,2016,Housing,97.0,index
+View Royal,2016,Housing,96.0,index
+Highlands,2016,Housing,98.0,index
+Sooke,2016,Housing,96.0,index
+North Cowichan,2016,Housing,96.0,index
+Duncan,2016,Housing,92.0,index
+Lake Cowichan,2016,Housing,93.0,index
+Ladysmith,2016,Housing,97.0,index
+Nanaimo,2016,Housing,96.0,index
+Lantzville,2016,Housing,96.0,index
+Parksville,2016,Housing,98.0,index
+Qualicum Beach,2016,Housing,98.0,index
+Port Alberni,2016,Housing,94.0,index
+Ucluelet,2016,Housing,94.0,index
+Gold River,2016,Housing,97.0,index
+Campbell River,2016,Housing,96.0,index
+Sayward,2016,Housing,100.0,index
+Comox,2016,Housing,98.0,index
+Courtenay,2016,Housing,97.0,index
+Cumberland,2016,Housing,95.0,index
+Powell River,2016,Housing,95.0,index
+Gibsons,2016,Housing,97.0,index
+Sechelt,2016,Housing,97.0,index
+Squamish,2016,Housing,95.0,index
+Pemberton,2016,Housing,95.0,index
+Whistler,2016,Housing,95.0,index
+Lillooet,2016,Housing,93.0,index
+Merritt,2016,Housing,94.0,index
+Ashcroft,2016,Housing,96.0,index
+Cache Creek,2016,Housing,94.0,index
+Clinton,2016,Housing,93.0,index
+Logan Lake,2016,Housing,97.0,index
+Kamloops,2016,Housing,96.0,index
+Chase,2016,Housing,94.0,index
+Kelowna,2016,Housing,97.0,index
+Lake Country,2016,Housing,97.0,index
+Peachland,2016,Housing,97.0,index
+Lumby,2016,Housing,96.0,index
+Coldstream,2016,Housing,98.0,index
+Vernon,2016,Housing,96.0,index
+Spallumcheen,2016,Housing,95.0,index
+Armstrong,2016,Housing,97.0,index
+Enderby,2016,Housing,96.0,index
+Golden,2016,Housing,96.0,index
+Revelstoke,2016,Housing,96.0,index
+Salmon Arm,2016,Housing,96.0,index
+Sicamous,2016,Housing,95.0,index
+One Hundred Mile House,2016,Housing,96.0,index
+Williams Lake,2016,Housing,97.0,index
+Quesnel,2016,Housing,95.0,index
+Alert Bay,2016,Housing,93.0,index
+Port McNeill,2016,Housing,95.0,index
+Port Alice,2016,Housing,95.0,index
+Port Hardy,2016,Housing,93.0,index
+Port Edward,2016,Housing,85.0,index
+Prince Rupert,2016,Housing,90.0,index
+Masset,2016,Housing,84.0,index
+Queen Charlotte,2016,Housing,92.0,index
+Port Clements,2016,Housing,86.0,index
+Kitimat,2016,Housing,93.0,index
+Terrace,2016,Housing,94.0,index
+New Hazelton,2016,Housing,94.0,index
+Stewart,2016,Housing,94.0,index
+Vanderhoof,2016,Housing,94.0,index
+Fraser Lake,2016,Housing,94.0,index
+Fort St. James,2016,Housing,92.0,index
+Burns Lake,2016,Housing,89.0,index
+Granisle,2016,Housing,97.0,index
+Houston,2016,Housing,93.0,index
+Telkwa,2016,Housing,98.0,index
+Smithers,2016,Housing,96.0,index
+Valemount,2016,Housing,95.0,index
+McBride,2016,Housing,95.0,index
+Prince George,2016,Housing,95.0,index
+Mackenzie,2016,Housing,95.0,index
+Tumbler Ridge,2016,Housing,96.0,index
+Pouce Coupe,2016,Housing,88.0,index
+Chetwynd,2016,Housing,96.0,index
+Dawson Creek,2016,Housing,94.0,index
+Hudson's Hope,2016,Housing,93.0,index
+Taylor,2016,Housing,95.0,index
+Fort St. John,2016,Housing,95.0,index
+Elkford,2016,Labour_Force,86.0,index
+Sparwood,2016,Labour_Force,89.0,index
+Fernie,2016,Labour_Force,90.0,index
+Cranbrook,2016,Labour_Force,87.0,index
+Kimberley,2016,Labour_Force,86.0,index
+Invermere,2016,Labour_Force,91.0,index
+Radium Hot Springs,2016,Labour_Force,82.0,index
+Canal Flats,2016,Labour_Force,85.0,index
+Creston,2016,Labour_Force,83.0,index
+Salmo,2016,Labour_Force,78.0,index
+Nelson,2016,Labour_Force,87.0,index
+Kaslo,2016,Labour_Force,84.0,index
+New Denver,2016,Labour_Force,86.0,index
+Castlegar,2016,Labour_Force,86.0,index
+Nakusp,2016,Labour_Force,88.0,index
+Fruitvale,2016,Labour_Force,83.0,index
+Montrose,2016,Labour_Force,84.0,index
+Trail,2016,Labour_Force,81.0,index
+Warfield,2016,Labour_Force,86.0,index
+Rossland,2016,Labour_Force,87.0,index
+Grand Forks,2016,Labour_Force,81.0,index
+Midway,2016,Labour_Force,75.0,index
+Greenwood,2016,Labour_Force,74.0,index
+Osoyoos,2016,Labour_Force,83.0,index
+Keremeos,2016,Labour_Force,75.0,index
+Oliver,2016,Labour_Force,84.0,index
+Princeton,2016,Labour_Force,83.0,index
+Summerland,2016,Labour_Force,85.0,index
+Penticton,2016,Labour_Force,85.0,index
+Hope,2016,Labour_Force,79.0,index
+Chilliwack,2016,Labour_Force,86.0,index
+Harrison Hot Springs,2016,Labour_Force,83.0,index
+Kent,2016,Labour_Force,84.0,index
+Abbotsford,2016,Labour_Force,87.0,index
+Mission,2016,Labour_Force,87.0,index
+Langley Township,2016,Labour_Force,89.0,index
+Langley City,2016,Labour_Force,88.0,index
+Surrey,2016,Labour_Force,87.0,index
+White Rock,2016,Labour_Force,86.0,index
+Delta,2016,Labour_Force,88.0,index
+Richmond,2016,Labour_Force,85.0,index
+Vancouver,2016,Labour_Force,88.0,index
+Burnaby,2016,Labour_Force,86.0,index
+New Westminster,2016,Labour_Force,89.0,index
+Coquitlam,2016,Labour_Force,86.0,index
+Belcarra,2016,Labour_Force,87.0,index
+Anmore,2016,Labour_Force,89.0,index
+Port Coquitlam,2016,Labour_Force,89.0,index
+Port Moody,2016,Labour_Force,89.0,index
+North Vancouver District,2016,Labour_Force,89.0,index
+North Vancouver City,2016,Labour_Force,90.0,index
+West Vancouver,2016,Labour_Force,83.0,index
+Bowen Island,2016,Labour_Force,91.0,index
+Lions Bay,2016,Labour_Force,89.0,index
+Pitt Meadows,2016,Labour_Force,90.0,index
+Maple Ridge,2016,Labour_Force,89.0,index
+North Saanich,2016,Labour_Force,87.0,index
+Sidney,2016,Labour_Force,87.0,index
+Central Saanich,2016,Labour_Force,90.0,index
+Saanich,2016,Labour_Force,87.0,index
+Oak Bay,2016,Labour_Force,87.0,index
+Victoria,2016,Labour_Force,88.0,index
+Esquimalt,2016,Labour_Force,87.0,index
+Colwood,2016,Labour_Force,89.0,index
+Metchosin,2016,Labour_Force,88.0,index
+Langford,2016,Labour_Force,89.0,index
+View Royal,2016,Labour_Force,90.0,index
+Highlands,2016,Labour_Force,90.0,index
+Sooke,2016,Labour_Force,87.0,index
+North Cowichan,2016,Labour_Force,86.0,index
+Duncan,2016,Labour_Force,81.0,index
+Lake Cowichan,2016,Labour_Force,80.0,index
+Ladysmith,2016,Labour_Force,86.0,index
+Nanaimo,2016,Labour_Force,85.0,index
+Lantzville,2016,Labour_Force,85.0,index
+Parksville,2016,Labour_Force,83.0,index
+Qualicum Beach,2016,Labour_Force,80.0,index
+Port Alberni,2016,Labour_Force,80.0,index
+Ucluelet,2016,Labour_Force,91.0,index
+Gold River,2016,Labour_Force,83.0,index
+Campbell River,2016,Labour_Force,84.0,index
+Sayward,2016,Labour_Force,78.0,index
+Comox,2016,Labour_Force,86.0,index
+Courtenay,2016,Labour_Force,84.0,index
+Cumberland,2016,Labour_Force,88.0,index
+Powell River,2016,Labour_Force,83.0,index
+Gibsons,2016,Labour_Force,87.0,index
+Sechelt,2016,Labour_Force,85.0,index
+Squamish,2016,Labour_Force,91.0,index
+Pemberton,2016,Labour_Force,93.0,index
+Whistler,2016,Labour_Force,93.0,index
+Lillooet,2016,Labour_Force,81.0,index
+Merritt,2016,Labour_Force,83.0,index
+Ashcroft,2016,Labour_Force,80.0,index
+Cache Creek,2016,Labour_Force,82.0,index
+Clinton,2016,Labour_Force,82.0,index
+Logan Lake,2016,Labour_Force,80.0,index
+Kamloops,2016,Labour_Force,87.0,index
+Chase,2016,Labour_Force,79.0,index
+Kelowna,2016,Labour_Force,88.0,index
+Lake Country,2016,Labour_Force,87.0,index
+Peachland,2016,Labour_Force,82.0,index
+Lumby,2016,Labour_Force,82.0,index
+Coldstream,2016,Labour_Force,86.0,index
+Vernon,2016,Labour_Force,85.0,index
+Spallumcheen,2016,Labour_Force,86.0,index
+Armstrong,2016,Labour_Force,85.0,index
+Enderby,2016,Labour_Force,83.0,index
+Golden,2016,Labour_Force,87.0,index
+Revelstoke,2016,Labour_Force,87.0,index
+Salmon Arm,2016,Labour_Force,86.0,index
+Sicamous,2016,Labour_Force,79.0,index
+One Hundred Mile House,2016,Labour_Force,80.0,index
+Williams Lake,2016,Labour_Force,86.0,index
+Quesnel,2016,Labour_Force,82.0,index
+Alert Bay,2016,Labour_Force,89.0,index
+Port McNeill,2016,Labour_Force,90.0,index
+Port Alice,2016,Labour_Force,68.0,index
+Port Hardy,2016,Labour_Force,85.0,index
+Port Edward,2016,Labour_Force,90.0,index
+Prince Rupert,2016,Labour_Force,85.0,index
+Masset,2016,Labour_Force,89.0,index
+Queen Charlotte,2016,Labour_Force,87.0,index
+Port Clements,2016,Labour_Force,91.0,index
+Kitimat,2016,Labour_Force,82.0,index
+Terrace,2016,Labour_Force,87.0,index
+New Hazelton,2016,Labour_Force,74.0,index
+Stewart,2016,Labour_Force,88.0,index
+Vanderhoof,2016,Labour_Force,89.0,index
+Fraser Lake,2016,Labour_Force,80.0,index
+Fort St. James,2016,Labour_Force,88.0,index
+Burns Lake,2016,Labour_Force,84.0,index
+Granisle,2016,Labour_Force,64.0,index
+Houston,2016,Labour_Force,83.0,index
+Telkwa,2016,Labour_Force,87.0,index
+Smithers,2016,Labour_Force,88.0,index
+Valemount,2016,Labour_Force,88.0,index
+McBride,2016,Labour_Force,81.0,index
+Prince George,2016,Labour_Force,87.0,index
+Mackenzie,2016,Labour_Force,87.0,index
+Tumbler Ridge,2016,Labour_Force,77.0,index
+Pouce Coupe,2016,Labour_Force,83.0,index
+Chetwynd,2016,Labour_Force,85.0,index
+Dawson Creek,2016,Labour_Force,85.0,index
+Hudson's Hope,2016,Labour_Force,82.0,index
+Taylor,2016,Labour_Force,84.0,index
+Fort St. John,2016,Labour_Force,88.0,index
+Elkford,2016,Population,2499.0,count
+Sparwood,2016,Population,3784.0,count
+Fernie,2016,Population,5249.0,count
+Cranbrook,2016,Population,20047.0,count
+Kimberley,2016,Population,7425.0,count
+Invermere,2016,Population,3391.0,count
+Radium Hot Springs,2016,Population,776.0,count
+Canal Flats,2016,Population,668.0,count
+Creston,2016,Population,5351.0,count
+Salmo,2016,Population,1141.0,count
+Nelson,2016,Population,10572.0,count
+Kaslo,2016,Population,968.0,count
+New Denver,2016,Population,473.0,count
+Castlegar,2016,Population,8039.0,count
+Nakusp,2016,Population,1605.0,count
+Fruitvale,2016,Population,1920.0,count
+Montrose,2016,Population,996.0,count
+Trail,2016,Population,7709.0,count
+Warfield,2016,Population,1680.0,count
+Rossland,2016,Population,3729.0,count
+Grand Forks,2016,Population,4049.0,count
+Midway,2016,Population,649.0,count
+Greenwood,2016,Population,665.0,count
+Osoyoos,2016,Population,5085.0,count
+Keremeos,2016,Population,1502.0,count
+Oliver,2016,Population,4928.0,count
+Princeton,2016,Population,2828.0,count
+Summerland,2016,Population,11615.0,count
+Penticton,2016,Population,33761.0,count
+Hope,2016,Population,6181.0,count
+Chilliwack,2016,Population,83788.0,count
+Harrison Hot Springs,2016,Population,1468.0,count
+Kent,2016,Population,6067.0,count
+Abbotsford,2016,Population,141397.0,count
+Mission,2016,Population,38833.0,count
+Langley Township,2016,Population,117285.0,count
+Langley City,2016,Population,25888.0,count
+Surrey,2016,Population,517887.0,count
+White Rock,2016,Population,19952.0,count
+Delta,2016,Population,102238.0,count
+Richmond,2016,Population,198309.0,count
+Vancouver,2016,Population,631486.0,count
+Burnaby,2016,Population,232755.0,count
+New Westminster,2016,Population,70996.0,count
+Coquitlam,2016,Population,139284.0,count
+Belcarra,2016,Population,643.0,count
+Anmore,2016,Population,2210.0,count
+Port Coquitlam,2016,Population,58612.0,count
+Port Moody,2016,Population,33551.0,count
+North Vancouver District,2016,Population,85935.0,count
+North Vancouver City,2016,Population,52898.0,count
+West Vancouver,2016,Population,42473.0,count
+Bowen Island,2016,Population,3680.0,count
+Lions Bay,2016,Population,1334.0,count
+Pitt Meadows,2016,Population,18573.0,count
+Maple Ridge,2016,Population,82256.0,count
+North Saanich,2016,Population,11249.0,count
+Sidney,2016,Population,11672.0,count
+Central Saanich,2016,Population,16814.0,count
+Saanich,2016,Population,114148.0,count
+Oak Bay,2016,Population,18094.0,count
+Victoria,2016,Population,85792.0,count
+Esquimalt,2016,Population,17655.0,count
+Colwood,2016,Population,16859.0,count
+Metchosin,2016,Population,4708.0,count
+Langford,2016,Population,35342.0,count
+View Royal,2016,Population,10408.0,count
+Highlands,2016,Population,2225.0,count
+Sooke,2016,Population,13001.0,count
+North Cowichan,2016,Population,29676.0,count
+Duncan,2016,Population,4944.0,count
+Lake Cowichan,2016,Population,3226.0,count
+Ladysmith,2016,Population,8537.0,count
+Nanaimo,2016,Population,90504.0,count
+Lantzville,2016,Population,3605.0,count
+Parksville,2016,Population,12514.0,count
+Qualicum Beach,2016,Population,8943.0,count
+Port Alberni,2016,Population,17678.0,count
+Ucluelet,2016,Population,1717.0,count
+Gold River,2016,Population,1212.0,count
+Campbell River,2016,Population,32588.0,count
+Sayward,2016,Population,311.0,count
+Comox,2016,Population,14028.0,count
+Courtenay,2016,Population,25599.0,count
+Cumberland,2016,Population,3753.0,count
+Powell River,2016,Population,13157.0,count
+Gibsons,2016,Population,4605.0,count
+Sechelt,2016,Population,10216.0,count
+Squamish,2016,Population,19512.0,count
+Pemberton,2016,Population,2574.0,count
+Whistler,2016,Population,11854.0,count
+Lillooet,2016,Population,2275.0,count
+Merritt,2016,Population,7139.0,count
+Ashcroft,2016,Population,1558.0,count
+Cache Creek,2016,Population,963.0,count
+Clinton,2016,Population,641.0,count
+Logan Lake,2016,Population,1993.0,count
+Kamloops,2016,Population,90280.0,count
+Chase,2016,Population,2286.0,count
+Kelowna,2016,Population,127380.0,count
+Lake Country,2016,Population,12922.0,count
+Peachland,2016,Population,5428.0,count
+Lumby,2016,Population,1833.0,count
+Coldstream,2016,Population,10648.0,count
+Vernon,2016,Population,40116.0,count
+Spallumcheen,2016,Population,5106.0,count
+Armstrong,2016,Population,5114.0,count
+Enderby,2016,Population,2964.0,count
+Golden,2016,Population,3708.0,count
+Revelstoke,2016,Population,7547.0,count
+Salmon Arm,2016,Population,17706.0,count
+Sicamous,2016,Population,2429.0,count
+One Hundred Mile House,2016,Population,1980.0,count
+Williams Lake,2016,Population,10753.0,count
+Quesnel,2016,Population,9879.0,count
+Alert Bay,2016,Population,489.0,count
+Port McNeill,2016,Population,2337.0,count
+Port Alice,2016,Population,664.0,count
+Port Hardy,2016,Population,4132.0,count
+Port Edward,2016,Population,467.0,count
+Prince Rupert,2016,Population,12220.0,count
+Masset,2016,Population,793.0,count
+Queen Charlotte,2016,Population,852.0,count
+Port Clements,2016,Population,282.0,count
+Kitimat,2016,Population,8131.0,count
+Terrace,2016,Population,11643.0,count
+New Hazelton,2016,Population,580.0,count
+Stewart,2016,Population,401.0,count
+Vanderhoof,2016,Population,4439.0,count
+Fraser Lake,2016,Population,988.0,count
+Fort St. James,2016,Population,1598.0,count
+Burns Lake,2016,Population,1779.0,count
+Granisle,2016,Population,303.0,count
+Houston,2016,Population,2993.0,count
+Telkwa,2016,Population,1327.0,count
+Smithers,2016,Population,5401.0,count
+Valemount,2016,Population,1021.0,count
+McBride,2016,Population,616.0,count
+Prince George,2016,Population,74003.0,count
+Mackenzie,2016,Population,3714.0,count
+Tumbler Ridge,2016,Population,1987.0,count
+Pouce Coupe,2016,Population,792.0,count
+Chetwynd,2016,Population,2503.0,count
+Dawson Creek,2016,Population,12178.0,count
+Hudson's Hope,2016,Population,1015.0,count
+Taylor,2016,Population,1469.0,count
+Fort St. John,2016,Population,20155.0,count
+Elkford,2021,CWB,85.0,index
+Sparwood,2021,CWB,84.0,index
+Fernie,2021,CWB,86.0,index
+Cranbrook,2021,CWB,82.0,index
+Kimberley,2021,CWB,83.0,index
+Invermere,2021,CWB,84.0,index
+Radium Hot Springs,2021,CWB,84.0,index
+Canal Flats,2021,CWB,77.0,index
+Creston,2021,CWB,79.0,index
+Salmo,2021,CWB,77.0,index
+Nelson,2021,CWB,85.0,index
+Kaslo,2021,CWB,80.0,index
+New Denver,2021,CWB,74.0,index
+Castlegar,2021,CWB,81.0,index
+Nakusp,2021,CWB,80.0,index
+Fruitvale,2021,CWB,82.0,index
+Montrose,2021,CWB,82.0,index
+Trail,2021,CWB,80.0,index
+Warfield,2021,CWB,83.0,index
+Rossland,2021,CWB,88.0,index
+Grand Forks,2021,CWB,79.0,index
+Midway,2021,CWB,79.0,index
+Greenwood,2021,CWB,71.0,index
+Osoyoos,2021,CWB,80.0,index
+Keremeos,2021,CWB,77.0,index
+Oliver,2021,CWB,80.0,index
+Princeton,2021,CWB,79.0,index
+Summerland,2021,CWB,82.0,index
+Penticton,2021,CWB,81.0,index
+Hope,2021,CWB,77.0,index
+Chilliwack,2021,CWB,81.0,index
+Harrison Hot Springs,2021,CWB,82.0,index
+Kent,2021,CWB,81.0,index
+Abbotsford,2021,CWB,80.0,index
+Mission,2021,CWB,80.0,index
+Langley Township,2021,CWB,84.0,index
+Langley City,2021,CWB,81.0,index
+Surrey,2021,CWB,81.0,index
+White Rock,2021,CWB,86.0,index
+Delta,2021,CWB,84.0,index
+Richmond,2021,CWB,82.0,index
+Vancouver,2021,CWB,86.0,index
+Burnaby,2021,CWB,83.0,index
+New Westminster,2021,CWB,84.0,index
+Coquitlam,2021,CWB,84.0,index
+Belcarra,2021,CWB,90.0,index
+Anmore,2021,CWB,88.0,index
+Port Coquitlam,2021,CWB,84.0,index
+Port Moody,2021,CWB,88.0,index
+North Vancouver District,2021,CWB,89.0,index
+North Vancouver City,2021,CWB,87.0,index
+West Vancouver,2021,CWB,90.0,index
+Bowen Island,2021,CWB,90.0,index
+Lions Bay,2021,CWB,91.0,index
+Pitt Meadows,2021,CWB,84.0,index
+Maple Ridge,2021,CWB,83.0,index
+North Saanich,2021,CWB,89.0,index
+Sidney,2021,CWB,85.0,index
+Central Saanich,2021,CWB,87.0,index
+Saanich,2021,CWB,86.0,index
+Oak Bay,2021,CWB,91.0,index
+Victoria,2021,CWB,86.0,index
+Esquimalt,2021,CWB,84.0,index
+Colwood,2021,CWB,84.0,index
+Metchosin,2021,CWB,85.0,index
+Langford,2021,CWB,84.0,index
+View Royal,2021,CWB,86.0,index
+Highlands,2021,CWB,85.0,index
+Sooke,2021,CWB,82.0,index
+North Cowichan,2021,CWB,82.0,index
+Duncan,2021,CWB,78.0,index
+Lake Cowichan,2021,CWB,79.0,index
+Ladysmith,2021,CWB,82.0,index
+Nanaimo,2021,CWB,82.0,index
+Lantzville,2021,CWB,83.0,index
+Parksville,2021,CWB,82.0,index
+Qualicum Beach,2021,CWB,84.0,index
+Port Alberni,2021,CWB,77.0,index
+Ucluelet,2021,CWB,84.0,index
+Gold River,2021,CWB,78.0,index
+Campbell River,2021,CWB,81.0,index
+Sayward,2021,CWB,76.0,index
+Comox,2021,CWB,84.0,index
+Courtenay,2021,CWB,82.0,index
+Cumberland,2021,CWB,83.0,index
+Powell River,2021,CWB,80.0,index
+Gibsons,2021,CWB,84.0,index
+Sechelt,2021,CWB,83.0,index
+Squamish,2021,CWB,87.0,index
+Pemberton,2021,CWB,87.0,index
+Whistler,2021,CWB,87.0,index
+Lillooet,2021,CWB,79.0,index
+Merritt,2021,CWB,78.0,index
+Ashcroft,2021,CWB,76.0,index
+Cache Creek,2021,CWB,74.0,index
+Clinton,2021,CWB,73.0,index
+Logan Lake,2021,CWB,80.0,index
+Kamloops,2021,CWB,83.0,index
+Chase,2021,CWB,77.0,index
+Kelowna,2021,CWB,84.0,index
+Lake Country,2021,CWB,84.0,index
+Peachland,2021,CWB,82.0,index
+Lumby,2021,CWB,78.0,index
+Coldstream,2021,CWB,85.0,index
+Vernon,2021,CWB,81.0,index
+Spallumcheen,2021,CWB,80.0,index
+Armstrong,2021,CWB,81.0,index
+Enderby,2021,CWB,77.0,index
+Golden,2021,CWB,83.0,index
+Revelstoke,2021,CWB,84.0,index
+Salmon Arm,2021,CWB,82.0,index
+Sicamous,2021,CWB,77.0,index
+One Hundred Mile House,2021,CWB,75.0,index
+Williams Lake,2021,CWB,79.0,index
+Quesnel,2021,CWB,78.0,index
+Alert Bay,2021,CWB,78.0,index
+Port McNeill,2021,CWB,81.0,index
+Port Alice,2021,CWB,77.0,index
+Port Hardy,2021,CWB,78.0,index
+Port Edward,2021,CWB,78.0,index
+Prince Rupert,2021,CWB,80.0,index
+Masset,2021,CWB,78.0,index
+Queen Charlotte,2021,CWB,79.0,index
+Port Clements,2021,CWB,78.0,index
+Kitimat,2021,CWB,81.0,index
+Terrace,2021,CWB,82.0,index
+New Hazelton,2021,CWB,74.0,index
+Stewart,2021,CWB,78.0,index
+Vanderhoof,2021,CWB,81.0,index
+Fraser Lake,2021,CWB,78.0,index
+Fort St. James,2021,CWB,80.0,index
+Burns Lake,2021,CWB,81.0,index
+Granisle,2021,CWB,70.0,index
+Houston,2021,CWB,79.0,index
+Telkwa,2021,CWB,81.0,index
+Smithers,2021,CWB,84.0,index
+Valemount,2021,CWB,81.0,index
+McBride,2021,CWB,77.0,index
+Prince George,2021,CWB,82.0,index
+Mackenzie,2021,CWB,81.0,index
+Tumbler Ridge,2021,CWB,83.0,index
+Pouce Coupe,2021,CWB,77.0,index
+Chetwynd,2021,CWB,81.0,index
+Dawson Creek,2021,CWB,80.0,index
+Hudson's Hope,2021,CWB,81.0,index
+Taylor,2021,CWB,79.0,index
+Fort St. John,2021,CWB,82.0,index
+Elkford,2021,Income,87.0,index
+Sparwood,2021,Income,86.0,index
+Fernie,2021,Income,86.0,index
+Cranbrook,2021,Income,80.0,index
+Kimberley,2021,Income,80.0,index
+Invermere,2021,Income,81.0,index
+Radium Hot Springs,2021,Income,84.0,index
+Canal Flats,2021,Income,76.0,index
+Creston,2021,Income,76.0,index
+Salmo,2021,Income,75.0,index
+Nelson,2021,Income,80.0,index
+Kaslo,2021,Income,72.0,index
+New Denver,2021,Income,67.0,index
+Castlegar,2021,Income,80.0,index
+Nakusp,2021,Income,78.0,index
+Fruitvale,2021,Income,83.0,index
+Montrose,2021,Income,80.0,index
+Trail,2021,Income,79.0,index
+Warfield,2021,Income,82.0,index
+Rossland,2021,Income,87.0,index
+Grand Forks,2021,Income,75.0,index
+Midway,2021,Income,74.0,index
+Greenwood,2021,Income,68.0,index
+Osoyoos,2021,Income,78.0,index
+Keremeos,2021,Income,76.0,index
+Oliver,2021,Income,78.0,index
+Princeton,2021,Income,80.0,index
+Summerland,2021,Income,81.0,index
+Penticton,2021,Income,80.0,index
+Hope,2021,Income,77.0,index
+Chilliwack,2021,Income,78.0,index
+Harrison Hot Springs,2021,Income,81.0,index
+Kent,2021,Income,78.0,index
+Abbotsford,2021,Income,77.0,index
+Mission,2021,Income,78.0,index
+Langley Township,2021,Income,83.0,index
+Langley City,2021,Income,79.0,index
+Surrey,2021,Income,78.0,index
+White Rock,2021,Income,89.0,index
+Delta,2021,Income,83.0,index
+Richmond,2021,Income,78.0,index
+Vancouver,2021,Income,88.0,index
+Burnaby,2021,Income,81.0,index
+New Westminster,2021,Income,83.0,index
+Coquitlam,2021,Income,81.0,index
+Belcarra,2021,Income,100.0,index
+Anmore,2021,Income,94.0,index
+Port Coquitlam,2021,Income,82.0,index
+Port Moody,2021,Income,89.0,index
+North Vancouver District,2021,Income,93.0,index
+North Vancouver City,2021,Income,87.0,index
+West Vancouver,2021,Income,100.0,index
+Bowen Island,2021,Income,95.0,index
+Lions Bay,2021,Income,97.0,index
+Pitt Meadows,2021,Income,83.0,index
+Maple Ridge,2021,Income,82.0,index
+North Saanich,2021,Income,94.0,index
+Sidney,2021,Income,84.0,index
+Central Saanich,2021,Income,87.0,index
+Saanich,2021,Income,85.0,index
+Oak Bay,2021,Income,95.0,index
+Victoria,2021,Income,85.0,index
+Esquimalt,2021,Income,82.0,index
+Colwood,2021,Income,82.0,index
+Metchosin,2021,Income,87.0,index
+Langford,2021,Income,82.0,index
+View Royal,2021,Income,85.0,index
+Highlands,2021,Income,85.0,index
+Sooke,2021,Income,80.0,index
+North Cowichan,2021,Income,80.0,index
+Duncan,2021,Income,74.0,index
+Lake Cowichan,2021,Income,77.0,index
+Ladysmith,2021,Income,80.0,index
+Nanaimo,2021,Income,79.0,index
+Lantzville,2021,Income,84.0,index
+Parksville,2021,Income,79.0,index
+Qualicum Beach,2021,Income,84.0,index
+Port Alberni,2021,Income,75.0,index
+Ucluelet,2021,Income,78.0,index
+Gold River,2021,Income,78.0,index
+Campbell River,2021,Income,80.0,index
+Sayward,2021,Income,74.0,index
+Comox,2021,Income,81.0,index
+Courtenay,2021,Income,79.0,index
+Cumberland,2021,Income,79.0,index
+Powell River,2021,Income,78.0,index
+Gibsons,2021,Income,82.0,index
+Sechelt,2021,Income,82.0,index
+Squamish,2021,Income,86.0,index
+Pemberton,2021,Income,82.0,index
+Whistler,2021,Income,87.0,index
+Lillooet,2021,Income,79.0,index
+Merritt,2021,Income,77.0,index
+Ashcroft,2021,Income,78.0,index
+Cache Creek,2021,Income,73.0,index
+Clinton,2021,Income,73.0,index
+Logan Lake,2021,Income,80.0,index
+Kamloops,2021,Income,82.0,index
+Chase,2021,Income,76.0,index
+Kelowna,2021,Income,83.0,index
+Lake Country,2021,Income,86.0,index
+Peachland,2021,Income,83.0,index
+Lumby,2021,Income,76.0,index
+Coldstream,2021,Income,85.0,index
+Vernon,2021,Income,80.0,index
+Spallumcheen,2021,Income,78.0,index
+Armstrong,2021,Income,78.0,index
+Enderby,2021,Income,73.0,index
+Golden,2021,Income,81.0,index
+Revelstoke,2021,Income,81.0,index
+Salmon Arm,2021,Income,79.0,index
+Sicamous,2021,Income,77.0,index
+One Hundred Mile House,2021,Income,73.0,index
+Williams Lake,2021,Income,79.0,index
+Quesnel,2021,Income,78.0,index
+Alert Bay,2021,Income,75.0,index
+Port McNeill,2021,Income,80.0,index
+Port Alice,2021,Income,79.0,index
+Port Hardy,2021,Income,77.0,index
+Port Edward,2021,Income,82.0,index
+Prince Rupert,2021,Income,84.0,index
+Masset,2021,Income,79.0,index
+Queen Charlotte,2021,Income,76.0,index
+Port Clements,2021,Income,82.0,index
+Kitimat,2021,Income,88.0,index
+Terrace,2021,Income,81.0,index
+New Hazelton,2021,Income,74.0,index
+Stewart,2021,Income,84.0,index
+Vanderhoof,2021,Income,79.0,index
+Fraser Lake,2021,Income,81.0,index
+Fort St. James,2021,Income,84.0,index
+Burns Lake,2021,Income,81.0,index
+Granisle,2021,Income,76.0,index
+Houston,2021,Income,79.0,index
+Telkwa,2021,Income,77.0,index
+Smithers,2021,Income,81.0,index
+Valemount,2021,Income,77.0,index
+McBride,2021,Income,75.0,index
+Prince George,2021,Income,82.0,index
+Mackenzie,2021,Income,82.0,index
+Tumbler Ridge,2021,Income,86.0,index
+Pouce Coupe,2021,Income,84.0,index
+Chetwynd,2021,Income,85.0,index
+Dawson Creek,2021,Income,81.0,index
+Hudson's Hope,2021,Income,82.0,index
+Taylor,2021,Income,82.0,index
+Fort St. John,2021,Income,84.0,index
+Elkford,2021,Education,66.0,index
+Sparwood,2021,Education,63.0,index
+Fernie,2021,Education,74.0,index
+Cranbrook,2021,Education,64.0,index
+Kimberley,2021,Education,70.0,index
+Invermere,2021,Education,69.0,index
+Radium Hot Springs,2021,Education,68.0,index
+Canal Flats,2021,Education,53.0,index
+Creston,2021,Education,60.0,index
+Salmo,2021,Education,59.0,index
+Nelson,2021,Education,75.0,index
+Kaslo,2021,Education,69.0,index
+New Denver,2021,Education,58.0,index
+Castlegar,2021,Education,66.0,index
+Nakusp,2021,Education,65.0,index
+Fruitvale,2021,Education,61.0,index
+Montrose,2021,Education,68.0,index
+Trail,2021,Education,63.0,index
+Warfield,2021,Education,70.0,index
+Rossland,2021,Education,80.0,index
+Grand Forks,2021,Education,59.0,index
+Midway,2021,Education,56.0,index
+Greenwood,2021,Education,55.0,index
+Osoyoos,2021,Education,62.0,index
+Keremeos,2021,Education,54.0,index
+Oliver,2021,Education,60.0,index
+Princeton,2021,Education,58.0,index
+Summerland,2021,Education,67.0,index
+Penticton,2021,Education,64.0,index
+Hope,2021,Education,58.0,index
+Chilliwack,2021,Education,64.0,index
+Harrison Hot Springs,2021,Education,67.0,index
+Kent,2021,Education,63.0,index
+Abbotsford,2021,Education,63.0,index
+Mission,2021,Education,62.0,index
+Langley Township,2021,Education,69.0,index
+Langley City,2021,Education,64.0,index
+Surrey,2021,Education,68.0,index
+White Rock,2021,Education,72.0,index
+Delta,2021,Education,70.0,index
+Richmond,2021,Education,74.0,index
+Vancouver,2021,Education,77.0,index
+Burnaby,2021,Education,75.0,index
+New Westminster,2021,Education,74.0,index
+Coquitlam,2021,Education,76.0,index
+Belcarra,2021,Education,75.0,index
+Anmore,2021,Education,77.0,index
+Port Coquitlam,2021,Education,71.0,index
+Port Moody,2021,Education,79.0,index
+North Vancouver District,2021,Education,81.0,index
+North Vancouver City,2021,Education,79.0,index
+West Vancouver,2021,Education,83.0,index
+Bowen Island,2021,Education,81.0,index
+Lions Bay,2021,Education,81.0,index
+Pitt Meadows,2021,Education,68.0,index
+Maple Ridge,2021,Education,68.0,index
+North Saanich,2021,Education,77.0,index
+Sidney,2021,Education,70.0,index
+Central Saanich,2021,Education,74.0,index
+Saanich,2021,Education,76.0,index
+Oak Bay,2021,Education,84.0,index
+Victoria,2021,Education,78.0,index
+Esquimalt,2021,Education,70.0,index
+Colwood,2021,Education,69.0,index
+Metchosin,2021,Education,69.0,index
+Langford,2021,Education,69.0,index
+View Royal,2021,Education,72.0,index
+Highlands,2021,Education,69.0,index
+Sooke,2021,Education,66.0,index
+North Cowichan,2021,Education,65.0,index
+Duncan,2021,Education,61.0,index
+Lake Cowichan,2021,Education,60.0,index
+Ladysmith,2021,Education,67.0,index
+Nanaimo,2021,Education,68.0,index
+Lantzville,2021,Education,68.0,index
+Parksville,2021,Education,66.0,index
+Qualicum Beach,2021,Education,72.0,index
+Port Alberni,2021,Education,58.0,index
+Ucluelet,2021,Education,73.0,index
+Gold River,2021,Education,57.0,index
+Campbell River,2021,Education,64.0,index
+Sayward,2021,Education,57.0,index
+Comox,2021,Education,71.0,index
+Courtenay,2021,Education,67.0,index
+Cumberland,2021,Education,69.0,index
+Powell River,2021,Education,63.0,index
+Gibsons,2021,Education,73.0,index
+Sechelt,2021,Education,69.0,index
+Squamish,2021,Education,75.0,index
+Pemberton,2021,Education,75.0,index
+Whistler,2021,Education,79.0,index
+Lillooet,2021,Education,59.0,index
+Merritt,2021,Education,59.0,index
+Ashcroft,2021,Education,56.0,index
+Cache Creek,2021,Education,55.0,index
+Clinton,2021,Education,54.0,index
+Logan Lake,2021,Education,61.0,index
+Kamloops,2021,Education,68.0,index
+Chase,2021,Education,56.0,index
+Kelowna,2021,Education,70.0,index
+Lake Country,2021,Education,69.0,index
+Peachland,2021,Education,66.0,index
+Lumby,2021,Education,58.0,index
+Coldstream,2021,Education,71.0,index
+Vernon,2021,Education,65.0,index
+Spallumcheen,2021,Education,60.0,index
+Armstrong,2021,Education,62.0,index
+Enderby,2021,Education,58.0,index
+Golden,2021,Education,68.0,index
+Revelstoke,2021,Education,70.0,index
+Salmon Arm,2021,Education,66.0,index
+Sicamous,2021,Education,53.0,index
+One Hundred Mile House,2021,Education,52.0,index
+Williams Lake,2021,Education,59.0,index
+Quesnel,2021,Education,57.0,index
+Alert Bay,2021,Education,68.0,index
+Port McNeill,2021,Education,61.0,index
+Port Alice,2021,Education,60.0,index
+Port Hardy,2021,Education,57.0,index
+Port Edward,2021,Education,51.0,index
+Prince Rupert,2021,Education,59.0,index
+Masset,2021,Education,60.0,index
+Queen Charlotte,2021,Education,64.0,index
+Port Clements,2021,Education,55.0,index
+Kitimat,2021,Education,61.0,index
+Terrace,2021,Education,66.0,index
+New Hazelton,2021,Education,51.0,index
+Stewart,2021,Education,52.0,index
+Vanderhoof,2021,Education,61.0,index
+Fraser Lake,2021,Education,54.0,index
+Fort St. James,2021,Education,61.0,index
+Burns Lake,2021,Education,65.0,index
+Granisle,2021,Education,47.0,index
+Houston,2021,Education,58.0,index
+Telkwa,2021,Education,66.0,index
+Smithers,2021,Education,67.0,index
+Valemount,2021,Education,64.0,index
+McBride,2021,Education,59.0,index
+Prince George,2021,Education,64.0,index
+Mackenzie,2021,Education,61.0,index
+Tumbler Ridge,2021,Education,61.0,index
+Pouce Coupe,2021,Education,52.0,index
+Chetwynd,2021,Education,58.0,index
+Dawson Creek,2021,Education,59.0,index
+Hudson's Hope,2021,Education,58.0,index
+Taylor,2021,Education,56.0,index
+Fort St. John,2021,Education,63.0,index
+Elkford,2021,Housing,97.0,index
+Sparwood,2021,Housing,97.0,index
+Fernie,2021,Housing,94.0,index
+Cranbrook,2021,Housing,96.0,index
+Kimberley,2021,Housing,95.0,index
+Invermere,2021,Housing,95.0,index
+Radium Hot Springs,2021,Housing,97.0,index
+Canal Flats,2021,Housing,95.0,index
+Creston,2021,Housing,96.0,index
+Salmo,2021,Housing,94.0,index
+Nelson,2021,Housing,95.0,index
+Kaslo,2021,Housing,94.0,index
+New Denver,2021,Housing,92.0,index
+Castlegar,2021,Housing,96.0,index
+Nakusp,2021,Housing,94.0,index
+Fruitvale,2021,Housing,99.0,index
+Montrose,2021,Housing,96.0,index
+Trail,2021,Housing,94.0,index
+Warfield,2021,Housing,93.0,index
+Rossland,2021,Housing,96.0,index
+Grand Forks,2021,Housing,96.0,index
+Midway,2021,Housing,97.0,index
+Greenwood,2021,Housing,94.0,index
+Osoyoos,2021,Housing,98.0,index
+Keremeos,2021,Housing,96.0,index
+Oliver,2021,Housing,95.0,index
+Princeton,2021,Housing,95.0,index
+Summerland,2021,Housing,96.0,index
+Penticton,2021,Housing,96.0,index
+Hope,2021,Housing,95.0,index
+Chilliwack,2021,Housing,96.0,index
+Harrison Hot Springs,2021,Housing,96.0,index
+Kent,2021,Housing,97.0,index
+Abbotsford,2021,Housing,93.0,index
+Mission,2021,Housing,95.0,index
+Langley Township,2021,Housing,96.0,index
+Langley City,2021,Housing,94.0,index
+Surrey,2021,Housing,91.0,index
+White Rock,2021,Housing,96.0,index
+Delta,2021,Housing,94.0,index
+Richmond,2021,Housing,93.0,index
+Vancouver,2021,Housing,94.0,index
+Burnaby,2021,Housing,92.0,index
+New Westminster,2021,Housing,92.0,index
+Coquitlam,2021,Housing,94.0,index
+Belcarra,2021,Housing,98.0,index
+Anmore,2021,Housing,96.0,index
+Port Coquitlam,2021,Housing,95.0,index
+Port Moody,2021,Housing,96.0,index
+North Vancouver District,2021,Housing,95.0,index
+North Vancouver City,2021,Housing,94.0,index
+West Vancouver,2021,Housing,95.0,index
+Bowen Island,2021,Housing,95.0,index
+Lions Bay,2021,Housing,96.0,index
+Pitt Meadows,2021,Housing,95.0,index
+Maple Ridge,2021,Housing,96.0,index
+North Saanich,2021,Housing,98.0,index
+Sidney,2021,Housing,97.0,index
+Central Saanich,2021,Housing,97.0,index
+Saanich,2021,Housing,96.0,index
+Oak Bay,2021,Housing,97.0,index
+Victoria,2021,Housing,95.0,index
+Esquimalt,2021,Housing,95.0,index
+Colwood,2021,Housing,97.0,index
+Metchosin,2021,Housing,96.0,index
+Langford,2021,Housing,97.0,index
+View Royal,2021,Housing,97.0,index
+Highlands,2021,Housing,97.0,index
+Sooke,2021,Housing,97.0,index
+North Cowichan,2021,Housing,96.0,index
+Duncan,2021,Housing,95.0,index
+Lake Cowichan,2021,Housing,96.0,index
+Ladysmith,2021,Housing,96.0,index
+Nanaimo,2021,Housing,96.0,index
+Lantzville,2021,Housing,95.0,index
+Parksville,2021,Housing,97.0,index
+Qualicum Beach,2021,Housing,99.0,index
+Port Alberni,2021,Housing,95.0,index
+Ucluelet,2021,Housing,94.0,index
+Gold River,2021,Housing,94.0,index
+Campbell River,2021,Housing,96.0,index
+Sayward,2021,Housing,98.0,index
+Comox,2021,Housing,97.0,index
+Courtenay,2021,Housing,96.0,index
+Cumberland,2021,Housing,97.0,index
+Powell River,2021,Housing,94.0,index
+Gibsons,2021,Housing,95.0,index
+Sechelt,2021,Housing,97.0,index
+Squamish,2021,Housing,95.0,index
+Pemberton,2021,Housing,97.0,index
+Whistler,2021,Housing,94.0,index
+Lillooet,2021,Housing,94.0,index
+Merritt,2021,Housing,95.0,index
+Ashcroft,2021,Housing,90.0,index
+Cache Creek,2021,Housing,93.0,index
+Clinton,2021,Housing,89.0,index
+Logan Lake,2021,Housing,97.0,index
+Kamloops,2021,Housing,96.0,index
+Chase,2021,Housing,95.0,index
+Kelowna,2021,Housing,97.0,index
+Lake Country,2021,Housing,96.0,index
+Peachland,2021,Housing,97.0,index
+Lumby,2021,Housing,95.0,index
+Coldstream,2021,Housing,96.0,index
+Vernon,2021,Housing,96.0,index
+Spallumcheen,2021,Housing,96.0,index
+Armstrong,2021,Housing,97.0,index
+Enderby,2021,Housing,96.0,index
+Golden,2021,Housing,93.0,index
+Revelstoke,2021,Housing,95.0,index
+Salmon Arm,2021,Housing,96.0,index
+Sicamous,2021,Housing,96.0,index
+One Hundred Mile House,2021,Housing,97.0,index
+Williams Lake,2021,Housing,94.0,index
+Quesnel,2021,Housing,94.0,index
+Alert Bay,2021,Housing,87.0,index
+Port McNeill,2021,Housing,95.0,index
+Port Alice,2021,Housing,92.0,index
+Port Hardy,2021,Housing,92.0,index
+Port Edward,2021,Housing,89.0,index
+Prince Rupert,2021,Housing,89.0,index
+Masset,2021,Housing,88.0,index
+Queen Charlotte,2021,Housing,89.0,index
+Port Clements,2021,Housing,91.0,index
+Kitimat,2021,Housing,92.0,index
+Terrace,2021,Housing,93.0,index
+New Hazelton,2021,Housing,88.0,index
+Stewart,2021,Housing,96.0,index
+Vanderhoof,2021,Housing,97.0,index
+Fraser Lake,2021,Housing,97.0,index
+Fort St. James,2021,Housing,93.0,index
+Burns Lake,2021,Housing,92.0,index
+Granisle,2021,Housing,90.0,index
+Houston,2021,Housing,95.0,index
+Telkwa,2021,Housing,93.0,index
+Smithers,2021,Housing,96.0,index
+Valemount,2021,Housing,95.0,index
+McBride,2021,Housing,93.0,index
+Prince George,2021,Housing,96.0,index
+Mackenzie,2021,Housing,96.0,index
+Tumbler Ridge,2021,Housing,98.0,index
+Pouce Coupe,2021,Housing,93.0,index
+Chetwynd,2021,Housing,95.0,index
+Dawson Creek,2021,Housing,93.0,index
+Hudson's Hope,2021,Housing,95.0,index
+Taylor,2021,Housing,94.0,index
+Fort St. John,2021,Housing,94.0,index
+Elkford,2021,Labour_Force,89.0,index
+Sparwood,2021,Labour_Force,89.0,index
+Fernie,2021,Labour_Force,89.0,index
+Cranbrook,2021,Labour_Force,87.0,index
+Kimberley,2021,Labour_Force,87.0,index
+Invermere,2021,Labour_Force,90.0,index
+Radium Hot Springs,2021,Labour_Force,85.0,index
+Canal Flats,2021,Labour_Force,83.0,index
+Creston,2021,Labour_Force,85.0,index
+Salmo,2021,Labour_Force,81.0,index
+Nelson,2021,Labour_Force,88.0,index
+Kaslo,2021,Labour_Force,85.0,index
+New Denver,2021,Labour_Force,77.0,index
+Castlegar,2021,Labour_Force,84.0,index
+Nakusp,2021,Labour_Force,83.0,index
+Fruitvale,2021,Labour_Force,87.0,index
+Montrose,2021,Labour_Force,84.0,index
+Trail,2021,Labour_Force,83.0,index
+Warfield,2021,Labour_Force,87.0,index
+Rossland,2021,Labour_Force,87.0,index
+Grand Forks,2021,Labour_Force,85.0,index
+Midway,2021,Labour_Force,87.0,index
+Greenwood,2021,Labour_Force,66.0,index
+Osoyoos,2021,Labour_Force,83.0,index
+Keremeos,2021,Labour_Force,81.0,index
+Oliver,2021,Labour_Force,85.0,index
+Princeton,2021,Labour_Force,82.0,index
+Summerland,2021,Labour_Force,85.0,index
+Penticton,2021,Labour_Force,85.0,index
+Hope,2021,Labour_Force,80.0,index
+Chilliwack,2021,Labour_Force,87.0,index
+Harrison Hot Springs,2021,Labour_Force,83.0,index
+Kent,2021,Labour_Force,85.0,index
+Abbotsford,2021,Labour_Force,87.0,index
+Mission,2021,Labour_Force,87.0,index
+Langley Township,2021,Labour_Force,89.0,index
+Langley City,2021,Labour_Force,88.0,index
+Surrey,2021,Labour_Force,86.0,index
+White Rock,2021,Labour_Force,86.0,index
+Delta,2021,Labour_Force,88.0,index
+Richmond,2021,Labour_Force,83.0,index
+Vancouver,2021,Labour_Force,87.0,index
+Burnaby,2021,Labour_Force,85.0,index
+New Westminster,2021,Labour_Force,88.0,index
+Coquitlam,2021,Labour_Force,86.0,index
+Belcarra,2021,Labour_Force,89.0,index
+Anmore,2021,Labour_Force,85.0,index
+Port Coquitlam,2021,Labour_Force,88.0,index
+Port Moody,2021,Labour_Force,89.0,index
+North Vancouver District,2021,Labour_Force,88.0,index
+North Vancouver City,2021,Labour_Force,89.0,index
+West Vancouver,2021,Labour_Force,81.0,index
+Bowen Island,2021,Labour_Force,89.0,index
+Lions Bay,2021,Labour_Force,91.0,index
+Pitt Meadows,2021,Labour_Force,89.0,index
+Maple Ridge,2021,Labour_Force,88.0,index
+North Saanich,2021,Labour_Force,87.0,index
+Sidney,2021,Labour_Force,87.0,index
+Central Saanich,2021,Labour_Force,89.0,index
+Saanich,2021,Labour_Force,87.0,index
+Oak Bay,2021,Labour_Force,87.0,index
+Victoria,2021,Labour_Force,88.0,index
+Esquimalt,2021,Labour_Force,87.0,index
+Colwood,2021,Labour_Force,89.0,index
+Metchosin,2021,Labour_Force,88.0,index
+Langford,2021,Labour_Force,90.0,index
+View Royal,2021,Labour_Force,89.0,index
+Highlands,2021,Labour_Force,88.0,index
+Sooke,2021,Labour_Force,86.0,index
+North Cowichan,2021,Labour_Force,86.0,index
+Duncan,2021,Labour_Force,83.0,index
+Lake Cowichan,2021,Labour_Force,81.0,index
+Ladysmith,2021,Labour_Force,85.0,index
+Nanaimo,2021,Labour_Force,86.0,index
+Lantzville,2021,Labour_Force,86.0,index
+Parksville,2021,Labour_Force,84.0,index
+Qualicum Beach,2021,Labour_Force,81.0,index
+Port Alberni,2021,Labour_Force,82.0,index
+Ucluelet,2021,Labour_Force,91.0,index
+Gold River,2021,Labour_Force,83.0,index
+Campbell River,2021,Labour_Force,84.0,index
+Sayward,2021,Labour_Force,77.0,index
+Comox,2021,Labour_Force,86.0,index
+Courtenay,2021,Labour_Force,85.0,index
+Cumberland,2021,Labour_Force,89.0,index
+Powell River,2021,Labour_Force,83.0,index
+Gibsons,2021,Labour_Force,86.0,index
+Sechelt,2021,Labour_Force,86.0,index
+Squamish,2021,Labour_Force,91.0,index
+Pemberton,2021,Labour_Force,93.0,index
+Whistler,2021,Labour_Force,86.0,index
+Lillooet,2021,Labour_Force,83.0,index
+Merritt,2021,Labour_Force,81.0,index
+Ashcroft,2021,Labour_Force,81.0,index
+Cache Creek,2021,Labour_Force,74.0,index
+Clinton,2021,Labour_Force,78.0,index
+Logan Lake,2021,Labour_Force,81.0,index
+Kamloops,2021,Labour_Force,87.0,index
+Chase,2021,Labour_Force,81.0,index
+Kelowna,2021,Labour_Force,88.0,index
+Lake Country,2021,Labour_Force,87.0,index
+Peachland,2021,Labour_Force,83.0,index
+Lumby,2021,Labour_Force,83.0,index
+Coldstream,2021,Labour_Force,87.0,index
+Vernon,2021,Labour_Force,85.0,index
+Spallumcheen,2021,Labour_Force,85.0,index
+Armstrong,2021,Labour_Force,88.0,index
+Enderby,2021,Labour_Force,83.0,index
+Golden,2021,Labour_Force,88.0,index
+Revelstoke,2021,Labour_Force,88.0,index
+Salmon Arm,2021,Labour_Force,86.0,index
+Sicamous,2021,Labour_Force,81.0,index
+One Hundred Mile House,2021,Labour_Force,78.0,index
+Williams Lake,2021,Labour_Force,85.0,index
+Quesnel,2021,Labour_Force,81.0,index
+Alert Bay,2021,Labour_Force,80.0,index
+Port McNeill,2021,Labour_Force,88.0,index
+Port Alice,2021,Labour_Force,77.0,index
+Port Hardy,2021,Labour_Force,84.0,index
+Port Edward,2021,Labour_Force,89.0,index
+Prince Rupert,2021,Labour_Force,86.0,index
+Masset,2021,Labour_Force,84.0,index
+Queen Charlotte,2021,Labour_Force,87.0,index
+Port Clements,2021,Labour_Force,84.0,index
+Kitimat,2021,Labour_Force,84.0,index
+Terrace,2021,Labour_Force,88.0,index
+New Hazelton,2021,Labour_Force,82.0,index
+Stewart,2021,Labour_Force,79.0,index
+Vanderhoof,2021,Labour_Force,86.0,index
+Fraser Lake,2021,Labour_Force,82.0,index
+Fort St. James,2021,Labour_Force,83.0,index
+Burns Lake,2021,Labour_Force,86.0,index
+Granisle,2021,Labour_Force,67.0,index
+Houston,2021,Labour_Force,85.0,index
+Telkwa,2021,Labour_Force,87.0,index
+Smithers,2021,Labour_Force,92.0,index
+Valemount,2021,Labour_Force,88.0,index
+McBride,2021,Labour_Force,83.0,index
+Prince George,2021,Labour_Force,86.0,index
+Mackenzie,2021,Labour_Force,86.0,index
+Tumbler Ridge,2021,Labour_Force,86.0,index
+Pouce Coupe,2021,Labour_Force,81.0,index
+Chetwynd,2021,Labour_Force,85.0,index
+Dawson Creek,2021,Labour_Force,86.0,index
+Hudson's Hope,2021,Labour_Force,87.0,index
+Taylor,2021,Labour_Force,85.0,index
+Fort St. John,2021,Labour_Force,88.0,index
+Elkford,2021,Population,2749.0,count
+Sparwood,2021,Population,4148.0,count
+Fernie,2021,Population,6320.0,count
+Cranbrook,2021,Population,20499.0,count
+Kimberley,2021,Population,8115.0,count
+Invermere,2021,Population,3917.0,count
+Radium Hot Springs,2021,Population,1339.0,count
+Canal Flats,2021,Population,802.0,count
+Creston,2021,Population,5583.0,count
+Salmo,2021,Population,1140.0,count
+Nelson,2021,Population,11106.0,count
+Kaslo,2021,Population,1049.0,count
+New Denver,2021,Population,487.0,count
+Castlegar,2021,Population,8338.0,count
+Nakusp,2021,Population,1589.0,count
+Fruitvale,2021,Population,1958.0,count
+Montrose,2021,Population,1013.0,count
+Trail,2021,Population,7920.0,count
+Warfield,2021,Population,1753.0,count
+Rossland,2021,Population,4140.0,count
+Grand Forks,2021,Population,4112.0,count
+Midway,2021,Population,651.0,count
+Greenwood,2021,Population,702.0,count
+Osoyoos,2021,Population,5556.0,count
+Keremeos,2021,Population,1608.0,count
+Oliver,2021,Population,5094.0,count
+Princeton,2021,Population,2894.0,count
+Summerland,2021,Population,12042.0,count
+Penticton,2021,Population,36885.0,count
+Hope,2021,Population,6686.0,count
+Chilliwack,2021,Population,93203.0,count
+Harrison Hot Springs,2021,Population,1905.0,count
+Kent,2021,Population,6300.0,count
+Abbotsford,2021,Population,153524.0,count
+Mission,2021,Population,41519.0,count
+Langley Township,2021,Population,132603.0,count
+Langley City,2021,Population,28963.0,count
+Surrey,2021,Population,568322.0,count
+White Rock,2021,Population,21939.0,count
+Delta,2021,Population,108455.0,count
+Richmond,2021,Population,209937.0,count
+Vancouver,2021,Population,662248.0,count
+Burnaby,2021,Population,249125.0,count
+New Westminster,2021,Population,78916.0,count
+Coquitlam,2021,Population,148625.0,count
+Belcarra,2021,Population,687.0,count
+Anmore,2021,Population,2356.0,count
+Port Coquitlam,2021,Population,61498.0,count
+Port Moody,2021,Population,33535.0,count
+North Vancouver District,2021,Population,88168.0,count
+North Vancouver City,2021,Population,58120.0,count
+West Vancouver,2021,Population,44122.0,count
+Bowen Island,2021,Population,4256.0,count
+Lions Bay,2021,Population,1390.0,count
+Pitt Meadows,2021,Population,19146.0,count
+Maple Ridge,2021,Population,90990.0,count
+North Saanich,2021,Population,12235.0,count
+Sidney,2021,Population,12318.0,count
+Central Saanich,2021,Population,17385.0,count
+Saanich,2021,Population,117735.0,count
+Oak Bay,2021,Population,17990.0,count
+Victoria,2021,Population,91867.0,count
+Esquimalt,2021,Population,17533.0,count
+Colwood,2021,Population,18961.0,count
+Metchosin,2021,Population,5067.0,count
+Langford,2021,Population,46584.0,count
+View Royal,2021,Population,11575.0,count
+Highlands,2021,Population,2482.0,count
+Sooke,2021,Population,15086.0,count
+North Cowichan,2021,Population,31990.0,count
+Duncan,2021,Population,5047.0,count
+Lake Cowichan,2021,Population,3325.0,count
+Ladysmith,2021,Population,8990.0,count
+Nanaimo,2021,Population,99863.0,count
+Lantzville,2021,Population,3817.0,count
+Parksville,2021,Population,13642.0,count
+Qualicum Beach,2021,Population,9303.0,count
+Port Alberni,2021,Population,18259.0,count
+Ucluelet,2021,Population,2066.0,count
+Gold River,2021,Population,1246.0,count
+Campbell River,2021,Population,35519.0,count
+Sayward,2021,Population,334.0,count
+Comox,2021,Population,14806.0,count
+Courtenay,2021,Population,28420.0,count
+Cumberland,2021,Population,4447.0,count
+Powell River,2021,Population,13943.0,count
+Gibsons,2021,Population,4758.0,count
+Sechelt,2021,Population,10847.0,count
+Squamish,2021,Population,23819.0,count
+Pemberton,2021,Population,3407.0,count
+Whistler,2021,Population,13982.0,count
+Lillooet,2021,Population,2302.0,count
+Merritt,2021,Population,7051.0,count
+Ashcroft,2021,Population,1670.0,count
+Cache Creek,2021,Population,969.0,count
+Clinton,2021,Population,568.0,count
+Logan Lake,2021,Population,2255.0,count
+Kamloops,2021,Population,97902.0,count
+Chase,2021,Population,2399.0,count
+Kelowna,2021,Population,144576.0,count
+Lake Country,2021,Population,15817.0,count
+Peachland,2021,Population,5789.0,count
+Lumby,2021,Population,2063.0,count
+Coldstream,2021,Population,11171.0,count
+Vernon,2021,Population,44519.0,count
+Spallumcheen,2021,Population,5307.0,count
+Armstrong,2021,Population,5323.0,count
+Enderby,2021,Population,3028.0,count
+Golden,2021,Population,3986.0,count
+Revelstoke,2021,Population,8275.0,count
+Salmon Arm,2021,Population,19432.0,count
+Sicamous,2021,Population,2613.0,count
+One Hundred Mile House,2021,Population,1928.0,count
+Williams Lake,2021,Population,10947.0,count
+Quesnel,2021,Population,9889.0,count
+Alert Bay,2021,Population,449.0,count
+Port McNeill,2021,Population,2356.0,count
+Port Alice,2021,Population,739.0,count
+Port Hardy,2021,Population,3902.0,count
+Port Edward,2021,Population,470.0,count
+Prince Rupert,2021,Population,12300.0,count
+Masset,2021,Population,838.0,count
+Queen Charlotte,2021,Population,964.0,count
+Port Clements,2021,Population,340.0,count
+Kitimat,2021,Population,8236.0,count
+Terrace,2021,Population,12017.0,count
+New Hazelton,2021,Population,602.0,count
+Stewart,2021,Population,517.0,count
+Vanderhoof,2021,Population,4346.0,count
+Fraser Lake,2021,Population,965.0,count
+Fort St. James,2021,Population,1386.0,count
+Burns Lake,2021,Population,1659.0,count
+Granisle,2021,Population,337.0,count
+Houston,2021,Population,3052.0,count
+Telkwa,2021,Population,1474.0,count
+Smithers,2021,Population,5378.0,count
+Valemount,2021,Population,1052.0,count
+McBride,2021,Population,588.0,count
+Prince George,2021,Population,76708.0,count
+Mackenzie,2021,Population,3281.0,count
+Tumbler Ridge,2021,Population,2399.0,count
+Pouce Coupe,2021,Population,762.0,count
+Chetwynd,2021,Population,2302.0,count
+Dawson Creek,2021,Population,12323.0,count
+Hudson's Hope,2021,Population,841.0,count
+Taylor,2021,Population,1317.0,count
+Fort St. John,2021,Population,21465.0,count
+Elkford,2021,Income_Percent_Change,8.75,percent
+Sparwood,2021,Income_Percent_Change,13.157894736842104,percent
+Fernie,2021,Income_Percent_Change,14.666666666666666,percent
+Cranbrook,2021,Income_Percent_Change,11.11111111111111,percent
+Kimberley,2021,Income_Percent_Change,12.676056338028168,percent
+Invermere,2021,Income_Percent_Change,10.95890410958904,percent
+Radium Hot Springs,2021,Income_Percent_Change,6.329113924050633,percent
+Canal Flats,2021,Income_Percent_Change,4.10958904109589,percent
+Creston,2021,Income_Percent_Change,11.76470588235294,percent
+Salmo,2021,Income_Percent_Change,20.967741935483872,percent
+Nelson,2021,Income_Percent_Change,14.285714285714285,percent
+Kaslo,2021,Income_Percent_Change,12.5,percent
+New Denver,2021,Income_Percent_Change,9.836065573770492,percent
+Castlegar,2021,Income_Percent_Change,8.108108108108109,percent
+Nakusp,2021,Income_Percent_Change,11.428571428571429,percent
+Fruitvale,2021,Income_Percent_Change,18.571428571428573,percent
+Montrose,2021,Income_Percent_Change,5.263157894736842,percent
+Trail,2021,Income_Percent_Change,9.722222222222223,percent
+Warfield,2021,Income_Percent_Change,12.32876712328767,percent
+Rossland,2021,Income_Percent_Change,12.987012987012985,percent
+Grand Forks,2021,Income_Percent_Change,11.940298507462686,percent
+Midway,2021,Income_Percent_Change,4.225352112676056,percent
+Greenwood,2021,Income_Percent_Change,3.0303030303030303,percent
+Osoyoos,2021,Income_Percent_Change,9.859154929577464,percent
+Keremeos,2021,Income_Percent_Change,18.75,percent
+Oliver,2021,Income_Percent_Change,13.043478260869565,percent
+Princeton,2021,Income_Percent_Change,15.942028985507244,percent
+Summerland,2021,Income_Percent_Change,10.95890410958904,percent
+Penticton,2021,Income_Percent_Change,12.676056338028168,percent
+Hope,2021,Income_Percent_Change,11.594202898550725,percent
+Chilliwack,2021,Income_Percent_Change,9.859154929577464,percent
+Harrison Hot Springs,2021,Income_Percent_Change,17.391304347826086,percent
+Kent,2021,Income_Percent_Change,14.705882352941178,percent
+Abbotsford,2021,Income_Percent_Change,10.0,percent
+Mission,2021,Income_Percent_Change,11.428571428571429,percent
+Langley Township,2021,Income_Percent_Change,7.792207792207792,percent
+Langley City,2021,Income_Percent_Change,9.722222222222223,percent
+Surrey,2021,Income_Percent_Change,9.859154929577464,percent
+White Rock,2021,Income_Percent_Change,9.876543209876543,percent
+Delta,2021,Income_Percent_Change,7.792207792207792,percent
+Richmond,2021,Income_Percent_Change,9.859154929577464,percent
+Vancouver,2021,Income_Percent_Change,12.82051282051282,percent
+Burnaby,2021,Income_Percent_Change,12.5,percent
+New Westminster,2021,Income_Percent_Change,9.210526315789473,percent
+Coquitlam,2021,Income_Percent_Change,9.45945945945946,percent
+Belcarra,2021,Income_Percent_Change,0.0,percent
+Anmore,2021,Income_Percent_Change,8.045977011494253,percent
+Port Coquitlam,2021,Income_Percent_Change,9.333333333333334,percent
+Port Moody,2021,Income_Percent_Change,12.658227848101266,percent
+North Vancouver District,2021,Income_Percent_Change,10.714285714285714,percent
+North Vancouver City,2021,Income_Percent_Change,12.987012987012985,percent
+West Vancouver,2021,Income_Percent_Change,1.0101010101010102,percent
+Bowen Island,2021,Income_Percent_Change,17.28395061728395,percent
+Lions Bay,2021,Income_Percent_Change,10.227272727272728,percent
+Pitt Meadows,2021,Income_Percent_Change,10.666666666666668,percent
+Maple Ridge,2021,Income_Percent_Change,10.81081081081081,percent
+North Saanich,2021,Income_Percent_Change,8.045977011494253,percent
+Sidney,2021,Income_Percent_Change,12.0,percent
+Central Saanich,2021,Income_Percent_Change,10.126582278481013,percent
+Saanich,2021,Income_Percent_Change,8.974358974358974,percent
+Oak Bay,2021,Income_Percent_Change,3.260869565217391,percent
+Victoria,2021,Income_Percent_Change,13.333333333333334,percent
+Esquimalt,2021,Income_Percent_Change,10.81081081081081,percent
+Colwood,2021,Income_Percent_Change,9.333333333333334,percent
+Metchosin,2021,Income_Percent_Change,6.097560975609756,percent
+Langford,2021,Income_Percent_Change,9.333333333333334,percent
+View Royal,2021,Income_Percent_Change,7.59493670886076,percent
+Highlands,2021,Income_Percent_Change,7.59493670886076,percent
+Sooke,2021,Income_Percent_Change,11.11111111111111,percent
+North Cowichan,2021,Income_Percent_Change,9.58904109589041,percent
+Duncan,2021,Income_Percent_Change,13.846153846153847,percent
+Lake Cowichan,2021,Income_Percent_Change,13.23529411764706,percent
+Ladysmith,2021,Income_Percent_Change,11.11111111111111,percent
+Nanaimo,2021,Income_Percent_Change,11.267605633802818,percent
+Lantzville,2021,Income_Percent_Change,9.090909090909092,percent
+Parksville,2021,Income_Percent_Change,11.267605633802818,percent
+Qualicum Beach,2021,Income_Percent_Change,12.0,percent
+Port Alberni,2021,Income_Percent_Change,8.695652173913043,percent
+Ucluelet,2021,Income_Percent_Change,9.859154929577464,percent
+Gold River,2021,Income_Percent_Change,6.8493150684931505,percent
+Campbell River,2021,Income_Percent_Change,11.11111111111111,percent
+Sayward,2021,Income_Percent_Change,17.46031746031746,percent
+Comox,2021,Income_Percent_Change,6.578947368421052,percent
+Courtenay,2021,Income_Percent_Change,12.857142857142856,percent
+Cumberland,2021,Income_Percent_Change,19.696969696969695,percent
+Powell River,2021,Income_Percent_Change,8.333333333333332,percent
+Gibsons,2021,Income_Percent_Change,10.81081081081081,percent
+Sechelt,2021,Income_Percent_Change,12.32876712328767,percent
+Squamish,2021,Income_Percent_Change,14.666666666666666,percent
+Pemberton,2021,Income_Percent_Change,12.32876712328767,percent
+Whistler,2021,Income_Percent_Change,7.4074074074074066,percent
+Lillooet,2021,Income_Percent_Change,11.267605633802818,percent
+Merritt,2021,Income_Percent_Change,10.0,percent
+Ashcroft,2021,Income_Percent_Change,8.333333333333332,percent
+Cache Creek,2021,Income_Percent_Change,7.352941176470589,percent
+Clinton,2021,Income_Percent_Change,12.307692307692308,percent
+Logan Lake,2021,Income_Percent_Change,5.263157894736842,percent
+Kamloops,2021,Income_Percent_Change,10.81081081081081,percent
+Chase,2021,Income_Percent_Change,7.042253521126761,percent
+Kelowna,2021,Income_Percent_Change,12.162162162162163,percent
+Lake Country,2021,Income_Percent_Change,16.216216216216218,percent
+Peachland,2021,Income_Percent_Change,16.901408450704224,percent
+Lumby,2021,Income_Percent_Change,13.432835820895523,percent
+Coldstream,2021,Income_Percent_Change,7.59493670886076,percent
+Vernon,2021,Income_Percent_Change,12.676056338028168,percent
+Spallumcheen,2021,Income_Percent_Change,9.859154929577464,percent
+Armstrong,2021,Income_Percent_Change,13.043478260869565,percent
+Enderby,2021,Income_Percent_Change,12.307692307692308,percent
+Golden,2021,Income_Percent_Change,12.5,percent
+Revelstoke,2021,Income_Percent_Change,12.5,percent
+Salmon Arm,2021,Income_Percent_Change,12.857142857142856,percent
+Sicamous,2021,Income_Percent_Change,4.054054054054054,percent
+One Hundred Mile House,2021,Income_Percent_Change,8.955223880597014,percent
+Williams Lake,2021,Income_Percent_Change,9.722222222222223,percent
+Quesnel,2021,Income_Percent_Change,5.405405405405405,percent
+Alert Bay,2021,Income_Percent_Change,5.633802816901409,percent
+Port McNeill,2021,Income_Percent_Change,5.263157894736842,percent
+Port Alice,2021,Income_Percent_Change,14.492753623188406,percent
+Port Hardy,2021,Income_Percent_Change,6.944444444444445,percent
+Port Edward,2021,Income_Percent_Change,12.32876712328767,percent
+Prince Rupert,2021,Income_Percent_Change,20.0,percent
+Masset,2021,Income_Percent_Change,14.492753623188406,percent
+Queen Charlotte,2021,Income_Percent_Change,7.042253521126761,percent
+Port Clements,2021,Income_Percent_Change,15.492957746478872,percent
+Kitimat,2021,Income_Percent_Change,11.39240506329114,percent
+Terrace,2021,Income_Percent_Change,14.084507042253522,percent
+New Hazelton,2021,Income_Percent_Change,12.121212121212121,percent
+Stewart,2021,Income_Percent_Change,12.0,percent
+Vanderhoof,2021,Income_Percent_Change,9.722222222222223,percent
+Fraser Lake,2021,Income_Percent_Change,-5.813953488372093,percent
+Fort St. James,2021,Income_Percent_Change,10.526315789473683,percent
+Burns Lake,2021,Income_Percent_Change,24.615384615384617,percent
+Granisle,2021,Income_Percent_Change,7.042253521126761,percent
+Houston,2021,Income_Percent_Change,6.756756756756757,percent
+Telkwa,2021,Income_Percent_Change,10.0,percent
+Smithers,2021,Income_Percent_Change,14.084507042253522,percent
+Valemount,2021,Income_Percent_Change,10.0,percent
+McBride,2021,Income_Percent_Change,11.940298507462686,percent
+Prince George,2021,Income_Percent_Change,9.333333333333334,percent
+Mackenzie,2021,Income_Percent_Change,2.5,percent
+Tumbler Ridge,2021,Income_Percent_Change,11.688311688311687,percent
+Pouce Coupe,2021,Income_Percent_Change,12.0,percent
+Chetwynd,2021,Income_Percent_Change,11.842105263157894,percent
+Dawson Creek,2021,Income_Percent_Change,9.45945945945946,percent
+Hudson's Hope,2021,Income_Percent_Change,9.333333333333334,percent
+Taylor,2021,Income_Percent_Change,12.32876712328767,percent
+Fort St. John,2021,Income_Percent_Change,9.090909090909092,percent
+Elkford,2021,Education_Percent_Change,13.793103448275861,percent
+Sparwood,2021,Education_Percent_Change,14.545454545454545,percent
+Fernie,2021,Education_Percent_Change,23.333333333333332,percent
+Cranbrook,2021,Education_Percent_Change,10.344827586206897,percent
+Kimberley,2021,Education_Percent_Change,16.666666666666664,percent
+Invermere,2021,Education_Percent_Change,4.545454545454546,percent
+Radium Hot Springs,2021,Education_Percent_Change,21.428571428571427,percent
+Canal Flats,2021,Education_Percent_Change,32.5,percent
+Creston,2021,Education_Percent_Change,17.647058823529413,percent
+Salmo,2021,Education_Percent_Change,22.916666666666664,percent
+Nelson,2021,Education_Percent_Change,11.940298507462686,percent
+Kaslo,2021,Education_Percent_Change,16.94915254237288,percent
+New Denver,2021,Education_Percent_Change,11.538461538461538,percent
+Castlegar,2021,Education_Percent_Change,13.793103448275861,percent
+Nakusp,2021,Education_Percent_Change,18.181818181818183,percent
+Fruitvale,2021,Education_Percent_Change,10.909090909090908,percent
+Montrose,2021,Education_Percent_Change,9.67741935483871,percent
+Trail,2021,Education_Percent_Change,10.526315789473683,percent
+Warfield,2021,Education_Percent_Change,9.375,percent
+Rossland,2021,Education_Percent_Change,12.676056338028168,percent
+Grand Forks,2021,Education_Percent_Change,13.461538461538462,percent
+Midway,2021,Education_Percent_Change,0.0,percent
+Greenwood,2021,Education_Percent_Change,7.8431372549019605,percent
+Osoyoos,2021,Education_Percent_Change,14.814814814814813,percent
+Keremeos,2021,Education_Percent_Change,14.893617021276595,percent
+Oliver,2021,Education_Percent_Change,11.11111111111111,percent
+Princeton,2021,Education_Percent_Change,18.367346938775512,percent
+Summerland,2021,Education_Percent_Change,9.836065573770492,percent
+Penticton,2021,Education_Percent_Change,14.285714285714285,percent
+Hope,2021,Education_Percent_Change,7.4074074074074066,percent
+Chilliwack,2021,Education_Percent_Change,12.280701754385964,percent
+Harrison Hot Springs,2021,Education_Percent_Change,8.064516129032258,percent
+Kent,2021,Education_Percent_Change,14.545454545454545,percent
+Abbotsford,2021,Education_Percent_Change,10.526315789473683,percent
+Mission,2021,Education_Percent_Change,8.771929824561402,percent
+Langley Township,2021,Education_Percent_Change,9.523809523809524,percent
+Langley City,2021,Education_Percent_Change,10.344827586206897,percent
+Surrey,2021,Education_Percent_Change,13.333333333333334,percent
+White Rock,2021,Education_Percent_Change,9.090909090909092,percent
+Delta,2021,Education_Percent_Change,7.6923076923076925,percent
+Richmond,2021,Education_Percent_Change,8.823529411764707,percent
+Vancouver,2021,Education_Percent_Change,11.594202898550725,percent
+Burnaby,2021,Education_Percent_Change,11.940298507462686,percent
+New Westminster,2021,Education_Percent_Change,13.846153846153847,percent
+Coquitlam,2021,Education_Percent_Change,11.76470588235294,percent
+Belcarra,2021,Education_Percent_Change,1.3513513513513513,percent
+Anmore,2021,Education_Percent_Change,6.944444444444445,percent
+Port Coquitlam,2021,Education_Percent_Change,10.9375,percent
+Port Moody,2021,Education_Percent_Change,8.21917808219178,percent
+North Vancouver District,2021,Education_Percent_Change,8.0,percent
+North Vancouver City,2021,Education_Percent_Change,11.267605633802818,percent
+West Vancouver,2021,Education_Percent_Change,5.063291139240507,percent
+Bowen Island,2021,Education_Percent_Change,5.194805194805195,percent
+Lions Bay,2021,Education_Percent_Change,5.194805194805195,percent
+Pitt Meadows,2021,Education_Percent_Change,9.67741935483871,percent
+Maple Ridge,2021,Education_Percent_Change,11.475409836065573,percent
+North Saanich,2021,Education_Percent_Change,8.450704225352112,percent
+Sidney,2021,Education_Percent_Change,11.11111111111111,percent
+Central Saanich,2021,Education_Percent_Change,7.246376811594203,percent
+Saanich,2021,Education_Percent_Change,10.144927536231885,percent
+Oak Bay,2021,Education_Percent_Change,5.0,percent
+Victoria,2021,Education_Percent_Change,11.428571428571429,percent
+Esquimalt,2021,Education_Percent_Change,12.903225806451612,percent
+Colwood,2021,Education_Percent_Change,9.523809523809524,percent
+Metchosin,2021,Education_Percent_Change,1.4705882352941175,percent
+Langford,2021,Education_Percent_Change,11.29032258064516,percent
+View Royal,2021,Education_Percent_Change,10.76923076923077,percent
+Highlands,2021,Education_Percent_Change,0.0,percent
+Sooke,2021,Education_Percent_Change,11.864406779661017,percent
+North Cowichan,2021,Education_Percent_Change,10.16949152542373,percent
+Duncan,2021,Education_Percent_Change,19.607843137254903,percent
+Lake Cowichan,2021,Education_Percent_Change,20.0,percent
+Ladysmith,2021,Education_Percent_Change,17.543859649122805,percent
+Nanaimo,2021,Education_Percent_Change,9.67741935483871,percent
+Lantzville,2021,Education_Percent_Change,1.4925373134328357,percent
+Parksville,2021,Education_Percent_Change,11.864406779661017,percent
+Qualicum Beach,2021,Education_Percent_Change,10.76923076923077,percent
+Port Alberni,2021,Education_Percent_Change,11.538461538461538,percent
+Ucluelet,2021,Education_Percent_Change,23.728813559322035,percent
+Gold River,2021,Education_Percent_Change,1.7857142857142856,percent
+Campbell River,2021,Education_Percent_Change,14.285714285714285,percent
+Sayward,2021,Education_Percent_Change,9.615384615384617,percent
+Comox,2021,Education_Percent_Change,10.9375,percent
+Courtenay,2021,Education_Percent_Change,15.517241379310345,percent
+Cumberland,2021,Education_Percent_Change,23.214285714285715,percent
+Powell River,2021,Education_Percent_Change,10.526315789473683,percent
+Gibsons,2021,Education_Percent_Change,15.873015873015872,percent
+Sechelt,2021,Education_Percent_Change,11.29032258064516,percent
+Squamish,2021,Education_Percent_Change,20.967741935483872,percent
+Pemberton,2021,Education_Percent_Change,8.695652173913043,percent
+Whistler,2021,Education_Percent_Change,5.333333333333334,percent
+Lillooet,2021,Education_Percent_Change,7.2727272727272725,percent
+Merritt,2021,Education_Percent_Change,15.686274509803921,percent
+Ashcroft,2021,Education_Percent_Change,12.0,percent
+Cache Creek,2021,Education_Percent_Change,44.73684210526316,percent
+Clinton,2021,Education_Percent_Change,38.46153846153847,percent
+Logan Lake,2021,Education_Percent_Change,17.307692307692307,percent
+Kamloops,2021,Education_Percent_Change,13.333333333333334,percent
+Chase,2021,Education_Percent_Change,19.148936170212767,percent
+Kelowna,2021,Education_Percent_Change,14.754098360655737,percent
+Lake Country,2021,Education_Percent_Change,13.114754098360656,percent
+Peachland,2021,Education_Percent_Change,8.19672131147541,percent
+Lumby,2021,Education_Percent_Change,11.538461538461538,percent
+Coldstream,2021,Education_Percent_Change,10.9375,percent
+Vernon,2021,Education_Percent_Change,12.068965517241379,percent
+Spallumcheen,2021,Education_Percent_Change,5.263157894736842,percent
+Armstrong,2021,Education_Percent_Change,14.814814814814813,percent
+Enderby,2021,Education_Percent_Change,18.367346938775512,percent
+Golden,2021,Education_Percent_Change,17.24137931034483,percent
+Revelstoke,2021,Education_Percent_Change,22.807017543859647,percent
+Salmon Arm,2021,Education_Percent_Change,13.793103448275861,percent
+Sicamous,2021,Education_Percent_Change,6.0,percent
+One Hundred Mile House,2021,Education_Percent_Change,0.0,percent
+Williams Lake,2021,Education_Percent_Change,7.2727272727272725,percent
+Quesnel,2021,Education_Percent_Change,1.7857142857142856,percent
+Alert Bay,2021,Education_Percent_Change,25.925925925925924,percent
+Port McNeill,2021,Education_Percent_Change,3.389830508474576,percent
+Port Alice,2021,Education_Percent_Change,17.647058823529413,percent
+Port Hardy,2021,Education_Percent_Change,7.547169811320755,percent
+Port Edward,2021,Education_Percent_Change,-1.9230769230769231,percent
+Prince Rupert,2021,Education_Percent_Change,13.461538461538462,percent
+Masset,2021,Education_Percent_Change,15.384615384615385,percent
+Queen Charlotte,2021,Education_Percent_Change,-4.477611940298507,percent
+Port Clements,2021,Education_Percent_Change,10.0,percent
+Kitimat,2021,Education_Percent_Change,10.909090909090908,percent
+Terrace,2021,Education_Percent_Change,13.793103448275861,percent
+New Hazelton,2021,Education_Percent_Change,-5.555555555555555,percent
+Stewart,2021,Education_Percent_Change,-8.771929824561402,percent
+Vanderhoof,2021,Education_Percent_Change,15.09433962264151,percent
+Fraser Lake,2021,Education_Percent_Change,3.8461538461538463,percent
+Fort St. James,2021,Education_Percent_Change,7.017543859649122,percent
+Burns Lake,2021,Education_Percent_Change,32.6530612244898,percent
+Granisle,2021,Education_Percent_Change,-20.33898305084746,percent
+Houston,2021,Education_Percent_Change,9.433962264150944,percent
+Telkwa,2021,Education_Percent_Change,13.793103448275861,percent
+Smithers,2021,Education_Percent_Change,15.517241379310345,percent
+Valemount,2021,Education_Percent_Change,18.51851851851852,percent
+McBride,2021,Education_Percent_Change,9.25925925925926,percent
+Prince George,2021,Education_Percent_Change,10.344827586206897,percent
+Mackenzie,2021,Education_Percent_Change,7.017543859649122,percent
+Tumbler Ridge,2021,Education_Percent_Change,12.962962962962962,percent
+Pouce Coupe,2021,Education_Percent_Change,36.84210526315789,percent
+Chetwynd,2021,Education_Percent_Change,1.7543859649122806,percent
+Dawson Creek,2021,Education_Percent_Change,11.320754716981133,percent
+Hudson's Hope,2021,Education_Percent_Change,1.7543859649122806,percent
+Taylor,2021,Education_Percent_Change,7.6923076923076925,percent
+Fort St. John,2021,Education_Percent_Change,12.5,percent
+Elkford,2021,Housing_Percent_Change,1.0416666666666665,percent
+Sparwood,2021,Housing_Percent_Change,3.1914893617021276,percent
+Fernie,2021,Housing_Percent_Change,-1.0526315789473684,percent
+Cranbrook,2021,Housing_Percent_Change,1.0526315789473684,percent
+Kimberley,2021,Housing_Percent_Change,0.0,percent
+Invermere,2021,Housing_Percent_Change,-1.0416666666666665,percent
+Radium Hot Springs,2021,Housing_Percent_Change,-1.0204081632653061,percent
+Canal Flats,2021,Housing_Percent_Change,13.095238095238097,percent
+Creston,2021,Housing_Percent_Change,0.0,percent
+Salmo,2021,Housing_Percent_Change,9.30232558139535,percent
+Nelson,2021,Housing_Percent_Change,1.0638297872340425,percent
+Kaslo,2021,Housing_Percent_Change,2.1739130434782608,percent
+New Denver,2021,Housing_Percent_Change,3.3707865168539324,percent
+Castlegar,2021,Housing_Percent_Change,0.0,percent
+Nakusp,2021,Housing_Percent_Change,2.1739130434782608,percent
+Fruitvale,2021,Housing_Percent_Change,5.319148936170213,percent
+Montrose,2021,Housing_Percent_Change,0.0,percent
+Trail,2021,Housing_Percent_Change,0.0,percent
+Warfield,2021,Housing_Percent_Change,-4.123711340206185,percent
+Rossland,2021,Housing_Percent_Change,4.3478260869565215,percent
+Grand Forks,2021,Housing_Percent_Change,3.225806451612903,percent
+Midway,2021,Housing_Percent_Change,4.301075268817205,percent
+Greenwood,2021,Housing_Percent_Change,3.296703296703297,percent
+Osoyoos,2021,Housing_Percent_Change,3.1578947368421053,percent
+Keremeos,2021,Housing_Percent_Change,-2.0408163265306123,percent
+Oliver,2021,Housing_Percent_Change,0.0,percent
+Princeton,2021,Housing_Percent_Change,1.0638297872340425,percent
+Summerland,2021,Housing_Percent_Change,0.0,percent
+Penticton,2021,Housing_Percent_Change,0.0,percent
+Hope,2021,Housing_Percent_Change,1.0638297872340425,percent
+Chilliwack,2021,Housing_Percent_Change,0.0,percent
+Harrison Hot Springs,2021,Housing_Percent_Change,-1.0309278350515463,percent
+Kent,2021,Housing_Percent_Change,2.1052631578947367,percent
+Abbotsford,2021,Housing_Percent_Change,-2.1052631578947367,percent
+Mission,2021,Housing_Percent_Change,0.0,percent
+Langley Township,2021,Housing_Percent_Change,-1.0309278350515463,percent
+Langley City,2021,Housing_Percent_Change,-1.0526315789473684,percent
+Surrey,2021,Housing_Percent_Change,-3.1914893617021276,percent
+White Rock,2021,Housing_Percent_Change,0.0,percent
+Delta,2021,Housing_Percent_Change,-2.083333333333333,percent
+Richmond,2021,Housing_Percent_Change,-1.0638297872340425,percent
+Vancouver,2021,Housing_Percent_Change,1.0752688172043012,percent
+Burnaby,2021,Housing_Percent_Change,-1.0752688172043012,percent
+New Westminster,2021,Housing_Percent_Change,-1.0752688172043012,percent
+Coquitlam,2021,Housing_Percent_Change,-1.0526315789473684,percent
+Belcarra,2021,Housing_Percent_Change,0.0,percent
+Anmore,2021,Housing_Percent_Change,-1.0309278350515463,percent
+Port Coquitlam,2021,Housing_Percent_Change,0.0,percent
+Port Moody,2021,Housing_Percent_Change,-1.0309278350515463,percent
+North Vancouver District,2021,Housing_Percent_Change,-1.0416666666666665,percent
+North Vancouver City,2021,Housing_Percent_Change,1.0752688172043012,percent
+West Vancouver,2021,Housing_Percent_Change,-1.0416666666666665,percent
+Bowen Island,2021,Housing_Percent_Change,4.395604395604396,percent
+Lions Bay,2021,Housing_Percent_Change,3.225806451612903,percent
+Pitt Meadows,2021,Housing_Percent_Change,-2.0618556701030926,percent
+Maple Ridge,2021,Housing_Percent_Change,-1.0309278350515463,percent
+North Saanich,2021,Housing_Percent_Change,1.0309278350515463,percent
+Sidney,2021,Housing_Percent_Change,-1.0204081632653061,percent
+Central Saanich,2021,Housing_Percent_Change,-1.0204081632653061,percent
+Saanich,2021,Housing_Percent_Change,-1.0309278350515463,percent
+Oak Bay,2021,Housing_Percent_Change,0.0,percent
+Victoria,2021,Housing_Percent_Change,0.0,percent
+Esquimalt,2021,Housing_Percent_Change,-1.0416666666666665,percent
+Colwood,2021,Housing_Percent_Change,0.0,percent
+Metchosin,2021,Housing_Percent_Change,0.0,percent
+Langford,2021,Housing_Percent_Change,2.1052631578947367,percent
+View Royal,2021,Housing_Percent_Change,-1.0204081632653061,percent
+Highlands,2021,Housing_Percent_Change,-2.0202020202020203,percent
+Sooke,2021,Housing_Percent_Change,2.1052631578947367,percent
+North Cowichan,2021,Housing_Percent_Change,0.0,percent
+Duncan,2021,Housing_Percent_Change,4.395604395604396,percent
+Lake Cowichan,2021,Housing_Percent_Change,2.127659574468085,percent
+Ladysmith,2021,Housing_Percent_Change,1.0526315789473684,percent
+Nanaimo,2021,Housing_Percent_Change,0.0,percent
+Lantzville,2021,Housing_Percent_Change,-1.0416666666666665,percent
+Parksville,2021,Housing_Percent_Change,0.0,percent
+Qualicum Beach,2021,Housing_Percent_Change,2.0618556701030926,percent
+Port Alberni,2021,Housing_Percent_Change,2.1505376344086025,percent
+Ucluelet,2021,Housing_Percent_Change,4.444444444444445,percent
+Gold River,2021,Housing_Percent_Change,2.1739130434782608,percent
+Campbell River,2021,Housing_Percent_Change,0.0,percent
+Sayward,2021,Housing_Percent_Change,8.88888888888889,percent
+Comox,2021,Housing_Percent_Change,0.0,percent
+Courtenay,2021,Housing_Percent_Change,0.0,percent
+Cumberland,2021,Housing_Percent_Change,2.1052631578947367,percent
+Powell River,2021,Housing_Percent_Change,-1.0526315789473684,percent
+Gibsons,2021,Housing_Percent_Change,-1.0416666666666665,percent
+Sechelt,2021,Housing_Percent_Change,1.0416666666666665,percent
+Squamish,2021,Housing_Percent_Change,-1.0416666666666665,percent
+Pemberton,2021,Housing_Percent_Change,-1.0204081632653061,percent
+Whistler,2021,Housing_Percent_Change,-2.083333333333333,percent
+Lillooet,2021,Housing_Percent_Change,-1.0526315789473684,percent
+Merritt,2021,Housing_Percent_Change,3.260869565217391,percent
+Ashcroft,2021,Housing_Percent_Change,-1.098901098901099,percent
+Cache Creek,2021,Housing_Percent_Change,2.197802197802198,percent
+Clinton,2021,Housing_Percent_Change,2.2988505747126435,percent
+Logan Lake,2021,Housing_Percent_Change,0.0,percent
+Kamloops,2021,Housing_Percent_Change,0.0,percent
+Chase,2021,Housing_Percent_Change,0.0,percent
+Kelowna,2021,Housing_Percent_Change,0.0,percent
+Lake Country,2021,Housing_Percent_Change,-1.0309278350515463,percent
+Peachland,2021,Housing_Percent_Change,0.0,percent
+Lumby,2021,Housing_Percent_Change,-3.061224489795918,percent
+Coldstream,2021,Housing_Percent_Change,-1.0309278350515463,percent
+Vernon,2021,Housing_Percent_Change,0.0,percent
+Spallumcheen,2021,Housing_Percent_Change,0.0,percent
+Armstrong,2021,Housing_Percent_Change,0.0,percent
+Enderby,2021,Housing_Percent_Change,0.0,percent
+Golden,2021,Housing_Percent_Change,-1.0638297872340425,percent
+Revelstoke,2021,Housing_Percent_Change,-2.0618556701030926,percent
+Salmon Arm,2021,Housing_Percent_Change,1.0526315789473684,percent
+Sicamous,2021,Housing_Percent_Change,-1.0309278350515463,percent
+One Hundred Mile House,2021,Housing_Percent_Change,7.777777777777778,percent
+Williams Lake,2021,Housing_Percent_Change,-2.083333333333333,percent
+Quesnel,2021,Housing_Percent_Change,-1.0526315789473684,percent
+Alert Bay,2021,Housing_Percent_Change,-3.3333333333333335,percent
+Port McNeill,2021,Housing_Percent_Change,-2.0618556701030926,percent
+Port Alice,2021,Housing_Percent_Change,-4.166666666666666,percent
+Port Hardy,2021,Housing_Percent_Change,0.0,percent
+Port Edward,2021,Housing_Percent_Change,5.952380952380952,percent
+Prince Rupert,2021,Housing_Percent_Change,-5.319148936170213,percent
+Masset,2021,Housing_Percent_Change,-1.1235955056179776,percent
+Queen Charlotte,2021,Housing_Percent_Change,-1.1111111111111112,percent
+Port Clements,2021,Housing_Percent_Change,5.813953488372093,percent
+Kitimat,2021,Housing_Percent_Change,-3.1578947368421053,percent
+Terrace,2021,Housing_Percent_Change,1.0869565217391304,percent
+New Hazelton,2021,Housing_Percent_Change,-1.1235955056179776,percent
+Stewart,2021,Housing_Percent_Change,-2.0408163265306123,percent
+Vanderhoof,2021,Housing_Percent_Change,2.1052631578947367,percent
+Fraser Lake,2021,Housing_Percent_Change,2.1052631578947367,percent
+Fort St. James,2021,Housing_Percent_Change,-5.1020408163265305,percent
+Burns Lake,2021,Housing_Percent_Change,6.976744186046512,percent
+Granisle,2021,Housing_Percent_Change,-4.25531914893617,percent
+Houston,2021,Housing_Percent_Change,0.0,percent
+Telkwa,2021,Housing_Percent_Change,0.0,percent
+Smithers,2021,Housing_Percent_Change,0.0,percent
+Valemount,2021,Housing_Percent_Change,4.395604395604396,percent
+McBride,2021,Housing_Percent_Change,9.411764705882353,percent
+Prince George,2021,Housing_Percent_Change,1.0526315789473684,percent
+Mackenzie,2021,Housing_Percent_Change,2.127659574468085,percent
+Tumbler Ridge,2021,Housing_Percent_Change,2.083333333333333,percent
+Pouce Coupe,2021,Housing_Percent_Change,1.0869565217391304,percent
+Chetwynd,2021,Housing_Percent_Change,2.1505376344086025,percent
+Dawson Creek,2021,Housing_Percent_Change,-1.0638297872340425,percent
+Hudson's Hope,2021,Housing_Percent_Change,3.260869565217391,percent
+Taylor,2021,Housing_Percent_Change,-3.0927835051546393,percent
+Fort St. John,2021,Housing_Percent_Change,-2.083333333333333,percent
+Elkford,2021,Labour_Percent_Change,2.2988505747126435,percent
+Sparwood,2021,Labour_Percent_Change,1.1363636363636365,percent
+Fernie,2021,Labour_Percent_Change,-1.1111111111111112,percent
+Cranbrook,2021,Labour_Percent_Change,0.0,percent
+Kimberley,2021,Labour_Percent_Change,0.0,percent
+Invermere,2021,Labour_Percent_Change,-1.098901098901099,percent
+Radium Hot Springs,2021,Labour_Percent_Change,-8.60215053763441,percent
+Canal Flats,2021,Labour_Percent_Change,-6.741573033707865,percent
+Creston,2021,Labour_Percent_Change,6.25,percent
+Salmo,2021,Labour_Percent_Change,5.194805194805195,percent
+Nelson,2021,Labour_Percent_Change,0.0,percent
+Kaslo,2021,Labour_Percent_Change,2.4096385542168677,percent
+New Denver,2021,Labour_Percent_Change,4.054054054054054,percent
+Castlegar,2021,Labour_Percent_Change,-1.1764705882352942,percent
+Nakusp,2021,Labour_Percent_Change,-2.3529411764705883,percent
+Fruitvale,2021,Labour_Percent_Change,4.819277108433735,percent
+Montrose,2021,Labour_Percent_Change,-2.3255813953488373,percent
+Trail,2021,Labour_Percent_Change,-2.3529411764705883,percent
+Warfield,2021,Labour_Percent_Change,-1.1363636363636365,percent
+Rossland,2021,Labour_Percent_Change,-1.1363636363636365,percent
+Grand Forks,2021,Labour_Percent_Change,3.6585365853658534,percent
+Midway,2021,Labour_Percent_Change,1.1627906976744187,percent
+Greenwood,2021,Labour_Percent_Change,-14.285714285714285,percent
+Osoyoos,2021,Labour_Percent_Change,2.4691358024691357,percent
+Keremeos,2021,Labour_Percent_Change,0.0,percent
+Oliver,2021,Labour_Percent_Change,3.6585365853658534,percent
+Princeton,2021,Labour_Percent_Change,1.2345679012345678,percent
+Summerland,2021,Labour_Percent_Change,-2.2988505747126435,percent
+Penticton,2021,Labour_Percent_Change,-1.1627906976744187,percent
+Hope,2021,Labour_Percent_Change,-2.4390243902439024,percent
+Chilliwack,2021,Labour_Percent_Change,-1.1363636363636365,percent
+Harrison Hot Springs,2021,Labour_Percent_Change,0.0,percent
+Kent,2021,Labour_Percent_Change,-3.4090909090909087,percent
+Abbotsford,2021,Labour_Percent_Change,-2.247191011235955,percent
+Mission,2021,Labour_Percent_Change,0.0,percent
+Langley Township,2021,Labour_Percent_Change,-1.1111111111111112,percent
+Langley City,2021,Labour_Percent_Change,-1.1235955056179776,percent
+Surrey,2021,Labour_Percent_Change,-1.1494252873563218,percent
+White Rock,2021,Labour_Percent_Change,-3.3707865168539324,percent
+Delta,2021,Labour_Percent_Change,-1.1235955056179776,percent
+Richmond,2021,Labour_Percent_Change,-2.3529411764705883,percent
+Vancouver,2021,Labour_Percent_Change,0.0,percent
+Burnaby,2021,Labour_Percent_Change,-1.1627906976744187,percent
+New Westminster,2021,Labour_Percent_Change,-1.1235955056179776,percent
+Coquitlam,2021,Labour_Percent_Change,-1.1494252873563218,percent
+Belcarra,2021,Labour_Percent_Change,-1.1111111111111112,percent
+Anmore,2021,Labour_Percent_Change,-8.60215053763441,percent
+Port Coquitlam,2021,Labour_Percent_Change,-1.1235955056179776,percent
+Port Moody,2021,Labour_Percent_Change,-1.1111111111111112,percent
+North Vancouver District,2021,Labour_Percent_Change,-1.1235955056179776,percent
+North Vancouver City,2021,Labour_Percent_Change,0.0,percent
+West Vancouver,2021,Labour_Percent_Change,-5.813953488372093,percent
+Bowen Island,2021,Labour_Percent_Change,-4.301075268817205,percent
+Lions Bay,2021,Labour_Percent_Change,1.1111111111111112,percent
+Pitt Meadows,2021,Labour_Percent_Change,-1.1111111111111112,percent
+Maple Ridge,2021,Labour_Percent_Change,-1.1235955056179776,percent
+North Saanich,2021,Labour_Percent_Change,0.0,percent
+Sidney,2021,Labour_Percent_Change,-1.1363636363636365,percent
+Central Saanich,2021,Labour_Percent_Change,-1.1111111111111112,percent
+Saanich,2021,Labour_Percent_Change,-2.247191011235955,percent
+Oak Bay,2021,Labour_Percent_Change,-2.247191011235955,percent
+Victoria,2021,Labour_Percent_Change,0.0,percent
+Esquimalt,2021,Labour_Percent_Change,-1.1363636363636365,percent
+Colwood,2021,Labour_Percent_Change,-1.1111111111111112,percent
+Metchosin,2021,Labour_Percent_Change,-2.2222222222222223,percent
+Langford,2021,Labour_Percent_Change,-1.098901098901099,percent
+View Royal,2021,Labour_Percent_Change,-1.1111111111111112,percent
+Highlands,2021,Labour_Percent_Change,-3.296703296703297,percent
+Sooke,2021,Labour_Percent_Change,-3.3707865168539324,percent
+North Cowichan,2021,Labour_Percent_Change,0.0,percent
+Duncan,2021,Labour_Percent_Change,0.0,percent
+Lake Cowichan,2021,Labour_Percent_Change,0.0,percent
+Ladysmith,2021,Labour_Percent_Change,0.0,percent
+Nanaimo,2021,Labour_Percent_Change,0.0,percent
+Lantzville,2021,Labour_Percent_Change,-1.1494252873563218,percent
+Parksville,2021,Labour_Percent_Change,3.7037037037037033,percent
+Qualicum Beach,2021,Labour_Percent_Change,1.25,percent
+Port Alberni,2021,Labour_Percent_Change,0.0,percent
+Ucluelet,2021,Labour_Percent_Change,-1.0869565217391304,percent
+Gold River,2021,Labour_Percent_Change,-2.3529411764705883,percent
+Campbell River,2021,Labour_Percent_Change,-1.1764705882352942,percent
+Sayward,2021,Labour_Percent_Change,5.47945205479452,percent
+Comox,2021,Labour_Percent_Change,1.1764705882352942,percent
+Courtenay,2021,Labour_Percent_Change,0.0,percent
+Cumberland,2021,Labour_Percent_Change,3.488372093023256,percent
+Powell River,2021,Labour_Percent_Change,-1.1904761904761905,percent
+Gibsons,2021,Labour_Percent_Change,2.380952380952381,percent
+Sechelt,2021,Labour_Percent_Change,0.0,percent
+Squamish,2021,Labour_Percent_Change,1.1111111111111112,percent
+Pemberton,2021,Labour_Percent_Change,-1.0638297872340425,percent
+Whistler,2021,Labour_Percent_Change,-7.526881720430108,percent
+Lillooet,2021,Labour_Percent_Change,-2.3529411764705883,percent
+Merritt,2021,Labour_Percent_Change,-4.705882352941177,percent
+Ashcroft,2021,Labour_Percent_Change,0.0,percent
+Cache Creek,2021,Labour_Percent_Change,-10.843373493975903,percent
+Clinton,2021,Labour_Percent_Change,-6.024096385542169,percent
+Logan Lake,2021,Labour_Percent_Change,-1.2195121951219512,percent
+Kamloops,2021,Labour_Percent_Change,-1.1363636363636365,percent
+Chase,2021,Labour_Percent_Change,-4.705882352941177,percent
+Kelowna,2021,Labour_Percent_Change,-1.1235955056179776,percent
+Lake Country,2021,Labour_Percent_Change,-2.247191011235955,percent
+Peachland,2021,Labour_Percent_Change,1.2195121951219512,percent
+Lumby,2021,Labour_Percent_Change,-1.1904761904761905,percent
+Coldstream,2021,Labour_Percent_Change,-1.1363636363636365,percent
+Vernon,2021,Labour_Percent_Change,-1.1627906976744187,percent
+Spallumcheen,2021,Labour_Percent_Change,-2.2988505747126435,percent
+Armstrong,2021,Labour_Percent_Change,2.3255813953488373,percent
+Enderby,2021,Labour_Percent_Change,-1.1904761904761905,percent
+Golden,2021,Labour_Percent_Change,0.0,percent
+Revelstoke,2021,Labour_Percent_Change,3.5294117647058822,percent
+Salmon Arm,2021,Labour_Percent_Change,0.0,percent
+Sicamous,2021,Labour_Percent_Change,-1.2195121951219512,percent
+One Hundred Mile House,2021,Labour_Percent_Change,-7.142857142857142,percent
+Williams Lake,2021,Labour_Percent_Change,-2.2988505747126435,percent
+Quesnel,2021,Labour_Percent_Change,-4.705882352941177,percent
+Alert Bay,2021,Labour_Percent_Change,-13.043478260869565,percent
+Port McNeill,2021,Labour_Percent_Change,-4.3478260869565215,percent
+Port Alice,2021,Labour_Percent_Change,-6.097560975609756,percent
+Port Hardy,2021,Labour_Percent_Change,-1.1764705882352942,percent
+Port Edward,2021,Labour_Percent_Change,8.536585365853659,percent
+Prince Rupert,2021,Labour_Percent_Change,2.380952380952381,percent
+Masset,2021,Labour_Percent_Change,-2.3255813953488373,percent
+Queen Charlotte,2021,Labour_Percent_Change,-4.395604395604396,percent
+Port Clements,2021,Labour_Percent_Change,-5.617977528089887,percent
+Kitimat,2021,Labour_Percent_Change,-1.1764705882352942,percent
+Terrace,2021,Labour_Percent_Change,1.1494252873563218,percent
+New Hazelton,2021,Labour_Percent_Change,2.5,percent
+Stewart,2021,Labour_Percent_Change,-13.186813186813188,percent
+Vanderhoof,2021,Labour_Percent_Change,-3.3707865168539324,percent
+Fraser Lake,2021,Labour_Percent_Change,-4.651162790697675,percent
+Fort St. James,2021,Labour_Percent_Change,-4.597701149425287,percent
+Burns Lake,2021,Labour_Percent_Change,2.380952380952381,percent
+Granisle,2021,Labour_Percent_Change,3.076923076923077,percent
+Houston,2021,Labour_Percent_Change,-2.2988505747126435,percent
+Telkwa,2021,Labour_Percent_Change,1.1627906976744187,percent
+Smithers,2021,Labour_Percent_Change,4.545454545454546,percent
+Valemount,2021,Labour_Percent_Change,-1.1235955056179776,percent
+McBride,2021,Labour_Percent_Change,-9.782608695652174,percent
+Prince George,2021,Labour_Percent_Change,-2.272727272727273,percent
+Mackenzie,2021,Labour_Percent_Change,-1.1494252873563218,percent
+Tumbler Ridge,2021,Labour_Percent_Change,-1.1494252873563218,percent
+Pouce Coupe,2021,Labour_Percent_Change,-6.896551724137931,percent
+Chetwynd,2021,Labour_Percent_Change,-5.555555555555555,percent
+Dawson Creek,2021,Labour_Percent_Change,-3.3707865168539324,percent
+Hudson's Hope,2021,Labour_Percent_Change,11.538461538461538,percent
+Taylor,2021,Labour_Percent_Change,-8.60215053763441,percent
+Fort St. John,2021,Labour_Percent_Change,-3.296703296703297,percent
+Elkford,2021,Population_Percent_Change,11.611855460820138,percent
+Sparwood,2021,Population_Percent_Change,14.6489773355445,percent
+Fernie,2021,Population_Percent_Change,49.869575527626274,percent
+Cranbrook,2021,Population_Percent_Change,12.218755132205617,percent
+Kimberley,2021,Population_Percent_Change,32.18765271216811,percent
+Invermere,2021,Population_Percent_Change,30.47968021319121,percent
+Radium Hot Springs,2021,Population_Percent_Change,82.17687074829932,percent
+Canal Flats,2021,Population_Percent_Change,14.571428571428571,percent
+Creston,2021,Population_Percent_Change,15.685868213841692,percent
+Salmo,2021,Population_Percent_Change,13.20754716981132,percent
+Nelson,2021,Population_Percent_Change,19.96111471160078,percent
+Kaslo,2021,Population_Percent_Change,-2.1455223880597014,percent
+New Denver,2021,Population_Percent_Change,-4.8828125,percent
+Castlegar,2021,Population_Percent_Change,14.864306378289022,percent
+Nakusp,2021,Population_Percent_Change,4.2650918635170605,percent
+Fruitvale,2021,Population_Percent_Change,0.3073770491803279,percent
+Montrose,2021,Population_Percent_Change,0.09881422924901186,percent
+Trail,2021,Population_Percent_Change,9.43761227027774,percent
+Warfield,2021,Population_Percent_Change,1.3880855986119145,percent
+Rossland,2021,Population_Percent_Change,26.296522269676633,percent
+Grand Forks,2021,Population_Percent_Change,1.8830525272547076,percent
+Midway,2021,Population_Percent_Change,4.830917874396135,percent
+Greenwood,2021,Population_Percent_Change,12.32,percent
+Osoyoos,2021,Population_Percent_Change,16.91919191919192,percent
+Keremeos,2021,Population_Percent_Change,24.74786656322731,percent
+Oliver,2021,Population_Percent_Change,16.5675057208238,percent
+Princeton,2021,Population_Percent_Change,8.106088905491221,percent
+Summerland,2021,Population_Percent_Change,11.211673439231621,percent
+Penticton,2021,Population_Percent_Change,15.59434642263938,percent
+Hope,2021,Population_Percent_Change,8.100242522231206,percent
+Chilliwack,2021,Population_Percent_Change,34.653336608058716,percent
+Harrison Hot Springs,2021,Population_Percent_Change,21.106166560712015,percent
+Kent,2021,Population_Percent_Change,32.967496834107216,percent
+Abbotsford,2021,Population_Percent_Change,23.94561777433314,percent
+Mission,2021,Population_Percent_Change,20.327488769743514,percent
+Langley Township,2021,Population_Percent_Change,41.47941873119518,percent
+Langley City,2021,Population_Percent_Change,22.693383038210623,percent
+Surrey,2021,Population_Percent_Change,43.88772988738556,percent
+White Rock,2021,Population_Percent_Change,16.976806185017328,percent
+Delta,2021,Population_Percent_Change,12.129483163260032,percent
+Richmond,2021,Population_Percent_Change,20.33463066244032,percent
+Vancouver,2021,Population_Percent_Change,14.567651775566093,percent
+Burnaby,2021,Population_Percent_Change,22.843307905857525,percent
+New Westminster,2021,Population_Percent_Change,34.78624741669371,percent
+Coquitlam,2021,Population_Percent_Change,29.72984768472046,percent
+Belcarra,2021,Population_Percent_Change,1.6272189349112427,percent
+Anmore,2021,Population_Percent_Change,31.98879551820728,percent
+Port Coquitlam,2021,Population_Percent_Change,16.72329037523488,percent
+Port Moody,2021,Population_Percent_Change,21.892265193370168,percent
+North Vancouver District,2021,Population_Percent_Change,6.790048690680943,percent
+North Vancouver City,2021,Population_Percent_Change,28.683715266245986,percent
+West Vancouver,2021,Population_Percent_Change,4.725736393629394,percent
+Bowen Island,2021,Population_Percent_Change,26.591314693634743,percent
+Lions Bay,2021,Population_Percent_Change,4.66867469879518,percent
+Pitt Meadows,2021,Population_Percent_Change,22.550086411060615,percent
+Maple Ridge,2021,Population_Percent_Change,31.9671061219162,percent
+North Saanich,2021,Population_Percent_Change,13.046290307678094,percent
+Sidney,2021,Population_Percent_Change,8.864339372514362,percent
+Central Saanich,2021,Population_Percent_Change,10.416005080978088,percent
+Saanich,2021,Population_Percent_Change,8.747055835219138,percent
+Oak Bay,2021,Population_Percent_Change,0.457895912441367,percent
+Victoria,2021,Population_Percent_Change,17.692199290262245,percent
+Esquimalt,2021,Population_Percent_Change,4.11520190023753,percent
+Colwood,2021,Population_Percent_Change,29.100565125621298,percent
+Metchosin,2021,Population_Percent_Change,5.672575599582899,percent
+Langford,2021,Population_Percent_Change,107.4179616189501,percent
+View Royal,2021,Population_Percent_Change,32.01414233576642,percent
+Highlands,2021,Population_Percent_Change,30.425643720441407,percent
+Sooke,2021,Population_Percent_Change,55.46166529266282,percent
+North Cowichan,2021,Population_Percent_Change,16.086656747831768,percent
+Duncan,2021,Population_Percent_Change,1.2234255916566386,percent
+Lake Cowichan,2021,Population_Percent_Change,12.788331071913161,percent
+Ladysmith,2021,Population_Percent_Change,19.262403820642078,percent
+Nanaimo,2021,Population_Percent_Change,26.903624256595332,percent
+Lantzville,2021,Population_Percent_Change,4.261130838568697,percent
+Parksville,2021,Population_Percent_Change,24.09715273355772,percent
+Qualicum Beach,2021,Population_Percent_Change,9.421312632321808,percent
+Port Alberni,2021,Population_Percent_Change,4.051743788465922,percent
+Ucluelet,2021,Population_Percent_Change,38.93745796906523,percent
+Gold River,2021,Population_Percent_Change,-8.516886930983848,percent
+Campbell River,2021,Population_Percent_Change,20.110239415663468,percent
+Sayward,2021,Population_Percent_Change,-2.0527859237536656,percent
+Comox,2021,Population_Percent_Change,22.000659195781147,percent
+Courtenay,2021,Population_Percent_Change,29.535095715587968,percent
+Cumberland,2021,Population_Percent_Change,61.00651701665459,percent
+Powell River,2021,Population_Percent_Change,7.60978621594505,percent
+Gibsons,2021,Population_Percent_Change,13.773314203730273,percent
+Sechelt,2021,Population_Percent_Change,28.306127277028626,percent
+Squamish,2021,Population_Percent_Change,59.335072580105695,percent
+Pemberton,2021,Population_Percent_Change,55.42883211678832,percent
+Whistler,2021,Population_Percent_Change,51.18944636678201,percent
+Lillooet,2021,Population_Percent_Change,-0.9466437177280551,percent
+Merritt,2021,Population_Percent_Change,0.7573592454987139,percent
+Ashcroft,2021,Population_Percent_Change,0.3605769230769231,percent
+Cache Creek,2021,Population_Percent_Change,-6.557377049180328,percent
+Clinton,2021,Population_Percent_Change,-1.7301038062283738,percent
+Logan Lake,2021,Population_Percent_Change,4.301572617946346,percent
+Kamloops,2021,Population_Percent_Change,21.80501642281278,percent
+Chase,2021,Population_Percent_Change,-0.4151100041511001,percent
+Kelowna,2021,Population_Percent_Change,35.48876830948298,percent
+Lake Country,2021,Population_Percent_Change,64.65750572558817,percent
+Peachland,2021,Population_Percent_Change,18.554167519967233,percent
+Lumby,2021,Population_Percent_Change,26.254589963280296,percent
+Coldstream,2021,Population_Percent_Change,17.949530144652094,percent
+Vernon,2021,Population_Percent_Change,23.85655464055197,percent
+Spallumcheen,2021,Population_Percent_Change,6.995967741935484,percent
+Armstrong,2021,Population_Percent_Change,25.51285074274935,percent
+Enderby,2021,Population_Percent_Change,7.072135785007072,percent
+Golden,2021,Population_Percent_Change,4.591970611388088,percent
+Revelstoke,2021,Population_Percent_Change,14.453665283540804,percent
+Salmon Arm,2021,Population_Percent_Change,21.35898076442668,percent
+Sicamous,2021,Population_Percent_Change,-2.3542600896860986,percent
+One Hundred Mile House,2021,Population_Percent_Change,2.2811671087533156,percent
+Williams Lake,2021,Population_Percent_Change,1.8894266567386446,percent
+Quesnel,2021,Population_Percent_Change,6.036886124812352,percent
+Alert Bay,2021,Population_Percent_Change,-19.244604316546763,percent
+Port McNeill,2021,Population_Percent_Change,-10.17918414029737,percent
+Port Alice,2021,Population_Percent_Change,-9.987819732034104,percent
+Port Hardy,2021,Population_Percent_Change,2.0931449502878072,percent
+Port Edward,2021,Population_Percent_Change,-18.544194107452338,percent
+Prince Rupert,2021,Population_Percent_Change,-4.0187280530628176,percent
+Masset,2021,Population_Percent_Change,-10.851063829787234,percent
+Queen Charlotte,2021,Population_Percent_Change,1.6877637130801686,percent
+Port Clements,2021,Population_Percent_Change,-22.727272727272727,percent
+Kitimat,2021,Population_Percent_Change,-8.35651496606209,percent
+Terrace,2021,Population_Percent_Change,6.157243816254417,percent
+New Hazelton,2021,Population_Percent_Change,-3.9872408293460926,percent
+Stewart,2021,Population_Percent_Change,4.233870967741935,percent
+Vanderhoof,2021,Population_Percent_Change,6.9389763779527565,percent
+Fraser Lake,2021,Population_Percent_Change,-13.2973944294699,percent
+Fort St. James,2021,Population_Percent_Change,2.2878228782287824,percent
+Burns Lake,2021,Population_Percent_Change,-21.262458471760798,percent
+Granisle,2021,Population_Percent_Change,-7.417582417582418,percent
+Houston,2021,Population_Percent_Change,-3.509326588681631,percent
+Telkwa,2021,Population_Percent_Change,13.822393822393822,percent
+Smithers,2021,Population_Percent_Change,3.086064788192448,percent
+Valemount,2021,Population_Percent_Change,3.3398821218074657,percent
+McBride,2021,Population_Percent_Change,-10.909090909090908,percent
+Prince George,2021,Population_Percent_Change,8.068356320705542,percent
+Mackenzie,2021,Population_Percent_Change,-27.715355805243448,percent
+Tumbler Ridge,2021,Population_Percent_Change,-2.2412387938060307,percent
+Pouce Coupe,2021,Population_Percent_Change,3.1123139377537212,percent
+Chetwynd,2021,Population_Percent_Change,-12.571211545765287,percent
+Dawson Creek,2021,Population_Percent_Change,12.0884118610151,percent
+Hudson's Hope,2021,Population_Percent_Change,-16.897233201581027,percent
+Taylor,2021,Population_Percent_Change,-4.841040462427745,percent
+Fort St. John,2021,Population_Percent_Change,23.34789104700609,percent

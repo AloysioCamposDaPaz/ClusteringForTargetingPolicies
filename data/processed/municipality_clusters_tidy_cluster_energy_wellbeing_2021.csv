@@ -1,0 +1,148 @@
+Municipality_Name,Year,Metric,Value,Unit
+Abbotsford,2021,cluster_energy_wellbeing,2,cluster_number
+Alert Bay,2021,cluster_energy_wellbeing,1,cluster_number
+Anmore,2021,cluster_energy_wellbeing,2,cluster_number
+Armstrong,2021,cluster_energy_wellbeing,2,cluster_number
+Ashcroft,2021,cluster_energy_wellbeing,1,cluster_number
+Belcarra,2021,cluster_energy_wellbeing,2,cluster_number
+Bowen Island,2021,cluster_energy_wellbeing,2,cluster_number
+Burnaby,2021,cluster_energy_wellbeing,2,cluster_number
+Burns Lake,2021,cluster_energy_wellbeing,1,cluster_number
+Cache Creek,2021,cluster_energy_wellbeing,1,cluster_number
+Campbell River,2021,cluster_energy_wellbeing,2,cluster_number
+Canal Flats,2021,cluster_energy_wellbeing,1,cluster_number
+Castlegar,2021,cluster_energy_wellbeing,2,cluster_number
+Central Saanich,2021,cluster_energy_wellbeing,2,cluster_number
+Chase,2021,cluster_energy_wellbeing,1,cluster_number
+Chetwynd,2021,cluster_energy_wellbeing,1,cluster_number
+Chilliwack,2021,cluster_energy_wellbeing,2,cluster_number
+Clinton,2021,cluster_energy_wellbeing,1,cluster_number
+Coldstream,2021,cluster_energy_wellbeing,2,cluster_number
+Colwood,2021,cluster_energy_wellbeing,2,cluster_number
+Comox,2021,cluster_energy_wellbeing,2,cluster_number
+Coquitlam,2021,cluster_energy_wellbeing,2,cluster_number
+Courtenay,2021,cluster_energy_wellbeing,2,cluster_number
+Cranbrook,2021,cluster_energy_wellbeing,2,cluster_number
+Creston,2021,cluster_energy_wellbeing,2,cluster_number
+Cumberland,2021,cluster_energy_wellbeing,2,cluster_number
+Dawson Creek,2021,cluster_energy_wellbeing,1,cluster_number
+Delta,2021,cluster_energy_wellbeing,2,cluster_number
+Duncan,2021,cluster_energy_wellbeing,2,cluster_number
+Elkford,2021,cluster_energy_wellbeing,2,cluster_number
+Enderby,2021,cluster_energy_wellbeing,1,cluster_number
+Esquimalt,2021,cluster_energy_wellbeing,2,cluster_number
+Fernie,2021,cluster_energy_wellbeing,2,cluster_number
+Fort St. James,2021,cluster_energy_wellbeing,1,cluster_number
+Fort St. John,2021,cluster_energy_wellbeing,1,cluster_number
+Fraser Lake,2021,cluster_energy_wellbeing,1,cluster_number
+Fruitvale,2021,cluster_energy_wellbeing,2,cluster_number
+Gibsons,2021,cluster_energy_wellbeing,2,cluster_number
+Gold River,2021,cluster_energy_wellbeing,1,cluster_number
+Golden,2021,cluster_energy_wellbeing,1,cluster_number
+Grand Forks,2021,cluster_energy_wellbeing,1,cluster_number
+Granisle,2021,cluster_energy_wellbeing,1,cluster_number
+Greenwood,2021,cluster_energy_wellbeing,1,cluster_number
+Harrison Hot Springs,2021,cluster_energy_wellbeing,2,cluster_number
+Highlands,2021,cluster_energy_wellbeing,2,cluster_number
+Hope,2021,cluster_energy_wellbeing,2,cluster_number
+Houston,2021,cluster_energy_wellbeing,1,cluster_number
+Hudson's Hope,2021,cluster_energy_wellbeing,1,cluster_number
+Invermere,2021,cluster_energy_wellbeing,1,cluster_number
+Kamloops,2021,cluster_energy_wellbeing,2,cluster_number
+Kaslo,2021,cluster_energy_wellbeing,1,cluster_number
+Kelowna,2021,cluster_energy_wellbeing,2,cluster_number
+Kent,2021,cluster_energy_wellbeing,2,cluster_number
+Keremeos,2021,cluster_energy_wellbeing,1,cluster_number
+Kimberley,2021,cluster_energy_wellbeing,2,cluster_number
+Kitimat,2021,cluster_energy_wellbeing,1,cluster_number
+Ladysmith,2021,cluster_energy_wellbeing,2,cluster_number
+Lake Country,2021,cluster_energy_wellbeing,2,cluster_number
+Lake Cowichan,2021,cluster_energy_wellbeing,1,cluster_number
+Langford,2021,cluster_energy_wellbeing,2,cluster_number
+Langley City,2021,cluster_energy_wellbeing,2,cluster_number
+Langley Township,2021,cluster_energy_wellbeing,2,cluster_number
+Lantzville,2021,cluster_energy_wellbeing,2,cluster_number
+Lillooet,2021,cluster_energy_wellbeing,1,cluster_number
+Lions Bay,2021,cluster_energy_wellbeing,2,cluster_number
+Logan Lake,2021,cluster_energy_wellbeing,2,cluster_number
+Lumby,2021,cluster_energy_wellbeing,1,cluster_number
+Mackenzie,2021,cluster_energy_wellbeing,1,cluster_number
+Maple Ridge,2021,cluster_energy_wellbeing,2,cluster_number
+Masset,2021,cluster_energy_wellbeing,1,cluster_number
+McBride,2021,cluster_energy_wellbeing,1,cluster_number
+Merritt,2021,cluster_energy_wellbeing,1,cluster_number
+Metchosin,2021,cluster_energy_wellbeing,2,cluster_number
+Midway,2021,cluster_energy_wellbeing,1,cluster_number
+Mission,2021,cluster_energy_wellbeing,2,cluster_number
+Montrose,2021,cluster_energy_wellbeing,2,cluster_number
+Nakusp,2021,cluster_energy_wellbeing,1,cluster_number
+Nanaimo,2021,cluster_energy_wellbeing,2,cluster_number
+Nelson,2021,cluster_energy_wellbeing,2,cluster_number
+New Denver,2021,cluster_energy_wellbeing,1,cluster_number
+New Hazelton,2021,cluster_energy_wellbeing,1,cluster_number
+New Westminster,2021,cluster_energy_wellbeing,2,cluster_number
+North Cowichan,2021,cluster_energy_wellbeing,2,cluster_number
+North Saanich,2021,cluster_energy_wellbeing,2,cluster_number
+North Vancouver City,2021,cluster_energy_wellbeing,2,cluster_number
+North Vancouver District,2021,cluster_energy_wellbeing,2,cluster_number
+Oak Bay,2021,cluster_energy_wellbeing,2,cluster_number
+Oliver,2021,cluster_energy_wellbeing,2,cluster_number
+One Hundred Mile House,2021,cluster_energy_wellbeing,1,cluster_number
+Osoyoos,2021,cluster_energy_wellbeing,2,cluster_number
+Parksville,2021,cluster_energy_wellbeing,2,cluster_number
+Peachland,2021,cluster_energy_wellbeing,2,cluster_number
+Pemberton,2021,cluster_energy_wellbeing,2,cluster_number
+Penticton,2021,cluster_energy_wellbeing,2,cluster_number
+Pitt Meadows,2021,cluster_energy_wellbeing,2,cluster_number
+Port Alberni,2021,cluster_energy_wellbeing,2,cluster_number
+Port Alice,2021,cluster_energy_wellbeing,1,cluster_number
+Port Clements,2021,cluster_energy_wellbeing,1,cluster_number
+Port Coquitlam,2021,cluster_energy_wellbeing,2,cluster_number
+Port Edward,2021,cluster_energy_wellbeing,1,cluster_number
+Port Hardy,2021,cluster_energy_wellbeing,1,cluster_number
+Port McNeill,2021,cluster_energy_wellbeing,1,cluster_number
+Port Moody,2021,cluster_energy_wellbeing,2,cluster_number
+Pouce Coupe,2021,cluster_energy_wellbeing,1,cluster_number
+Powell River,2021,cluster_energy_wellbeing,1,cluster_number
+Prince George,2021,cluster_energy_wellbeing,2,cluster_number
+Prince Rupert,2021,cluster_energy_wellbeing,1,cluster_number
+Princeton,2021,cluster_energy_wellbeing,1,cluster_number
+Qualicum Beach,2021,cluster_energy_wellbeing,2,cluster_number
+Queen Charlotte,2021,cluster_energy_wellbeing,1,cluster_number
+Quesnel,2021,cluster_energy_wellbeing,1,cluster_number
+Radium Hot Springs,2021,cluster_energy_wellbeing,2,cluster_number
+Revelstoke,2021,cluster_energy_wellbeing,2,cluster_number
+Richmond,2021,cluster_energy_wellbeing,2,cluster_number
+Rossland,2021,cluster_energy_wellbeing,2,cluster_number
+Saanich,2021,cluster_energy_wellbeing,2,cluster_number
+Salmo,2021,cluster_energy_wellbeing,1,cluster_number
+Salmon Arm,2021,cluster_energy_wellbeing,2,cluster_number
+Sayward,2021,cluster_energy_wellbeing,1,cluster_number
+Sechelt,2021,cluster_energy_wellbeing,2,cluster_number
+Sicamous,2021,cluster_energy_wellbeing,1,cluster_number
+Sidney,2021,cluster_energy_wellbeing,2,cluster_number
+Smithers,2021,cluster_energy_wellbeing,1,cluster_number
+Sooke,2021,cluster_energy_wellbeing,2,cluster_number
+Spallumcheen,2021,cluster_energy_wellbeing,1,cluster_number
+Sparwood,2021,cluster_energy_wellbeing,2,cluster_number
+Squamish,2021,cluster_energy_wellbeing,2,cluster_number
+Stewart,2021,cluster_energy_wellbeing,1,cluster_number
+Summerland,2021,cluster_energy_wellbeing,2,cluster_number
+Surrey,2021,cluster_energy_wellbeing,2,cluster_number
+Taylor,2021,cluster_energy_wellbeing,1,cluster_number
+Telkwa,2021,cluster_energy_wellbeing,1,cluster_number
+Terrace,2021,cluster_energy_wellbeing,1,cluster_number
+Trail,2021,cluster_energy_wellbeing,1,cluster_number
+Tumbler Ridge,2021,cluster_energy_wellbeing,1,cluster_number
+Ucluelet,2021,cluster_energy_wellbeing,2,cluster_number
+Valemount,2021,cluster_energy_wellbeing,1,cluster_number
+Vancouver,2021,cluster_energy_wellbeing,2,cluster_number
+Vanderhoof,2021,cluster_energy_wellbeing,1,cluster_number
+Vernon,2021,cluster_energy_wellbeing,2,cluster_number
+Victoria,2021,cluster_energy_wellbeing,2,cluster_number
+View Royal,2021,cluster_energy_wellbeing,2,cluster_number
+Warfield,2021,cluster_energy_wellbeing,2,cluster_number
+West Vancouver,2021,cluster_energy_wellbeing,2,cluster_number
+Whistler,2021,cluster_energy_wellbeing,2,cluster_number
+White Rock,2021,cluster_energy_wellbeing,2,cluster_number
+Williams Lake,2021,cluster_energy_wellbeing,1,cluster_number
