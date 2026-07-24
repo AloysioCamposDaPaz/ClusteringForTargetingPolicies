@@ -27,7 +27,7 @@ Creston,2021,cluster_energy_wellbeing,2,cluster_number
 Cumberland,2021,cluster_energy_wellbeing,2,cluster_number
 Dawson Creek,2021,cluster_energy_wellbeing,1,cluster_number
 Delta,2021,cluster_energy_wellbeing,2,cluster_number
-Duncan,2021,cluster_energy_wellbeing,2,cluster_number
+Duncan,2021,cluster_energy_wellbeing,1,cluster_number
 Elkford,2021,cluster_energy_wellbeing,2,cluster_number
 Enderby,2021,cluster_energy_wellbeing,1,cluster_number
 Esquimalt,2021,cluster_energy_wellbeing,2,cluster_number
@@ -44,10 +44,10 @@ Granisle,2021,cluster_energy_wellbeing,1,cluster_number
 Greenwood,2021,cluster_energy_wellbeing,1,cluster_number
 Harrison Hot Springs,2021,cluster_energy_wellbeing,2,cluster_number
 Highlands,2021,cluster_energy_wellbeing,2,cluster_number
-Hope,2021,cluster_energy_wellbeing,2,cluster_number
+Hope,2021,cluster_energy_wellbeing,1,cluster_number
 Houston,2021,cluster_energy_wellbeing,1,cluster_number
 Hudson's Hope,2021,cluster_energy_wellbeing,1,cluster_number
-Invermere,2021,cluster_energy_wellbeing,1,cluster_number
+Invermere,2021,cluster_energy_wellbeing,2,cluster_number
 Kamloops,2021,cluster_energy_wellbeing,2,cluster_number
 Kaslo,2021,cluster_energy_wellbeing,1,cluster_number
 Kelowna,2021,cluster_energy_wellbeing,2,cluster_number
@@ -64,7 +64,7 @@ Langley Township,2021,cluster_energy_wellbeing,2,cluster_number
 Lantzville,2021,cluster_energy_wellbeing,2,cluster_number
 Lillooet,2021,cluster_energy_wellbeing,1,cluster_number
 Lions Bay,2021,cluster_energy_wellbeing,2,cluster_number
-Logan Lake,2021,cluster_energy_wellbeing,2,cluster_number
+Logan Lake,2021,cluster_energy_wellbeing,1,cluster_number
 Lumby,2021,cluster_energy_wellbeing,1,cluster_number
 Mackenzie,2021,cluster_energy_wellbeing,1,cluster_number
 Maple Ridge,2021,cluster_energy_wellbeing,2,cluster_number
@@ -74,7 +74,7 @@ Merritt,2021,cluster_energy_wellbeing,1,cluster_number
 Metchosin,2021,cluster_energy_wellbeing,2,cluster_number
 Midway,2021,cluster_energy_wellbeing,1,cluster_number
 Mission,2021,cluster_energy_wellbeing,2,cluster_number
-Montrose,2021,cluster_energy_wellbeing,2,cluster_number
+Montrose,2021,cluster_energy_wellbeing,1,cluster_number
 Nakusp,2021,cluster_energy_wellbeing,1,cluster_number
 Nanaimo,2021,cluster_energy_wellbeing,2,cluster_number
 Nelson,2021,cluster_energy_wellbeing,2,cluster_number
@@ -86,7 +86,7 @@ North Saanich,2021,cluster_energy_wellbeing,2,cluster_number
 North Vancouver City,2021,cluster_energy_wellbeing,2,cluster_number
 North Vancouver District,2021,cluster_energy_wellbeing,2,cluster_number
 Oak Bay,2021,cluster_energy_wellbeing,2,cluster_number
-Oliver,2021,cluster_energy_wellbeing,2,cluster_number
+Oliver,2021,cluster_energy_wellbeing,1,cluster_number
 One Hundred Mile House,2021,cluster_energy_wellbeing,1,cluster_number
 Osoyoos,2021,cluster_energy_wellbeing,2,cluster_number
 Parksville,2021,cluster_energy_wellbeing,2,cluster_number
@@ -94,7 +94,7 @@ Peachland,2021,cluster_energy_wellbeing,2,cluster_number
 Pemberton,2021,cluster_energy_wellbeing,2,cluster_number
 Penticton,2021,cluster_energy_wellbeing,2,cluster_number
 Pitt Meadows,2021,cluster_energy_wellbeing,2,cluster_number
-Port Alberni,2021,cluster_energy_wellbeing,2,cluster_number
+Port Alberni,2021,cluster_energy_wellbeing,1,cluster_number
 Port Alice,2021,cluster_energy_wellbeing,1,cluster_number
 Port Clements,2021,cluster_energy_wellbeing,1,cluster_number
 Port Coquitlam,2021,cluster_energy_wellbeing,2,cluster_number
@@ -121,9 +121,9 @@ Sayward,2021,cluster_energy_wellbeing,1,cluster_number
 Sechelt,2021,cluster_energy_wellbeing,2,cluster_number
 Sicamous,2021,cluster_energy_wellbeing,1,cluster_number
 Sidney,2021,cluster_energy_wellbeing,2,cluster_number
-Smithers,2021,cluster_energy_wellbeing,1,cluster_number
+Smithers,2021,cluster_energy_wellbeing,2,cluster_number
 Sooke,2021,cluster_energy_wellbeing,2,cluster_number
-Spallumcheen,2021,cluster_energy_wellbeing,1,cluster_number
+Spallumcheen,2021,cluster_energy_wellbeing,2,cluster_number
 Sparwood,2021,cluster_energy_wellbeing,2,cluster_number
 Squamish,2021,cluster_energy_wellbeing,2,cluster_number
 Stewart,2021,cluster_energy_wellbeing,1,cluster_number
